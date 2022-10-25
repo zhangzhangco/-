@@ -1,5 +1,15 @@
 [
   {
+    "groupId": "国家电影局",
+    "groupLink": "https://www.chinafilm.gov.cn/",
+    "groupName": "国家电影局",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
     "groupId": "ampas-stc-aces",
     "groupLink": "https://acescentral.com/working-groups/#active-working-groups/",
     "groupName": "Science and Technology Council Academy Color Encoding System (ACES) Project Committee",

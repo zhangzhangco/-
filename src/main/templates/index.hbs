@@ -6,17 +6,18 @@
       <thead class="thead-light">
         <tr>
           <th scope="col" class="d-none"></th>
-          <th scope="col">Label</th>
-          <th scope="col">Publisher</th>
-          <th scope="col">Group</th>
+          <th scope="col">代号</th>
+          <th scope="col">发布</th>
+          <th scope="col">归口</th>
           <th scope="col" class="cleanFilter d-none"></th>
-          <th scope="col" class="text-nowrap">Doc Type</th>
-          <th scope="col">Keywords</th>
-          <th scope="col">Status</th>
-          <th scope="col" class="col-3">Title/Details</th>
+          <th scope="col" class="text-nowrap">文件类型</th>
+          <th scope="col">关键字</th>
+          <th scope="col">状态</th>
+          <th scope="col" class="col-3">名称/详情</th>
           <th scope="col" class="d-none"></th>
-          <th scope="col" class="text-nowrap">Normative Reference(s)</th>
-          <th scope="col" class="text-nowrap">Bibliographic Reference(s)</th>
+          <th scope="col" class="text-nowrap">采标</th>
+          <th scope="col" class="text-nowrap">规范性引用文件</th>
+          <th scope="col" class="text-nowrap">参考文献</th>
         </tr>
       </thead>
       <tbody id="searchTable">
@@ -68,20 +69,20 @@
               </div>
             {{/if}}
             {{#status/draft}}
-              <span class="label badge badge-warning">[ DRAFT ]</span><br> 
+              <span class="label badge badge-warning">[ 草案 ]</span><br> 
             {{/status/draft}}
             {{#status/publicCd}}
-              <span class="label badge badge-success">[ PUBLIC CD ]</span><br>  
+              <span class="label badge badge-success">[ 征求意见 ]</span><br>  
             {{/status/publicCd}}
             {{#status/active}}
-              <span class="label badge badge-success">[ ACTIVE ]</span><br>  
+              <span class="label badge badge-success">[ 有效 ]</span><br>  
             {{/status/active}}
             {{#status/amended}}
-              <span class="label badge badge-secondary">[ AMENDED ]</span><br>
+              <span class="label badge badge-secondary">[ 已修订 ]</span><br>
             {{/status/amended}}
             {{#if status/amendedBy}}
               <div class="border-left p-1">
-                <span class="font-weight-bold small">Amended by:</span>
+                <span class="font-weight-bold small">修订人:</span>
                 <ul class="list-group list-group-flush">
               {{#status/amendedBy}}
                   <li class="list-group-item">
@@ -122,20 +123,20 @@
               <div class="row p-2">
                 <div class="col">
                   <div class="pb-2">
-                    <span class="font-weight-bold small">Current Status:</span> {{currentStatus}} {{{getstatusButton docId "12"}}}
+                    <span class="font-weight-bold small">当前状态：</span> {{currentStatus}} {{{getstatusButton docId "12"}}}
                     {{#if status/statusNote}}<br><span class="small"><em> *({{status/statusNote}})</em></span>{{/if}}
                     {{#with (docProjLookup ../docProjs docId)}}
                     {{#ifnoteq projectStatus "Complete"}}
                     <br>
-                    <span class="label badge badge-warning text-uppercase">{{workType}} {{projectStatus}}{{#ifnoteq projectStatus "Open"}}, Project {{#if projApproved}}Approved{{/if}}{{/ifnoteq}}{{#unless projApproved}}Pending{{/unless}}</span>
+                    <span class="label badge badge-warning text-uppercase">{{workType}} {{projectStatus}}{{#ifnoteq projectStatus "Open"}}, 项目 {{#if projApproved}}已批准{{/if}}{{/ifnoteq}}{{#unless projApproved}}未决{{/unless}}</span>
                     {{#if newDoc}}
-                    <br><span class="small">Under Development: <a class="{{../idType}}-link clear-filter" href="#{{newDoc}}">{{getLabel newDoc}}</a> [{{getStatus newDoc}}]</span>
+                    <br><span class="small">在研： <a class="{{../idType}}-link clear-filter" href="#{{newDoc}}">{{getLabel newDoc}}</a> [{{getStatus newDoc}}]</span>
                     {{/if}}
                     {{/ifnoteq}}
                     {{/with}}
                   {{#if details}}
                     <div>
-                      <span class="font-weight-bold small">Details:</span> <em>{{details}}</em>
+                      <span class="font-weight-bold small">详情：</span> <em>{{details}}</em>
                     </div>
                   {{/if}}
                   </div>
@@ -145,31 +146,31 @@
                     <br>
                     {{/if}}
                     {{#if authors}}
-                    <span class="font-weight-bold small">Author(s):</span> {{#authors}}{{this}}{{#unless @last}}, {{/unless}}{{/authors}}
+                    <span class="font-weight-bold small">起草人：</span> {{#authors}}{{this}}{{#unless @last}}, {{/unless}}{{/authors}}
                     <br>
                     {{/if}}
                     {{#if status/withdrawnDate}}
-                    <span class="font-weight-bold small">Withdrawn Date:</span> {{status/withdrawnDate}}
+                    <span class="font-weight-bold small">废止日期：</span> {{status/withdrawnDate}}
                     <br>
                     {{/if}}
                     {{#if status/stabilizedDate}}
-                    <span class="font-weight-bold small">Stabilized Date:</span> {{status/stabilizedDate}}
+                    <span class="font-weight-bold small">稳定日期：</span> {{status/stabilizedDate}}
                     <br>
                     {{/if}}
                     {{#if status/reaffirmDate}}
-                    <span class="font-weight-bold small">Reaffirmed Date:</span> {{status/reaffirmDate}}
+                    <span class="font-weight-bold small">复审日期：</span> {{status/reaffirmDate}}
                     <br>
                     {{/if}}
                     {{#if status/supersededDate}}
-                    <span class="font-weight-bold small">Superseded Date:</span> {{status/supersededDate}}
+                    <span class="font-weight-bold small">代替日期：</span> {{status/supersededDate}}
                     <br>
                     {{/if}}
                     {{#if status/amendedDate}}
-                    <span class="font-weight-bold small">Amended Date:</span> {{status/amendedDate}}
+                    <span class="font-weight-bold small">修订日期：</span> {{status/amendedDate}}
                     <br>
                     {{/if}}
                     {{#if publicationDate}}
-                    <span class="font-weight-bold small">Publication Date:</span> {{publicationDate}}
+                    <span class="font-weight-bold small">发布日期：</span> {{publicationDate}}
                     <br>
                     {{/if}}
                     {{#if repo}}
@@ -339,6 +340,9 @@
             {{#currentWork}}
             <span class="text-nowrap">{{this}}</span>{{#unless @last}}<br>{{/unless}}
             {{/currentWork}}
+          </td>
+          <td class="adoption">
+            {{adoption}}
           </td>
           <td class="p-1">
             {{#if references/normative}}

@@ -31,7 +31,7 @@ const registries = [
     "templateType": "documents",
     "templateName": "index",
     "idType": "document",
-    "listTitle": "Documents",
+    "listTitle": "文件",
     "subRegistry": [
       "groups",
       "projects"
@@ -42,7 +42,7 @@ const registries = [
     "templateType": "projects",
     "templateName": "projects",
     "idType": "project",
-    "listTitle": "Projects",
+    "listTitle": "项目",
     "subRegistry": [
       "groups",
       "documents"
@@ -53,7 +53,7 @@ const registries = [
     "templateType": "groups",
     "templateName": "groups",
     "idType": "group",
-    "listTitle": "Groups",
+    "listTitle": "组织",
     "subRegistry": [
       "projects",
       "documents"

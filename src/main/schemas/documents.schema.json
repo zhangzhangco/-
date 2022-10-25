@@ -55,6 +55,7 @@
                     "docType": {
                         "type": "string",
                         "enum": [
+                            "行业标准",
                             "Best Practice",
                             "Book",
                             "Directive",

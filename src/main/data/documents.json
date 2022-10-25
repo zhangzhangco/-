@@ -1,5 +1,18 @@
 [
   {
+    "docId": "dyt-1-2020",
+    "docLabel": "DY/T-1-2020",
+    "docTitle": "数字影院立体放映技术要求和测量方法",
+    "docType": "行业标准",
+    "href": "file:///I:/WPSDrive/259626762/WPS网盘/标准研究室/标准处文件共享/文献资料/标准电子版归档/2%20电影行业标准/DYT%201-2020_数字影院立体放映技术要求和测量方法.pdf",
+    "publicationDate": "2020-09-01T00:00:00.000Z",
+    "publisher": "国家电影局",
+    "group": "国家电影局",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "docId": "aaf",
     "docLabel": "Advanced Authoring Format",
     "docTitle": "Advanced Authoring Format (AAF) Edit Protocol ",
