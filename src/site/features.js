@@ -409,7 +409,7 @@ $(document).ready(function() {
           }, 
           layout: 'columns-6',
           viewTotal: true,
-          columns: [2, 4, 5, 6, 7, 9]
+          columns: [2, 4, 6, 7, 8, 10]//5, 6, 7, 9]
         }
       },
       {
@@ -441,10 +441,27 @@ $(document).ready(function() {
     columnDefs:[
       {
         visible: false,
+        width: '5%',
         targets:[4],
         searchPanes: {
           header: "Group"
         }
+      },
+      {
+        width: '5%',
+        targets:[1],
+      },      
+      {
+        width: '5%',
+        targets:[2],
+      },
+      {
+        width: '5%',
+        targets:[3],
+      },            
+      {
+        width: '5%',
+        targets:[5],
       },
       {
         searchPanes: {
@@ -464,7 +481,7 @@ $(document).ready(function() {
             }
           return data;
         },
-        targets:[6]
+        targets:[7]
       },
       {
         searchPanes: {
@@ -525,12 +542,12 @@ $(document).ready(function() {
             }
           ]
         },
-        targets: [7]
-      },
-      {
-        width: '25%',
         targets: [8]
       },
+      {
+        width: '10%',
+        targets: [8]
+      },           
       {
         visible: false,
         searchPanes: {
@@ -552,7 +569,7 @@ $(document).ready(function() {
             }
           return data;
         },
-        targets:[9]
+        targets:[10]
       }
     ]
   }

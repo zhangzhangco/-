@@ -1,5 +1,35 @@
 [
   {
+    "groupId": "全国电声学标准化技术委员会（TC 23）",
+    "groupLink": "https://std.samr.gov.cn/search/orgDetailView?tcCode=TC23",
+    "groupName": "全国电声学标准化技术委员会（TC 23）",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "全国声学标准化技术委员会（TC 17）",
+    "groupLink": "https://std.samr.gov.cn/search/orgDetailView?data_id=5DDA8BA3FED418DEE05397BE0A0A95A7",
+    "groupName": "全国声学标准化技术委员会（TC 17）",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "国家广播电影电视总局",
+    "groupLink": "https://www.sarft.gov.cn/",
+    "groupName": "国家广播电影电视总局",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": false
+    },
+    "groupType": "TC"
+  },
+  {
     "groupId": "国家电影局",
     "groupLink": "https://www.chinafilm.gov.cn/",
     "groupName": "国家电影局",

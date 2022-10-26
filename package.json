@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SteveLLamb/doc-registry.git"
+    "url": "https://github.com/zhangzhangco/mediastandards-registry-china.git"
   },
-  "author": "Steve LLamb",
+  "author": "Zhang Xin",
   "license": "CC-BY-4.0",
   "devDependencies": {
     "ajv": "^6.12.6",

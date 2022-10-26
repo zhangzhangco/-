@@ -9,7 +9,8 @@
           <th scope="col">代号</th>
           <th scope="col">发布</th>
           <th scope="col">归口</th>
-          <th scope="col" class="cleanFilter d-none"></th>
+          <th scope="col" class="cleanFilter d-none"></th>          
+          <th scope="col" class="text-nowrap">牵头单位</th>
           <th scope="col" class="text-nowrap">文件类型</th>
           <th scope="col">关键字</th>
           <th scope="col">状态</th>
@@ -39,6 +40,9 @@
             {{#if group}}{{#with (groupIdLookup ../dataGroups group)}}{{groupOrg}} {{groupName}} {{groupDesc}}{{/with}}{{/if}}
           </td>
           <td>
+            {{leadingunit}}
+          </td>
+          <td>
             {{docType}}
           </td>
           <td>
@@ -48,17 +52,17 @@
           </td>
           <td>
             {{#status/unknown}}
-              <span class="label badge badge-danger">[ UNKNOWN ]</span><br> 
+              <span class="label badge badge-danger">[ 未知 ]</span><br> 
             {{/status/unknown}}
             {{#status/withdrawn}}
-              <span class="label badge badge-danger">[ WITHDRAWN ]</span><br> 
+              <span class="label badge badge-danger">[ 废止 ]</span><br> 
             {{/status/withdrawn}}
             {{#status/superseded}}
-              <span class="label badge badge-warning">[ SUPERSEDED ]</span><br>
+              <span class="label badge badge-warning">[ 代替 ]</span><br>
             {{/status/superseded}}
             {{#if status/supersededBy}}
               <div class="border-left p-1">
-                <span class="font-weight-bold small">Superseded by:</span>
+                <span class="font-weight-bold small">被以下文件代替：</span>
                 <ul class="list-group list-group-flush">
               {{#status/supersededBy}}
                   <li class="list-group-item">
@@ -78,11 +82,11 @@
               <span class="label badge badge-success">[ 有效 ]</span><br>  
             {{/status/active}}
             {{#status/amended}}
-              <span class="label badge badge-secondary">[ 已修订 ]</span><br>
+              <span class="label badge badge-secondary">[ 已修正 ]</span><br>
             {{/status/amended}}
             {{#if status/amendedBy}}
               <div class="border-left p-1">
-                <span class="font-weight-bold small">修订人:</span>
+                <span class="font-weight-bold small">过往修正:</span>
                 <ul class="list-group list-group-flush">
               {{#status/amendedBy}}
                   <li class="list-group-item">
@@ -149,6 +153,10 @@
                     <span class="font-weight-bold small">起草人：</span> {{#authors}}{{this}}{{#unless @last}}, {{/unless}}{{/authors}}
                     <br>
                     {{/if}}
+                    {{#if participationUnits}}
+                    <span class="font-weight-bold small">参与单位：</span> {{#participationUnits}}{{this}}{{#unless @last}}, {{/unless}}{{/participationUnits}}
+                    <br>
+                    {{/if}}
                     {{#if status/withdrawnDate}}
                     <span class="font-weight-bold small">废止日期：</span> {{status/withdrawnDate}}
                     <br>
@@ -166,11 +174,15 @@
                     <br>
                     {{/if}}
                     {{#if status/amendedDate}}
-                    <span class="font-weight-bold small">修订日期：</span> {{status/amendedDate}}
+                    <span class="font-weight-bold small">修正日期：</span> {{status/amendedDate}}
                     <br>
                     {{/if}}
                     {{#if publicationDate}}
                     <span class="font-weight-bold small">发布日期：</span> {{publicationDate}}
+                    <br>
+                    {{/if}}
+                    {{#if implementationDate}}
+                    <span class="font-weight-bold small">实施日期：</span> {{implementationDate}}
                     <br>
                     {{/if}}
                     {{#if repo}}
@@ -342,7 +354,9 @@
             {{/currentWork}}
           </td>
           <td class="adoption">
-            {{adoption}}
+            {{#if adoption}}
+              <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{adoption}}">{{getLabel adoption}}</a> [{{getStatus adoption}}]</span> {{{getstatusButton adoption "10"}}}
+            {{/if}}
           </td>
           <td class="p-1">
             {{#if references/normative}}
