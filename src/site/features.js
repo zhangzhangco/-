@@ -499,15 +499,15 @@ $(document).ready(function() {
               }
             },
             {
-              label: '工作组讨论稿',
+              label: '草案',
               value: function(rowData, rowIdx){
-                return rowData[8].includes('[ 工作组讨论稿 ]');
+                return rowData[8].includes('[ 草案 ]');
               }
             },
             {
-              label: '征求意见',
+              label: '送审稿',
               value: function(rowData, rowIdx){
-                return rowData[8].includes('[ 征求意见 ]');
+                return rowData[8].includes('[ 送审稿 ]');
               }
             },
             {

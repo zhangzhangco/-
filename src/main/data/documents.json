@@ -1,23 +1,23 @@
 [
   {
+    "adoption": "iso4241-1987",
     "authors": [
       "吴淑芝",
       "孙延炜"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-2926-2000",
     "docLabel": "GB/T 2926-2000",
     "docTitle": "35mm和16mm电影发行拷贝片头和片尾的技术规格",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso4241-1987",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -27,28 +27,28 @@
     "docLabel": "ISO 4241:1987",
     "docTitle": "Cinematography — Leaders and run-out trailers for 35 mm and 16 mm release prints — Specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": false,
       "superseded": true
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
+    "adoption": "iso4238-1976",
     "docId": "gbt-2927-94",
     "docLabel": "GB/T 2927-94",
     "docTitle": "电影影片画幅放大或缩小光学印片比率技术要求",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1994-12-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1995-08-01",
-    "adoption": "iso4238-1976",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -58,8 +58,8 @@
     "docLabel": "ISO 4238:1976",
     "docTitle": "Cinematography — Optical printing ratios for enlargement and reduction of motion-picture film images — Specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": true,
       "reaffirmed": true,
@@ -68,41 +68,41 @@
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
     "docId": "gbt-3557-1994",
     "docLabel": "GB/T 3557-1994",
     "docTitle": "电影院视听环境技术要求",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1994-12-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1995-08-01",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
     "status": {
-      "active":true
+      "active": true
     }
   },
   {
+    "adoption": "iso2906-84",
     "authors": [
       "孙延炜"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4635-2000",
     "docLabel": "GB/T 4635-2000",
     "docTitle": "35mm电影摄影机片窗在胶片上形成的画面的位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso2906-84",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -112,31 +112,31 @@
     "docLabel": "ISO 2906:84",
     "docTitle": "Cinematography — Image area produced by camera aperture on 35 mm motion-picture film — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": false,
       "superseded": true
     }
   },
   {
+    "adoption": "iso2907-84",
     "authors": [
       "孙延炜"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4636-2000",
     "docLabel": "GB/T 4636-2000",
     "docTitle": "35mm影片上最大可放映画面的位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso2907-84",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -146,28 +146,28 @@
     "docLabel": "ISO 2907:84",
     "docTitle": "Cinematography — Maximum projectable image area on 35 mm motion-picture film — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": false,
       "superseded": true
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
+    "adoption": "iso162-85",
     "docId": "gbt-4637-1994",
     "docLabel": "GB/T 4637-1994",
     "docTitle": "35mm磁片上三声轨、四声轨和六声轨磁头隙缝的位置和宽度尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1994-12-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1995-08-01",
-    "adoption": "iso162-85",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -177,33 +177,33 @@
     "docLabel": "ISO 162:1985",
     "docTitle": "Cinematography — Head gaps and sound records for three-, four-, or six-track magnetic sound records on 35 mm and single-track on 17,5 mm motion-picture film containing no picture — Positions and width dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1990-12-01"
     }
   },
   {
+    "adoption": "iso2939-1986",
     "authors": [
       "孙延炜"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4638-1997",
     "docLabel": "GB/T 4638-1997",
     "docTitle": "35mm电影发行拷贝上画面和光学声迹的位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1997-06-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1998-03-01",
-    "adoption": "iso2939-1986",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1997-06-28",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -213,31 +213,31 @@
     "docLabel": "ISO 2939:1986",
     "docTitle": "Cinematography — Picture image area and photographic sound record on 35 mm motion-picture release prints — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": false,
-      "withdrawn":true
+      "withdrawn": true
     }
   },
   {
+    "adoption": "iso70-1981",
     "authors": [
       "孙延炜"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4639-2000",
     "docLabel": "GB/T 4639-2000",
     "docTitle": "35mm单声道电影光学声底片上声迹的位置和最大宽度尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso70-1981",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -247,33 +247,33 @@
     "docLabel": "ISO 70:1981",
     "docTitle": "Cinematography — 35 mm negative photographic sound record on 35 mm motion-picture film — Position and maximum width dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1986-06-01"
     }
   },
   {
+    "adoption": "iso23-1993",
     "authors": [
       "吴淑芝"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4640-2000",
     "docLabel": "GB/T 4640-2000",
     "docTitle": "35mm电影胶片在摄影机上的用法",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso23-1993",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -283,33 +283,33 @@
     "docLabel": "ISO 23:1993",
     "docTitle": "Cinematography — Camera usage of 35 mm motion-picture film — Specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1997-11-30"
     }
   },
   {
+    "adoption": "iso25-1994",
     "authors": [
       "吴淑芝"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-4641-2000",
     "docLabel": "GB/T 4641-2000",
     "docTitle": "16mm电影胶片在摄影机上的用法",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2000-10-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2001-03-01",
-    "adoption": "iso25-1994",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2000-10-17",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -319,33 +319,33 @@
     "docLabel": "ISO 25:1994",
     "docTitle": "Cinematography — Camera usage of 16 mm motion-picture film — Specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1998-11-30"
     }
   },
   {
+    "adoption": "iso466-1976",
     "authors": [
       "华锡梅"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gb-4642-84",
     "docLabel": "GB 4642-84",
     "docTitle": "16mm电影摄影机片窗在胶片上所形成的影象位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家标准局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1984-08-14",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1985-05-01",
-    "adoption": "iso466-1976",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1984-08-14",
+    "publisher": "国家标准局",
     "status": {
       "active": true
     }
@@ -355,16 +355,17 @@
     "docLabel": "ISO 466:1976",
     "docTitle": "Cinematography — Image produced by 16 mm motion-picture camera aperture — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1981-12-01"
     }
   },
   {
+    "adoption": "iso2910-1990",
     "authors": [
       "顾正保",
       "李涵初",
@@ -372,23 +373,22 @@
       "罗燕翎",
       "马思泽"
     ],
+    "docId": "gbt-4645-2006",
+    "docLabel": "GB/T 4645-2006",
+    "docTitle": "室内影院和鉴定放映室的银幕亮度",
+    "docType": "国家标准",
+    "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2007-03-01",
+    "leadingunit": "中国电影集团",
     "participationUnits": [
       "中国电影集团",
       "上海市文化广播影视管理局",
       "中国电影科学技术研究所",
       "国家电影局电影技术质量检测所"
     ],
-    "docId": "gbt-4645-2006",
-    "docLabel": "GB/T 4645-2006",
-    "docTitle": "室内影院和鉴定放映室的银幕亮度",
-    "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
-    "group": "国家电影局",
-    "leadingunit": "中国电影集团",
     "publicationDate": "2006-08-30",
-    "implementationDate": "2007-03-01",
-    "adoption": "iso2910-1990",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -398,31 +398,31 @@
     "docLabel": "ISO 2910:1990",
     "docTitle": "Cinematography — Screen luminance for the projection of motion-picture prints in indoor theatres and review rooms",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
   {
+    "adoption": "iso8567-1986",
     "authors": [
       "张中平"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-5297-2002",
     "docLabel": "GB/T 5297-2002",
     "docTitle": "35mm和16mm电影发行影片字幕最大可允许区域的位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2002-12-04",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2003-05-01",
-    "adoption": "iso8567-1986",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2002-12-04",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局",
     "status": {
       "active": true
     }
@@ -432,10 +432,10 @@
     "docLabel": "ISO 8567:1986",
     "docTitle": "Cinematography — Maximum permissible area for subtitle 35 mm and 16 mm motion-picture release prints — Dimensions and locations",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
@@ -443,41 +443,41 @@
     "authors": [
       "王少明"
     ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
     "docId": "gb-5298-85",
     "docLabel": "GB 5298-85",
     "docTitle": "35mm电影遮幅法影片画面的位置及尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家标准局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1985-08-25",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1986-04-01",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1985-08-25",
+    "publisher": "国家标准局",
     "status": {
       "active": true
     }
   },
   {
+    "adoption": "iso1223-1993",
     "authors": [
       "杨明达"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-5301-2002",
     "docLabel": "GB/T 5301-2002",
     "docTitle": "供电视播放用影片安全画面范围的位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家质量技术监督检验检疫总局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2002-12-4",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2003-05-01",
-    "adoption": "iso1223-1993",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2002-12-4",
+    "publisher": "国家质量技术监督检验检疫总局",
     "status": {
       "active": true
     }
@@ -487,31 +487,31 @@
     "docLabel": "ISO 1223:1993",
     "docTitle": "Cinematography — Picture areas for motion-picture films and slides for television — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
   {
+    "adoption": "iso5768-1981",
     "authors": [
       "王少明"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gb-5874-86",
     "docLabel": "GB 5874-86",
     "docTitle": "16mm W型电影摄影机片窗所形成的画面位置和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家标准局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1986-02-27",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1986-012-01",
-    "adoption": "iso5768-1981",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1986-02-27",
+    "publisher": "国家标准局",
     "status": {
       "active": true
     }
@@ -521,29 +521,29 @@
     "docLabel": "ISO 5768:1981",
     "docTitle": "Cinematography — Image produced by camera aperture Type W on 16 mm motion-picture film — Position and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false, 
-      "withdrawn":true,
-      "superseded": true
+      "active": false,
+      "superseded": true,
+      "withdrawn": true
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
+    "adoption": "iso1189-1986",
     "docId": "gbt-5875-94",
     "docLabel": "GB/T 5875-94",
     "docTitle": "35mm和16mm磁片的录音特性",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1994-12-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1995-08-01",
-    "adoption": "iso1189-1986",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true,
       "statusNote": "同时采标的ISO 1189:1986和ISO 1188:1984，均现行有效。"
@@ -554,33 +554,33 @@
     "docLabel": "ISO 1189:1986",
     "docTitle": "Cinematography — Recorded characteristic for magnetic sound records on 35 mm motion-picture film excluding striped release prints — Specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1990-11-15"
     }
   },
   {
+    "adoption": "iso417-1977",
     "authors": [
       "梁敏聪"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-12938-1991",
     "docLabel": "GB/T 12938-1991",
     "docTitle": "已加工的摄影材料中硫代硫酸盐及其他相关化学残留物的测定方法 碘-直链淀粉法、亚甲蓝法和硫化银密度法",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1991-05-22",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1992-04-01",
-    "adoption": "iso417-1977",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1991-05-22",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -590,31 +590,31 @@
     "docLabel": "ISO 417:1977",
     "docTitle": "Photography — Determination of thiosulphate and other residual chemicals in processed photographic films, plates and papers — Methylene blue photometric method and silver sulphide densitometric method",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
-      "withdrawn":true
+      "active": false,
+      "withdrawn": true
     }
   },
   {
+    "adoption": "iso6036-1996",
     "authors": [
       "杨明达"
-    ],
-    "participationUnits": [
-      "中国电影集团公司北京电影洗印录像技术厂"
     ],
     "docId": "gbt-13154-2006",
     "docLabel": "GB/T 13154-2006",
     "docTitle": "电视用彩色电影拷贝和幻灯片的密度规范",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "group": "国家电影局",
-    "leadingunit": "中国电影集团公司北京电影洗印录像技术厂",
-    "publicationDate": "2006-08-30",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2007-03-01",
-    "adoption": "iso6036-1996",
+    "leadingunit": "中国电影集团公司北京电影洗印录像技术厂",
+    "participationUnits": [
+      "中国电影集团公司北京电影洗印录像技术厂"
+    ],
+    "publicationDate": "2006-08-30",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -624,30 +624,30 @@
     "docLabel": "ISO 6036:1996",
     "docTitle": "Cinematography — Colour motion-picture prints and slides for television — Density specifications",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "2000-11-25"
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
+    "adoption": "iso2969-1987",
     "docId": "gbt-13157-91",
     "docLabel": "GB/T 13157-91",
     "docTitle": "35mm影片光学声迹的还音电声频率响应特性",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1991-09-16",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1992-06-01",
-    "adoption": "iso2969-1987",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1991-09-16",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true,
       "statusNote": "同时采标的ISO 7831:1986现行有效;ISO 2969:1987被代替。"
@@ -658,31 +658,31 @@
     "docLabel": "ISO 2969:1987",
     "docTitle": "Cinematography — B-chain electro-acoustic response of motion-picture control rooms and indoor theatres — Specifications and measurements",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
   {
+    "adoption": "iso7343-1983",
     "authors": [
       "敬健"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-13999-92",
     "docLabel": "GB/T 13999-92",
     "docTitle": "35mm电影拷贝上光学双声迹的位置和宽度尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1992-12-17",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1993-08-01",
-    "adoption": "iso7343-1983",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1992-12-17",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -692,28 +692,28 @@
     "docLabel": "ISO 7343:1983",
     "docTitle": "Cinematography — Two-track photographic sound records on 35 mm motion-picture prints — Positions and width dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
   {
-    "participationUnits": [
-      "中国电影科学技术研究所"
-    ],
+    "adoption": "iso2969-1987",
     "docId": "gbt-15397-1994",
     "docLabel": "GB/T 15397-1994",
     "docTitle": "电影录音控制室、鉴定放映室及室内影院A环、B环电声频率响应特性测量方法",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "1994-12-28",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "1995-08-01",
-    "adoption": "iso2969-1987",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
@@ -723,10 +723,10 @@
     "docLabel": "ISO 2969:1987",
     "docTitle": "Cinematography — B-chain electro-acoustic response of motion-picture control rooms and indoor theatres — Specifications and measurements",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
@@ -735,8 +735,8 @@
     "docLabel": "ISO 4246:1984",
     "docTitle": "Cinematography — Vocabulary",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": false,
       "superseded": true,
@@ -750,8 +750,8 @@
     "docLabel": "ISO 4246:1994",
     "docTitle": "Cinematography — Vocabulary",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": true,
       "reaffirmed": true,
@@ -760,23 +760,23 @@
     }
   },
   {
+    "adoption": "iso6035-1983",
     "authors": [
       "顾欣台"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-19770-2005",
     "docLabel": "GB/T 19770-2005",
     "docTitle": "电影 评价电视用电影和幻灯的观看条件彩色、亮度和尺寸",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2005-05-20",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2005-012-01",
-    "adoption": "iso6035-1983",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2005-05-20",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -786,33 +786,33 @@
     "docLabel": "ISO 6035:1983",
     "docTitle": "Cinematography — Viewing conditions for the evaluation of films and slides for television — Colours, luminances and dimensions",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-     "active": true,
+      "active": true,
       "reaffirmed": true,
       "stabilized": true,
       "stabilizedDate": "1991-07-01"
     }
   },
   {
+    "adoption": "iso12612-1997",
     "authors": [
       "顾欣台"
-    ],
-    "participationUnits": [
-      "中国电影科学技术研究所"
     ],
     "docId": "gbt-20231-2006",
     "docLabel": "GB/T 20231-2006",
     "docTitle": "电影 后期制作素材的交换",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "group": "国家电影局",
-    "leadingunit": "中国电影科学技术研究所",
-    "publicationDate": "2006-04-21",
+    "href": "file:///I:/标准.pdf",
     "implementationDate": "2006-010-01",
-    "adoption": "iso12612-1997",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2006-04-21",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -822,10 +822,10 @@
     "docLabel": "ISO 12612:1997",
     "docTitle": "Cinematography — Interchange of post-production materials",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
-      "active": false,    
+      "active": false,
       "superseded": true
     }
   },
@@ -844,6 +844,14 @@
       "王伟",
       "郑执权"
     ],
+    "docId": "dyt-1-2020",
+    "docLabel": "DY/T 1—2020",
+    "docTitle": "数字影院立体放映技术要求和测量方法",
+    "docType": "行业标准",
+    "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2020-09-01",
+    "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
       "中央宣传部电影技术质量检测所",
       "中国电影科学技术研究所",
@@ -855,16 +863,8 @@
       "深圳市时代华影科技开发有限公司",
       "深圳未来立体科技有限公司"
     ],
-    "docId": "dyt-1-2020",
-    "docLabel": "DY/T 1—2020",
-    "docTitle": "数字影院立体放映技术要求和测量方法",
-    "docType": "行业标准",
-    "href": "file:///I:/标准.pdf",
     "publicationDate": "2020-09-01",
-    "implementationDate": "2020-09-01",
     "publisher": "国家电影局",
-    "group": "国家电影局",
-    "leadingunit": "中央宣传部电影技术质量检测所",
     "references": {
       "normative": [
         "gyt-311-2017",
@@ -885,12 +885,12 @@
     "docLabel": "GD/J 017—2007",
     "docTitle": "数字影院暂行技术要求",
     "docType": "行业指导性技术文件",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2007-8-13",
-    "implementationDate": "2007-8-13",
-    "publisher": "国家电影局",
     "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2007-8-13",
     "leadingunit": "中国电影科学技术研究所",
+    "publicationDate": "2007-8-13",
+    "publisher": "国家电影局",
     "references": {
       "bibliographic": [
         "dci-dcss-v11"
@@ -909,31 +909,31 @@
     }
   },
   {
+    "adoption": "iso4246-1984",
     "docId": "gbt-15769-1995",
     "docLabel": "GB/T 15769-1995",
     "docTitle": "电影技术术语",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "1995-12-08",
-    "implementationDate": "1996-08-01",
-    "publisher": "国家技术监督局",
     "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "1996-08-01",
     "leadingunit": "中国电影科学技术研究所",
-    "adoption": "iso4246-1984",
+    "publicationDate": "1995-12-08",
+    "publisher": "国家技术监督局",
     "status": {
       "active": true
     }
-  },  
+  },
   {
     "docId": "gbt-8898-2001",
     "docLabel": "GB/T 8898-2001",
     "docTitle": "音频、视频及类似电子设备安全要求",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2011-12-30",
-    "implementationDate": "2012-11-01",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "group": "工业和信息化部",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2012-11-01",
+    "publicationDate": "2011-12-30",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": false,
       "superseded": true
@@ -1042,6 +1042,14 @@
       "邱昱天",
       "李欣"
     ],
+    "docId": "gyt-311-2017",
+    "docLabel": "GY/T 311—2017",
+    "docTitle": "电影院视听环境技术要求和测量方法",
+    "docType": "行业标准",
+    "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2017-11-24",
+    "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
       "国家新闻出版广电总局电影技术质量检测所",
       "上海电影（集团）有限公司",
@@ -1050,16 +1058,8 @@
       "中广华夏影视科技有限公司",
       "宁波音王集团有限公司"
     ],
-    "docId": "gyt-311-2017",
-    "docLabel": "GY/T 311—2017",
-    "docTitle": "电影院视听环境技术要求和测量方法",
-    "docType": "行业标准",
-    "href": "file:///I:/标准.pdf",
     "publicationDate": "2017-11-24",
-    "implementationDate": "2017-11-24",
     "publisher": "国家电影局",
-    "group": "国家电影局",
-    "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "references": {
       "normative": [
         "gbt-19889.4-2005",
@@ -1081,12 +1081,12 @@
     "docLabel": "GB/T 19889.4—2005",
     "docTitle": "声学 建筑和建筑构件隔声测量 第4部分：房间之间空气声隔声的现场测量",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2005-09-09",
-    "implementationDate": "2006-04-01",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "group": "全国声学标准化技术委员会（TC 17）",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2006-04-01",
     "leadingunit": "东南大学",
+    "publicationDate": "2005-09-09",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -1097,8 +1097,8 @@
     "docTitle": "建筑隔声评价标准",
     "docType": "国家标准",
     "href": "file:///I:/标准.pdf",
-    "publicationDate": "2005-07-15",
     "implementationDate": "2005-10-01",
+    "publicationDate": "2005-07-15",
     "publisher": "中华人民共和国建设部/中华人民共和国国家质量监督检验检疫总局",
     "status": {
       "unknown": true
@@ -1109,10 +1109,10 @@
     "docLabel": "GB/T 3785.1—2010",
     "docTitle": "电声学 声级计 第1部分：规范",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2010-09-02",
-    "implementationDate": "2011-04-01",
     "group": "全国电声学标准化技术委员会（TC 23）",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2011-04-01",
+    "publicationDate": "2010-09-02",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
@@ -1123,10 +1123,10 @@
     "docLabel": "GB/T 3241—2010",
     "docTitle": "电声学 倍频程和分数倍频程滤波器",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2010-12-01",
-    "implementationDate": "2011-05-01",
     "group": "全国电声学标准化技术委员会（TC 23）",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2011-05-01",
+    "publicationDate": "2010-12-01",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
@@ -1137,10 +1137,10 @@
     "docLabel": "GB/T 15173—2010",
     "docTitle": "电声学 声校准器",
     "docType": "国家标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2010-09-02",
-    "implementationDate": "2011-04-01",
     "group": "全国电声学标准化技术委员会（TC 23）",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2011-04-01",
+    "publicationDate": "2010-09-02",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
@@ -1152,14 +1152,15 @@
     "docTitle": "室内混响时间测量规范",
     "docType": "国家标准",
     "href": "file:///I:/标准.pdf",
-    "publicationDate": "2013-08-08",
     "implementationDate": "2014-03-01",
+    "publicationDate": "2013-08-08",
     "publisher": "中华人民共和国住房和城乡建设部/中华人民共和国国家质量监督检验检疫总局",
     "status": {
       "unknown": true
     }
   },
   {
+    "adoption": "iso2969-2015",
     "authors": [
       "董强国",
       "朱觉",
@@ -1180,23 +1181,22 @@
       "邱正选",
       "黄永谦"
     ],
+    "docId": "gyt-312-2017",
+    "docLabel": "GY/T 312—2017",
+    "docTitle": "电影 录音控制室、室内影厅B环电声响应规范和测量",
+    "docType": "行业标准",
+    "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2017-11-24",
+    "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
       "国家新闻出版广电总局电影技术质量检测所",
       "上海电影（集团）有限公司负责起草，广州飞达音响股份有限公司",
       "中广华夏影视科技有限公司",
       "宁波音王集团有限公司"
     ],
-    "docId": "gyt-312-2017",
-    "docLabel": "GY/T 312—2017",
-    "docTitle": "电影 录音控制室、室内影厅B环电声响应规范和测量",
-    "docType": "行业标准",
-    "href": "file:///I:/标准.pdf",
     "publicationDate": "2017-11-24",
-    "implementationDate": "2017-11-24",
     "publisher": "国家新闻出版广电总局",
-    "group": "国家电影局",
-    "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
-    "adoption": "iso2969-2015",
     "status": {
       "active": true
     }
@@ -1206,8 +1206,8 @@
     "docLabel": "ISO 2969:2015",
     "docTitle": "Cinematography — B-chain electro-acoustic reponse of motion-picture control rooms and indoor theatres —Specifications and measurements",
     "docType": "国际标准",
-    "publisher": "ISO",
     "group": "iso-tc36-tc",
+    "publisher": "ISO",
     "status": {
       "active": true
     }
@@ -1217,13 +1217,55 @@
     "docLabel": "SJ/T 10724-2013",
     "docTitle": "电声学 测量电容传声器通用规范",
     "docType": "行业标准",
-    "href": "file:///I:/标准.pdf",
-    "publicationDate": "2013-10-17",
-    "implementationDate": "2013-12-01",
     "group": "全国电声学标准化技术委员会（TC 23）",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2013-12-01",
+    "publicationDate": "2013-10-17",
     "publisher": "中华人民共和国工业和信息化部",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "gyt-247-2011",
+    "docLabel": "GY/T 247-2011",
+    "docTitle": "影院管理系统基本功能和接口规范",
+    "docType": "行业标准",
+    "group": "国家电影局",
+    "href": "file:///I:/标准.pdf",
+    "implementationDate": "2011-08-03",
+    "keywords": [
+      "影院信息化"
+    ],
+    "publicationDate": "2011-08-03",
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    },
+    "workInfo": {
+      "review": [
+        {
+          "assignedGroup": "国家电影局",
+          "reviewDate": "2017-01-01",
+          "reviewPeriod": "5年",
+          "recApproved": true
+        }
+      ]
+    }
+  },
+  {
+    "docId": "dyt-247-20XX",
+    "docLabel": "DY/T 247-20XX",
+    "docTitle": "影院管理系统基本功能和接口规范",
+    "docType": "行业标准",
+    "group": "国家电影局",
+    "keywords": [
+      "影院信息化"
+    ],
+    "publisher": "国家电影局",
+    "status": {
+      "draft":true,
+      "publicCd": true
     }
   },
   {

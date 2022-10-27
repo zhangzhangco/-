@@ -73,6 +73,11 @@
                                 "milestoneAct": {
                                     "type": "string",
                                     "enum": [
+                                        "工作组讨论稿 (30%)",
+                                        "征求意见稿 (50%)",
+                                        "送审讨论稿 (70%)",
+                                        "送审稿 (90%)",
+                                        "送审讨论稿 (100%)",
                                         "Awaiting ST Objection Disposition Vote (5%)",
                                         "Waiting for Group Assignment (15%)",
                                         "WG/DG working on WD (20%)",
@@ -107,10 +112,10 @@
                     "projectStatus": {
                         "type": "string",
                         "enum": [ 
-                            "Pending",
-                            "Open",
-                            "Complete",
-                            "Cancelled"
+                            "未决",
+                            "进行",
+                            "完成",
+                            "取消"
                         ]
                     },
                     "updateDependency": {
@@ -131,10 +136,10 @@
                     "workType": {
                         "type": "string",
                         "enum": [ 
-                            "Intial Draft",
-                            "Revision",
-                            "Amendment",
-                            "Withdraw"
+                            "编制",
+                            "修订",
+                            "修正",
+                            "废止"
                         ]
                     }
                 }

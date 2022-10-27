@@ -119,6 +119,7 @@
                                     "type": "string",
                                     "minLength": 1,
                                     "enum": [ 
+                                        "影院信息化",
                                         "ACES",
                                         "Accessibility",
                                         "Archive",
@@ -352,8 +353,8 @@
                                         "reviewPeriod": {
                                             "type": "string",
                                             "enum": [ 
-                                                "1 Year",
-                                                "5 Year",
+                                                "1年",
+                                                "5年",
                                                 "Systematic"
                                             ]
                                         },

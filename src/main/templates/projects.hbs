@@ -23,7 +23,7 @@
       </thead>
       <tbody id="searchTable">
         {{#dataProjects}}
-        <tr id="{{../idType}}-{{projectId}}" {{#ifeq projectStatus "Cancelled"}}class="cancelled"{{/ifeq}}{{#ifeq projectStatus "Pending"}}class="pending"{{/ifeq}}>
+        <tr id="{{../idType}}-{{projectId}}" {{#ifeq projectStatus "取消"}}class="cancelled"{{/ifeq}}{{#ifeq projectStatus "未决"}}class="pending"{{/ifeq}}>
           <td class="projectlabel">
             <a class="anchor" id="{{projectId}}" href="#{{projectId}}"></a><code>{{projectId}}</code>
           </td>
@@ -44,15 +44,15 @@
             {{workType}}
           </td>
           <td class="text-center">
-            {{#if projApproved}}<span class="label badge badge-success">Yes</span>{{/if}}
+            {{#if projApproved}}<span class="label badge badge-success">是</span>{{/if}}
             {{#if projApprovedDate}}
             <br><span class="small">[Approved Date: {{projApprovedDate}}]</span>
             {{/if}}
-            {{#unless projApproved}}<span class="label badge badge-warning">Pending</span>{{/unless}}
+            {{#unless projApproved}}<span class="label badge badge-warning">未决</span>{{/unless}}
           </td>
           <td class="d-none">
-            {{#if projApproved}}Yes{{/if}}
-            {{#unless projApproved}}Pending{{/unless}}
+            {{#if projApproved}}是{{/if}}
+            {{#unless projApproved}}未决{{/unless}}
           </td>
           <td class="text-center">
             {{#if projectLink}}<a href="{{projectLink}}" target="_blank">{{/if}}{{projectStatus}}{{#if projectLink}}</a>{{/if}}

@@ -76,7 +76,7 @@
               <span class="label badge badge-warning">[ 草案 ]</span><br> 
             {{/status/draft}}
             {{#status/publicCd}}
-              <span class="label badge badge-success">[ 征求意见 ]</span><br>  
+              <span class="label badge badge-success">[ 送审稿 ]</span><br>  
             {{/status/publicCd}}
             {{#status/active}}
               <span class="label badge badge-success">[ 有效 ]</span><br>  
@@ -132,7 +132,7 @@
                     {{#with (docProjLookup ../docProjs docId)}}
                     {{#ifnoteq projectStatus "Complete"}}
                     <br>
-                    <span class="label badge badge-warning text-uppercase">{{workType}} {{projectStatus}}{{#ifnoteq projectStatus "Open"}}, 项目 {{#if projApproved}}已批准{{/if}}{{/ifnoteq}}{{#unless projApproved}}未决{{/unless}}</span>
+                    <span class="label badge badge-warning text-uppercase">{{workType}} {{projectStatus}}{{#ifnoteq projectStatus "进行"}}, 项目 {{#if projApproved}}已批准{{/if}}{{/ifnoteq}}{{#unless projApproved}}未决{{/unless}}</span>
                     {{#if newDoc}}
                     <br><span class="small">在研： <a class="{{../idType}}-link clear-filter" href="#{{newDoc}}">{{getLabel newDoc}}</a> [{{getStatus newDoc}}]</span>
                     {{/if}}
@@ -289,7 +289,7 @@
                           <span class="font-weight-bold small">Review Period: </span>{{reviewPeriod}}
                           {{#if reviewNeeded}}
                           <br>
-                          <span class="font-weight-bold small">Review Needed:</span> <span class="label badge badge-danger">Yes</span>
+                          <span class="font-weight-bold small">Review Needed:</span> <span class="label badge badge-danger">是</span>
                           {{/if}}
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../dataGroups assignedGroup)}}
@@ -307,7 +307,7 @@
                           {{/if}}
                           {{#if recApproved}}
                           <br>
-                          <span class="font-weight-bold small">Recomendation Approved:</span> Yes
+                          <span class="font-weight-bold small">Recomendation Approved:</span> 是
                           {{/if}}
                           {{#if reviewNotes}}
                           <div class="p-2">
