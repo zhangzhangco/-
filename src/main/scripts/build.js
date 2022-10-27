@@ -260,7 +260,7 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
         cS = cS.concat(", 稳定");
       }
       else if(status.reaffirmed){
-        cS = cS.concat(", 已复审");
+        cS = cS.concat(", 已重申");
       }
 
     }

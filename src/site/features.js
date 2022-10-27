@@ -511,9 +511,9 @@ $(document).ready(function() {
               }
             },
             {
-              label: '已复审',
+              label: '已重申',
               value: function(rowData, rowIdx){
-                return rowData[8].includes('[ 已复审 ]');
+                return rowData[8].includes('[ 已重申 ]');
               }
             },
             {
