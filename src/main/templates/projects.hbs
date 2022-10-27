@@ -16,7 +16,7 @@
           <th scope="col" class="d-none"></th>
           <th scope="col">影响标准</th>
           <th scope="col" class="d-none"></th>
-          <th scope="col" class="col-3">里程碑</th>
+          <th scope="col" class="col-3">详情</th>
           <th scope="col">依赖关系</th>
           <th scope="col" class="col-2">注释</th>
         </tr>
@@ -29,7 +29,7 @@
           </td>
           <td>
             {{#if docId}}
-            <a class="document-link clear-filter" href="../{{../htmlLink}}?search.search={{docId}}">{{getLabel docId}}</a>
+            <a class="document-link clear-filter" href="../{{../htmlLink}}?search.search={{docId}}">{{getLabel docId}} {{getTitle docId}}</a>
             <br>
             [{{getStatus docId}}] {{{getstatusButton docId "12"}}}
             {{/if}}
@@ -89,7 +89,7 @@
             {{#if projectMilestone}}
             {{#projectMilestone}}
             {{#if current}}
-              {{milestoneAct}}
+              {{milestoneAct}}              
             {{/if}}
             {{/projectMilestone}}
             {{/if}}
@@ -98,7 +98,16 @@
             {{#if projectMilestone}}
             {{#projectMilestone}}
             <div class="p-2{{#unless @last}} border-bottom{{/unless}}">
-              {{milestoneAct}} {{#if current}}<span class="label badge badge-info float-right">Current</span>{{/if}}
+              <span class="font-weight-bold small">进度：  </span>{{milestoneAct}} 
+              <br>
+              {{#if authors}}
+              <span class="font-weight-bold small">起草人： </span> {{#authors}}{{this}}{{#unless @last}}, {{/unless}}{{/authors}}
+              <br>
+              {{/if}}
+              {{#if participationUnits}}
+              <span class="font-weight-bold small">参与单位：</span> {{#participationUnits}}{{this}}{{#unless @last}}, {{/unless}}{{/participationUnits}}
+              <br>
+              {{/if}}
               {{#if miledateStart}}
                 <br>
                 <span class="font-weight-bold small">Start Date:</span> {{miledateStart}}

@@ -7,13 +7,13 @@
         <tr>
           <th scope="col" class="d-none"></th>
           <th scope="col">组织名</th>
-          <th scope="col" class="col-2">工作组</th>
+          <th scope="col" class="col-2">归口</th>
           <th scope="col" class="text-center text-nowrap">类型</th>
           <th scope="col" class="d-none"></th>
           <th scope="col">状态</th>
           <th scope="col" class="col-3">描述</th>
           <th scope="col" class="d-none"></th>
-          <th scope="col" class="col-2 text-nowrap">上级组织</th>
+          <th scope="col" class="col-2 text-nowrap">上级</th>
           <th scope="col"></th>
           <th scope="col"></th>
           <th scope="col"></th>
@@ -39,14 +39,14 @@
             {{groupType}}
           </td>
           <td class="d-none">
-            {{#ifeq groupStatus/active true}}Active{{/ifeq}}{{#ifeq groupStatus/active false}}Closed{{/ifeq}}{{#ifeq groupStatus/pending true}}Pending{{/ifeq}}
+            {{#ifeq groupStatus/active true}}有效{{/ifeq}}{{#ifeq groupStatus/active false}}撤销{{/ifeq}}{{#ifeq groupStatus/pending true}}未决{{/ifeq}}
           </td>
           <td>
-            {{#ifeq groupStatus/active true}}<span class="label badge badge-success">Active</span>{{/ifeq}}{{#ifeq groupStatus/active false}}<span class="label badge badge-warning">Closed</span>{{/ifeq}}{{#ifeq groupStatus/pending true}}<span class="label badge badge-warning">Pending</span>{{/ifeq}}
+            {{#ifeq groupStatus/active true}}<span class="label badge badge-success">有效</span>{{/ifeq}}{{#ifeq groupStatus/active false}}<span class="label badge badge-warning">撤销</span>{{/ifeq}}{{#ifeq groupStatus/pending true}}<span class="label badge badge-warning">未决</span>{{/ifeq}}
           </td>
           <td>
             {{groupSummary}}
-            {{#ifeq groupStatus/active false}}<span class="font-weight-bold small"><em>** NOTE: This group is no longer active{{#if groupStatus/assignedGroup}}; all work and documents (published, in draft, and repos) have been reassigned to: {{#groupStatus/assignedGroup}}{{#unless @first}}, {{/unless}}{{#with (groupIdLookup ../../dataGroups this)}}<a class="group-link clear-filter" href="#{{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../dataGroups parentgroupId)}}{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}{{/if}}</a>{{/with}}{{/groupStatus/assignedGroup}}{{/if}}. **</em></span>{{/ifeq}}
+            {{#ifeq groupStatus/active false}}<span class="font-weight-bold small"><em>** 单位已不存在{{#if groupStatus/assignedGroup}}; 所有工作交接给: {{#groupStatus/assignedGroup}}{{#unless @first}}, {{/unless}}{{#with (groupIdLookup ../../dataGroups this)}}<a class="group-link clear-filter" href="#{{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../dataGroups parentgroupId)}}{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}{{/if}}</a>{{/with}}{{/groupStatus/assignedGroup}}{{/if}}. **</em></span>{{/ifeq}}
           </td>
           <td class="d-none">
             {{#ifeq groupType "TC"}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{/ifeq}}
@@ -59,37 +59,37 @@
           </td>
           <td>
             {{#ifeq groupType "TC"}}
-            <a href="../{{../htmlLink}}?search.search={{spaceReplace groupOrg}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}{{/if}}%20{{spaceReplace groupName}}{{#if groupDesc}}%20{{spaceReplace groupDesc}}{{/if}}">Published</a>
+            <a href="../{{../htmlLink}}?search.search={{spaceReplace groupOrg}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}{{/if}}%20{{spaceReplace groupName}}{{#if groupDesc}}%20{{spaceReplace groupDesc}}{{/if}}">发布</a>
             {{/ifeq}}
           </td>
           <td>
             {{#if groupType}}
-            <a href="../projects/{{../htmlLink}}?search.search={{spaceReplace groupOrg}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}{{/if}}%20{{spaceReplace groupName}}{{#if groupDesc}}%20{{spaceReplace groupDesc}}{{/if}}">Projects</a>
+            <a href="../projects/{{../htmlLink}}?search.search={{spaceReplace groupOrg}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}{{/if}}%20{{spaceReplace groupName}}{{#if groupDesc}}%20{{spaceReplace groupDesc}}{{/if}}">项目</a>
             {{/if}}
           </td>
           <td class="text-center">
             {{#if groupDocs}}
-            <a href="{{groupDocs}}" target="_blank">Documents</a>
+            <a href="{{groupDocs}}" target="_blank">文件</a>
             {{/if}}
           </td>
           <td class="text-center">
             {{#if groupCal}}
-            <a href="{{groupCal}}" target="_blank">Calendar</a>
+            <a href="{{groupCal}}" target="_blank">日程</a>
             {{/if}}
           </td>
           <td class="text-center">
             {{#if groupBallots}}
-            <a href="{{groupBallots}}" target="_blank">Ballots</a>
+            <a href="{{groupBallots}}" target="_blank">公告</a>
             {{/if}}
           </td>
           <td class="text-center">
             {{#if groupAIs}}
-            <a href="{{groupAIs}}" target="_blank">Action Items</a>
+            <a href="{{groupAIs}}" target="_blank">活动</a>
             {{/if}}
           </td>
           <td class="text-center">
             {{#if groupRepo}}
-            <a href="{{groupRepo}}" target="_blank">Repo</a>
+            <a href="{{groupRepo}}" target="_blank">仓库</a>
             {{/if}}
           </td>
         </tr>

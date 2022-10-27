@@ -308,6 +308,13 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
     return docLabels[docId];
   });
 
+  const docTitles = {}
+  registryDocument.forEach(item => { docTitles[item.docId] = (item.docTitle)} );
+
+  hb.registerHelper("getTitle", function(docId) {
+    return docTitles[docId];
+  });
+
   /* lookup if any projects exist for current document */
 
   const docProjs = []

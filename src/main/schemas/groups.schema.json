@@ -81,6 +81,7 @@
                     "groupType": {
                         "type": "string",
                         "enum": [
+                            "ADMIN",
                             "SC",
                             "TC",
                             "ST", 

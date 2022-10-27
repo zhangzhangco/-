@@ -873,12 +873,12 @@
     "docLabel": "GD/J 017—2007",
     "docTitle": "数字影院暂行技术要求",
     "docType": "行业指导性技术文件",
-    "group": "国家电影局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "file:///I:/标准.pdf",
     "implementationDate": "2007-8-13",
     "leadingunit": "中国电影科学技术研究所",
     "publicationDate": "2007-8-13",
-    "publisher": "国家电影局",
+    "publisher": "国家广播电影电视总局",
     "references": {
       "bibliographic": [
         "dci-dcss-v11"
@@ -1034,7 +1034,7 @@
     "docLabel": "GY/T 311—2017",
     "docTitle": "电影院视听环境技术要求和测量方法",
     "docType": "行业标准",
-    "group": "国家电影局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "file:///I:/标准.pdf",
     "implementationDate": "2017-11-24",
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
@@ -1047,7 +1047,7 @@
       "宁波音王集团有限公司"
     ],
     "publicationDate": "2017-11-24",
-    "publisher": "国家电影局",
+    "publisher": "国家广播电影电视总局",
     "references": {
       "normative": [
         "gbt-19889.4-2005",
@@ -1173,7 +1173,7 @@
     "docLabel": "GY/T 312—2017",
     "docTitle": "电影 录音控制室、室内影厅B环电声响应规范和测量",
     "docType": "行业标准",
-    "group": "国家电影局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "file:///I:/标准.pdf",
     "implementationDate": "2017-11-24",
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
@@ -1184,7 +1184,7 @@
       "宁波音王集团有限公司"
     ],
     "publicationDate": "2017-11-24",
-    "publisher": "国家新闻出版广电总局",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -1215,11 +1215,13 @@
     }
   },
   {
+    "authors":["张鑫","崔强","张红","刘翼光"],
+    "participationUnits":["中国电影科学技术研究所","国家广电总局电影数字节目管理中心"],
     "docId": "gyt-247-2011",
     "docLabel": "GY/T 247-2011",
     "docTitle": "影院管理系统基本功能和接口规范",
     "docType": "行业标准",
-    "group": "国家电影局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "file:///I:/标准.pdf",
     "implementationDate": "2011-08-03",
     "keywords": [
@@ -1262,15 +1264,6 @@
     "docTitle": "Digital Cinema System Specification Version 1.4.2",
     "docType": "Specification",
     "href": "https://dcss.dcimovies.com/0c0cff34d231b516cb89ae3fad352d5cf37a9515/dcss.html",
-    "keywords": [
-      "DCinema",
-      "Packaging",
-      "DCP Core",
-      "Distribution",
-      "Operations",
-      "Security",
-      "KDM"
-    ],
     "publicationDate": "2022-06-15",
     "publisher": "DCI",
     "status": {
