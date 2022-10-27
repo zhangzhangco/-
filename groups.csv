@@ -1,0 +1,5 @@
+groupId,groupLink,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,parentgroupId,groupDesc
+全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,"[""国家电影局""]",SC,全国广播电影电视标准化技术委员会（SAC/TC239）,undefined
+全国广播电影电视标准化技术委员会（SAC/TC239）,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,undefined,TC,undefined,undefined
+国家电影局,https://www.chinafilm.gov.cn/,国家电影局,,true,undefined,ADMIN,undefined,undefined
+iso-tc36-tc,https://www.iso.org/committee/48090.html,TC36,ISO,true,undefined,TC,undefined,Cinematography
