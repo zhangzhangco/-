@@ -719,18 +719,6 @@
     }
   },
   {
-    "docId": "iso2969-1987",
-    "docLabel": "ISO 2969:1987",
-    "docTitle": "Cinematography — B-chain electro-acoustic response of motion-picture control rooms and indoor theatres — Specifications and measurements",
-    "docType": "国际标准",
-    "group": "iso-tc36-tc",
-    "publisher": "ISO",
-    "status": {
-      "active": false,
-      "superseded": true
-    }
-  },
-  {
     "docId": "iso4246-1984",
     "docLabel": "ISO 4246:1984",
     "docTitle": "Cinematography — Vocabulary",
@@ -1246,9 +1234,9 @@
       "review": [
         {
           "assignedGroup": "国家电影局",
+          "recApproved": true,
           "reviewDate": "2017-01-01",
-          "reviewPeriod": "5年",
-          "recApproved": true
+          "reviewPeriod": "5年"
         }
       ]
     }
@@ -1264,7 +1252,7 @@
     ],
     "publisher": "国家电影局",
     "status": {
-      "draft":true,
+      "draft": true,
       "publicCd": true
     }
   },

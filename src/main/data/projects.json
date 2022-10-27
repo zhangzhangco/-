@@ -8,12 +8,12 @@
     "docId": "dyt-247-20XX",
     "projApproved": true,
     "projectId": "gyt-247-2011-rev-001",
-    "projectStatus": "进行",
-    "workType": "修订",
     "projectMilestone": [
-        {
-            "milestoneAct": "送审稿 (90%)"
-        }
-    ]
+      {
+        "milestoneAct": "送审稿 (90%)"
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "修订"
   }
 ]
