@@ -195,7 +195,7 @@
                       <div class="col">
                         <a href="#details-{{dotReplace docId}}" data-target="#details-{{dotReplace docId}}" class="collapsed" data-toggle="collapse">
                           <div class="p-2">
-                            <span class="small"><span class="if-collapsed">View</span><span class="if-not-collapsed">Hide</span> Work Info </span>
+                            <span class="small"><span class="if-collapsed">查看</span><span class="if-not-collapsed">隐藏</span>标准化工作信息</span>
                             <span class="float-right icon"><svg width="1em" height="1em" viewBox="0 0 16 16" class="float-right bi bi-chevron-double-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M1.646 6.646a.5.5 0 0 1 .708 0L8 12.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/><path fill-rule="evenodd" d="M1.646 2.646a.5.5 0 0 1 .708 0L8 8.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg></span>
                           </div>
                         </a>
@@ -206,43 +206,43 @@
                       {{#if project}}
                       <div>
                         <div class="p-2 border-bottom bg-secondary">
-                          <span class="text-light"><b>Project(s)</b></span>
+                          <span class="text-light"><b>项目</b></span>
                         </div>
                         {{#project}}
                         <div class="p-2{{#unless @last}} border-bottom{{/unless}}"> 
                           {{#if projectId}}
                           {{#with (projectIdLookup ../../../dataProjects projectId)}}
-                          <span class="font-weight-bold small">Work Type: </span><a class="project-link clear-filter" href="projects/{{../../../../htmlLink}}?search.search={{projectId}}">{{workType}}</a> {{#if projApproved}}<span class="label badge badge-success float-right">Project Approved</span>{{/if}}
+                          <span class="font-weight-bold small">工作类型： </span><a class="project-link clear-filter" href="projects/{{../../../../htmlLink}}?search.search={{projectId}}">{{workType}}</a> {{#if projApproved}}<span class="label badge badge-success float-right">Project Approved</span>{{/if}}
                           {{#if projectStatus}}
                           <br>
-                          <span class="font-weight-bold small">Work Status: </span>
+                          <span class="font-weight-bold small">工作状态： </span>
                           {{projectStatus}}
                           {{/if}}
                           {{#if projApprovedDate}}
                           <br>
-                          <span class="font-weight-bold small">Project Approved: </span>
+                          <span class="font-weight-bold small">批准： </span>
                           {{projApprovedDate}}
                           {{/if}}
                           {{#if assignedTC}}
                           {{#with (groupIdLookup ../../../../dataGroups assignedTC)}}
                           <br>
-                          <span class="font-weight-bold small">Assigned TC: </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属委员会： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../../dataGroups assignedGroup)}}
                           <br>
-                          <span class="font-weight-bold small">Assigned Group: </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if workNotes}}
                           <div class="p-2">
-                            <span class="font-weight-bold small">Notes:</span> <em>{{workNotes}}</em>
+                            <span class="font-weight-bold small">备注：</span> <em>{{workNotes}}</em>
                           </div>
                           {{/if}}
                           {{#if docAffected}}
                           <div class="p-2">
-                            <span class="font-weight-bold small">Document(s) affected by this work:</span>
+                            <span class="font-weight-bold small">受影响文件：</span>
                             {{#docAffected}}
                             <br><span class="small"><a class="{{../../../../../idType}}-link clear-filter" href="#{{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
                             {{/docAffected}}
@@ -258,17 +258,17 @@
                           {{/if}}
                           {{#if projectMilestone}}
                           <br>
-                          <span class="font-weight-bold small">Milestone(s):</span>
+                          <span class="font-weight-bold small">里程碑：</span>
                           {{#projectMilestone}}
                           <div class="p-2{{#if @first}} border-top{{/if}}{{#unless @last}} border-bottom{{/unless}}">
-                            {{milestoneAct}} {{#if current}}<span class="label badge badge-info float-right">Current</span>{{/if}}
+                            {{milestoneAct}} {{#if current}}<span class="label badge badge-info float-right">当前</span>{{/if}}
                             {{#if miledateStart}}
                               <br>
-                              <span class="font-weight-bold small">Start Date:</span> {{miledateStart}}
+                              <span class="font-weight-bold small">开始日期：</span> {{miledateStart}}
                             {{/if}}
                             {{#if miledateEnd}}
                               <br>
-                              <span class="font-weight-bold small">End Date:</span> {{miledateEnd}}
+                              <span class="font-weight-bold small">结束日期：</span> {{miledateEnd}}
                             {{/if}}
                           </div>
                           {{/projectMilestone}}
@@ -282,36 +282,36 @@
                       {{#if review}}
                       <div>
                         <div class="p-2 border-bottom bg-secondary">
-                          <span class="text-light"><b>Review(s)</b></span>
+                          <span class="text-light"><b>复审情况</b></span>
                         </div>
                         {{#review}}
                         <div class="p-2{{#unless @last}} border-bottom{{/unless}}">
-                          <span class="font-weight-bold small">Review Period: </span>{{reviewPeriod}}
+                          <span class="font-weight-bold small">复审周期：</span>{{reviewPeriod}}
                           {{#if reviewNeeded}}
                           <br>
-                          <span class="font-weight-bold small">Review Needed:</span> <span class="label badge badge-danger">是</span>
+                          <span class="font-weight-bold small">需要复审：</span> <span class="label badge badge-danger">是</span>
                           {{/if}}
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../dataGroups assignedGroup)}}
                           <br>
-                          <span class="font-weight-bold small">Assigned Group: </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if reviewDate}}
                           <br>
-                          <span class="font-weight-bold small">Review Date:</span> {{reviewDate}}
+                          <span class="font-weight-bold small">复审日期：</span> {{reviewDate}}
                           {{/if}}
                           {{#if reviewRec}}
                           <br>
-                          <span class="font-weight-bold small">Review Recommendation:</span> {{reviewRec}}
+                          <span class="font-weight-bold small">复审建议：</span> {{reviewRec}}
                           {{/if}}
                           {{#if recApproved}}
                           <br>
-                          <span class="font-weight-bold small">Recomendation Approved:</span> 是
+                          <span class="font-weight-bold small">建议被采纳：</span> 是
                           {{/if}}
                           {{#if reviewNotes}}
                           <div class="p-2">
-                            <span class="font-weight-bold small">Notes:</span> <em>{{reviewNotes}}</em>
+                            <span class="font-weight-bold small">备注：</span> <em>{{reviewNotes}}</em>
                           </div>
                           {{/if}}
                         </div>
