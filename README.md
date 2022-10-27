@@ -1,11 +1,5 @@
-Media Standards Registry
+中国电影标准
 ========================
 
-The list data is:
-
-* stored as JSON at [`src/main/data`](src/main/data/)
-* schema for contribution to the list at [`src/main/schemas`](src/main/schemas/)
-
-A build of the website from the `master` branch is automatically published at:
-
-https://stevellamb.github.io/mediastandards-registry/
+实验用SteveLLamb的贡献进行中国电影标准化管理。
+https://zhangzhangco.github.io/mediastandards-registry-china/
