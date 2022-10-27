@@ -1215,8 +1215,12 @@
     }
   },
   {
-    "authors":["张鑫","崔强","张红","刘翼光"],
-    "participationUnits":["中国电影科学技术研究所","国家广电总局电影数字节目管理中心"],
+    "authors": [
+      "张鑫",
+      "崔强",
+      "张红",
+      "刘翼光"
+    ],
     "docId": "gyt-247-2011",
     "docLabel": "GY/T 247-2011",
     "docTitle": "影院管理系统基本功能和接口规范",
@@ -1226,6 +1230,10 @@
     "implementationDate": "2011-08-03",
     "keywords": [
       "影院信息化"
+    ],
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "国家广电总局电影数字节目管理中心"
     ],
     "publicationDate": "2011-08-03",
     "publisher": "国家广播电影电视总局",

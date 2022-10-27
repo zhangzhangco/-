@@ -4,12 +4,14 @@
     "groupLink": "https://www.sarft.gov.cn/",
     "groupName": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "groupOrg": "国家广播电影电视总局",
-    "parentgroupId": "全国广播电影电视标准化技术委员会（SAC/TC239）",
     "groupStatus": {
       "active": false,
-      "assignedGroup": ["国家电影局"]
+      "assignedGroup": [
+        "国家电影局"
+      ]
     },
-    "groupType": "SC"
+    "groupType": "SC",
+    "parentgroupId": "全国广播电影电视标准化技术委员会（SAC/TC239）"
   },
   {
     "groupId": "全国广播电影电视标准化技术委员会（SAC/TC239）",
