@@ -401,7 +401,7 @@ $(document).ready(function() {
         extend: 'searchPanes',
         config:{
           cascadePanes: true,
-          emptyMessage:"<i><b>None Defined</b></i>",
+          emptyMessage:"<i><b>未定义</b></i>",
           dtOpts: {
             select: {
                 style: 'multi'
@@ -444,7 +444,7 @@ $(document).ready(function() {
         width: '5%',
         targets:[4],
         searchPanes: {
-          header: "Group"
+          header: "归口"
         }
       },
       {
@@ -487,57 +487,57 @@ $(document).ready(function() {
         searchPanes: {
           options:[
             {
-              label: 'Active',
+              label: '有效',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ ACTIVE ]');
+                return rowData[8].includes('[ 有效 ]');
               }
             },
             {
-              label: 'Amended',
+              label: '已修正',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ AMENDED ]');
+                return rowData[8].includes('[ 已修正 ]');
               }
             },
             {
-              label: 'Draft',
+              label: '工作组讨论稿',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ DRAFT ]');
+                return rowData[8].includes('[ 工作组讨论稿 ]');
               }
             },
             {
-              label: 'Public CD',
+              label: '征求意见',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ PUBLIC CD ]');
+                return rowData[8].includes('[ 征求意见 ]');
               }
             },
             {
-              label: 'Reaffirmed',
+              label: '已复审',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ REAFFIRMED ]');
+                return rowData[8].includes('[ 已复审 ]');
               }
             },
             {
-              label: 'Stabilized',
+              label: '稳定',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ STABILIZED ]');
+                return rowData[8].includes('[ 稳定 ]');
               }
             },
             {
-              label: 'Superseded',
+              label: '被代替',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ SUPERSEDED ]');
+                return rowData[8].includes('[ 被代替 ]');
               }
             },
             {
-              label: 'Unknown',
+              label: '未知',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ UNKNOWN ]');
+                return rowData[8].includes('[ 未知 ]');
               }
             },
             {
-              label: 'Withdrawn',
+              label: '废止',
               value: function(rowData, rowIdx){
-                return rowData[7].includes('[ WITHDRAWN ]');
+                return rowData[8].includes('[ 废止 ]');
               }
             }
           ]
@@ -551,7 +551,7 @@ $(document).ready(function() {
       {
         visible: false,
         searchPanes: {
-          header: "Current Work",
+          header: "当前工作",
           orthogonal: 'sp'
         },
         render: function (data, type, row) {

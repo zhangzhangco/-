@@ -58,7 +58,7 @@
               <span class="label badge badge-danger">[ 废止 ]</span><br> 
             {{/status/withdrawn}}
             {{#status/superseded}}
-              <span class="label badge badge-warning">[ 代替 ]</span><br>
+              <span class="label badge badge-warning">[ 被代替 ]</span><br>
             {{/status/superseded}}
             {{#if status/supersededBy}}
               <div class="border-left p-1">
@@ -97,10 +97,10 @@
               </div>
             {{/if}}
             {{#status/reaffirmed}}
-              <span class="label badge badge-info">[ REAFFIRMED ]</span><br>
+              <span class="label badge badge-info">[ 已复审 ]</span><br>
             {{/status/reaffirmed}}
             {{#status/stabilized}}
-              <span class="label badge badge-primary">[ STABILIZED ]</span>  
+              <span class="label badge badge-primary">[ 稳定 ]</span>  
             {{/status/stabilized}}   
 
             {{#unless status/active}}

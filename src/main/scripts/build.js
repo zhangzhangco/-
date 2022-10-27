@@ -235,9 +235,9 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
     var cS = ""
 
     if(status.draft){
-      cS = "Draft"
+      cS = "工作组讨论稿"
       if (status.publicCd){
-        cS = cS.concat(", Public CD");
+        cS = cS.concat(", 征求意见稿");
       }
     }
     else if(status.unknown){
