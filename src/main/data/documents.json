@@ -980,8 +980,8 @@
       "发行",
       "图像"
     ],
-    "repo": "https://github.com/SMPTE/st428-1",
     "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st428-1",
     "status": {
       "active": true
     }
@@ -1002,8 +1002,8 @@
       "发行",
       "声音"
     ],
-    "repo": "https://github.com/SMPTE/st428-2",
     "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st428-2",
     "status": {
       "active": true
     }
@@ -1056,7 +1056,7 @@
     "status": {
       "active": true
     }
-  },   
+  },
   {
     "docId": "SMPTE.ST431-1.2006",
     "docLabel": "SMPTE ST 431-1:2006",
@@ -1085,7 +1085,7 @@
       "reaffirmDate": "2018-03-15T07:00:00.000Z",
       "reaffirmed": true
     }
-  }, 
+  },
   {
     "docId": "iso26431-1-2008",
     "docLabel": "ISO 26431-1:2008",
@@ -1108,7 +1108,7 @@
     "status": {
       "active": true
     }
-  },  
+  },
   {
     "docId": "aes3-2003",
     "docLabel": "AES3-2003",
@@ -1120,7 +1120,7 @@
       "active": false,
       "superseded": true
     }
-  },    
+  },
   {
     "docId": "dci-dcss-v11",
     "docLabel": "DCSS v1.1 2007-0412",
