@@ -1463,7 +1463,7 @@
     }
   },
   {
-    "adoption": "ISO 26429-7:2008",
+    "adoption": "iso26429-7-2008",
     "authors": [
       "刘戈三",
       "王萃",
@@ -1494,7 +1494,27 @@
     }
   },
   {
-    "adoption": "ISO 26429-8:2008",
+    "docId": "iso26429-7-2008",
+    "docLabel": "ISO 26429-7:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 7: Composition playlist",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50223.html",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "adoption": "iso26429-8-2008",
     "authors": [
       "王萃",
       "方捷新",
@@ -1522,7 +1542,25 @@
     }
   },
   {
-    "adoption": "ISO 26429-9:2008",
+    "docId": "iso26429-8-2008",
+    "docLabel": "ISO 26429-8:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 8: Packing list",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/52785.html",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心"
+    ],
+    "publisher": "ISO",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "adoption": "iso26429-9-2008",
     "authors": [
       "刘茂英",
       "王木旺",
@@ -1550,7 +1588,27 @@
     }
   },
   {
-    "adoption": "ISO 26429-10:2008",
+    "docId": "iso26429-9-2008",
+    "docLabel": "ISO 26429-9:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 9: Asset mapping and file segmentation",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/52786.html",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "发行"
+    ],
+    "publicationDate": "2009-12-01",
+    "publisher": "ISO",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "adoption": "iso26429-10-2008",
     "authors": [
       "刘茂英",
       "李铭",
@@ -1578,6 +1636,26 @@
     "publisher": "国家电影局",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "iso26429-10-2008",
+    "docLabel": "ISO 26429-10:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 10: Stereoscopic picture track file",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/52787.html",
+    "keywords": [
+      "DCinema",
+      "DCP核心",
+      "发行",
+      "图像",
+      "打包"
+    ],
+    "publisher": "ISO",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
@@ -2318,7 +2396,7 @@
     }
   },
   {
-    "adoption": "ISO 26428-1:2008",
+    "adoption": "iso26428-1-2008",
     "authors": [
       "李虹珊",
       "刘茂英",
@@ -2346,7 +2424,27 @@
     }
   },
   {
-    "adoption": "ISO 26428-2:2008",
+    "docId": "iso26428-1-2008",
+    "docLabel": "ISO 26428-1:2008",
+    "docTitle": "Digital cinema (D-cinema) distribution master — Part 1: Image characteristics",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50204.html",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "DCP核心",
+      "发行",
+      "图像"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "adoption": "iso26428-2-2008",
     "authors": [
       "陈飞",
       "吴凌",
@@ -2375,7 +2473,29 @@
     }
   },
   {
-    "adoption": "ISO 26429-3:2008",
+    "docId": "iso26428-2-2008",
+    "docLabel": "ISO 26428-2:2008",
+    "docTitle": "Digital cinema (D-cinema) distribution master — Part 3: Audio channel mapping and channel docLabeling",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50218.html",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "DCP核心",
+      "发行",
+      "声音"
+    ],
+    "publicationDate": "2008-07-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "adoption": "iso26429-3-2008",
     "authors": [
       "刘茂英",
       "张鑫",
@@ -2402,7 +2522,31 @@
     }
   },
   {
-    "adoption": "ISO 26429-4:2008",
+    "docId": "iso26429-3-2008",
+    "docLabel": "ISO 26429-3:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 3: Sound and picture track file",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50205.html",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "图像",
+      "声音",
+      "MXF应用",
+      "JPEG2000"
+    ],
+    "publicationDate": "2008-07-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "adoption": "iso26429-4-2008",
     "authors": [
       "刘戈三",
       "李铭",
@@ -2433,6 +2577,29 @@
     "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "iso26429-4-2008",
+    "docLabel": "ISO 26429-4:2008",
+    "docTitle": "Digital cinema (D-cinema) packaging — Part 4: MXF JPEG 2000 application",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50221.html",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "图像",
+      "MXF应用",
+      "JPEG2000"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2018-01-01",
+      "reaffirmed": true
     }
   },
   {
