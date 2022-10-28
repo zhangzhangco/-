@@ -879,7 +879,12 @@
         "iso15444-1",
         "isocie10527-1991",
         "SMPTE.ST372.2002",
-        "SMPTE.ST428-1"
+        "SMPTE.ST428-1",
+        "SMPTE.ST428-2",
+        "SMPTE.ST429-3",
+        "SMPTE.ST429-4",
+        "SMPTE.ST431-1.2006",
+        "aes3-2003"
       ]
     },
     "status": {
@@ -967,19 +972,155 @@
     "docTitle": "D-Cinema Distribution Master (DCDM) - Image Characteristics",
     "docType": "国外标准",
     "group": "smpte-21dc-tc",
-    "href": "https://doi.org/10.5594/SMPTE.ST428-1.2006",
+    "href": "https://doi.org/10.5594/SMPTE.ST428-1.2019",
     "keywords": [
       "DCinema",
       "DCDM",
-      "DCP Core",
-      "Distribution",
-      "Image"
+      "DCP核心",
+      "发行",
+      "图像"
     ],
+    "repo": "https://github.com/SMPTE/st428-1",
     "publisher": "SMPTE",
     "status": {
       "active": true
     }
   },
+  {
+    "docId": "SMPTE.ST428-2",
+    "docLabel": "SMPTE ST 428-2",
+    "docNumber": "428",
+    "docPart": "2",
+    "docTitle": "D-Cinema Distribution Master - Audio Characteristics",
+    "docType": "国外标准",
+    "group": "smpte-21dc-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST428-2.2006",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "DCP核心",
+      "发行",
+      "声音"
+    ],
+    "repo": "https://github.com/SMPTE/st428-2",
+    "publisher": "SMPTE",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST429-3",
+    "docLabel": "SMPTE ST 429-3",
+    "docNumber": "429",
+    "docPart": "3",
+    "docTitle": "D-Cinema Packaging - Sound and Picture Track File",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST429-3.2007",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST429-3.2007",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "图像",
+      "声音",
+      "MXF应用",
+      "JPEG2000"
+    ],
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st429-3",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST429-4",
+    "docLabel": "SMPTE ST 429-4",
+    "docNumber": "429",
+    "docPart": "4",
+    "docTitle": "D-Cinema Packaging - MXF JPEG 2000 Application",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST429-4.2020",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST429-4.2020",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "图像",
+      "MXF应用",
+      "JPEG2000"
+    ],
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st429-4",
+    "status": {
+      "active": true
+    }
+  },   
+  {
+    "docId": "SMPTE.ST431-1.2006",
+    "docLabel": "SMPTE ST 431-1:2006",
+    "docNumber": "431",
+    "docPart": "1",
+    "docTitle": "D-Cinema Quality - Screen Luminance Level, Chromaticity and Uniformity",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST431-1.2006",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST431-1.2006",
+    "keywords": [
+      "DCinema",
+      "质量",
+      "放映",
+      "测量",
+      "图像"
+    ],
+    "publicationDate": "2006-04-18",
+    "publisher": "SMPTE",
+    "relatedDocs": [
+      "iso26431-1-2008"
+    ],
+    "repo": "https://github.com/SMPTE/st431-1",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2018-03-15T07:00:00.000Z",
+      "reaffirmed": true
+    }
+  }, 
+  {
+    "docId": "iso26431-1-2008",
+    "docLabel": "ISO 26431-1:2008",
+    "docTitle": "Digital cinema (D-cinema) quality — Part 1: Screen luminance level, chromaticity and uniformity",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50207.html",
+    "keywords": [
+      "DCinema",
+      "质量",
+      "放映",
+      "测量",
+      "图像"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "relatedDocs": [
+      "SMPTE.ST431-1.2006"
+    ],
+    "status": {
+      "active": true
+    }
+  },  
+  {
+    "docId": "aes3-2003",
+    "docLabel": "AES3-2003",
+    "docTitle": "AES standard for digital audio engineering - Serial transmission format for two-channel linearly represented digital audio data",
+    "docType": "国外标准",
+    "href": "http://www.aes.org/publications/standards/search.cfm?docID=13",
+    "publisher": "AES",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },    
   {
     "docId": "dci-dcss-v11",
     "docLabel": "DCSS v1.1 2007-0412",
@@ -1234,7 +1375,6 @@
       "review": [
         {
           "assignedGroup": "国家电影局",
-          "recApproved": true,
           "reviewDate": "2017-01-01",
           "reviewPeriod": "5年"
         }
@@ -1265,8 +1405,7 @@
     "publicationDate": "2022-06-15",
     "publisher": "DCI",
     "status": {
-      "active": true,
-      "statusNote": "build 0c0cff3"
+      "active": true
     }
   }
 ]

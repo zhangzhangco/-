@@ -72,7 +72,7 @@ $(document).ready(function() {
         }
       },
       {
-        text: 'Clear All Filters',
+        text: '清除所有过滤项',
         action: function ( e, dt, node, config ) {
           var table = $('#sorttableGroups').DataTable();
           table
@@ -113,9 +113,9 @@ $(document).ready(function() {
       "<'row'<'col d-print-none d-flex align-items-center'B><'col d-flex justify-content-center align-items-center'i><'col d-print-none d-flex justify-content-end align-items-center'f>>" +
       "<'row'<'col-sm-12't>>",
     language: {
-      processing: "Loading filtering options...",
+      processing: "加载过滤选项",
       searchPanes: {
-        collapse: {0: 'Filter Options', _: 'Filter Options (%d)'}
+        collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
       }
     }
   };
@@ -141,7 +141,7 @@ $(document).ready(function() {
         extend: 'searchPanes',
         config:{
           cascadePanes: true,
-          emptyMessage:"<i><b>None Defined</b></i>",
+          emptyMessage:"<i><b>未定义</b></i>",
           dtOpts: {
             select: {
                 style: 'multi'
@@ -153,7 +153,7 @@ $(document).ready(function() {
         }
       },
       {
-        text: 'Clear All Filters',
+        text: '清除所有过滤项',
         action: function ( e, dt, node, config ) {
           var table = $('#sorttableProjs').DataTable();
           table
@@ -173,9 +173,9 @@ $(document).ready(function() {
       "<'row'<'col d-print-none d-flex align-items-center'B><'col d-flex justify-content-center align-items-center'i><'col d-print-none d-flex justify-content-end align-items-center'f>>" +
       "<'row'<'col-sm-12't>>",
     language: {
-      processing: "Loading filtering options...",
+      processing: "加载过滤选项",
       searchPanes: {
-        collapse: {0: 'Filter Options', _: 'Filter Options (%d)'}
+        collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
       }
     },
     columnDefs:[
@@ -183,27 +183,27 @@ $(document).ready(function() {
         visible: false,
         targets:[4],
         searchPanes: {
-          header: "Approved"
+          header: "已批准"
         }
       },
       {
         visible: false,
         targets:[6],
         searchPanes: {
-          header: "Status"
+          header: "状态"
         }
       },
       {
         visible: false,
         targets:[8],
         searchPanes: {
-          header: "Group"
+          header: "归口"
         }
       },
       {
         visible: false,
         searchPanes: {
-          header: "Current Milestone",
+          header: "里程碑",
           dtOpts: {
             order: [[1, 'desc']]
           },
@@ -413,7 +413,7 @@ $(document).ready(function() {
         }
       },
       {
-        text: 'Clear All Filters',
+        text: '清除所有过滤项',
         action: function ( e, dt, node, config ) {
           var table = $('#sorttableDocs').DataTable();
           table
@@ -433,9 +433,9 @@ $(document).ready(function() {
       "<'row'<'col d-print-none d-flex align-items-center'B><'col d-flex justify-content-center align-items-center'i><'col d-print-none d-flex justify-content-end align-items-center'f>>" +
       "<'row'<'col-sm-12't>>",
     language: {
-      processing: "Loading filtering options...",
+      processing: "加载过滤项",
       searchPanes: {
-        collapse: {0: 'Filter Options', _: 'Filter Options (%d)'}
+        collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
       }
     },
     columnDefs:[

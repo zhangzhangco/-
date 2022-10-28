@@ -43,5 +43,31 @@
       "active": true
     },
     "groupType": "TC"
+  },
+  {
+    "groupDesc": "Digital Cinema",
+    "groupId": "smpte-21dc-tc",
+    "groupName": "21DC",
+    "groupOrg": "SMPTE",
+    "groupRepo": "https://github.com/orgs/SMPTE/teams/21dc",
+    "groupStatus": {
+      "active": false,
+      "assignedGroup": [
+        "smpte-27c-tc"
+      ]
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupDesc": "Cinema",
+    "groupId": "smpte-27c-tc",
+    "groupName": "27C",
+    "groupOrg": "SMPTE",
+    "groupRepo": "https://github.com/orgs/SMPTE/teams/27c",
+    "groupStatus": {
+      "pending": true
+    },
+    "groupSummary": "筹建的新TC，涵盖胶片和数字的影院发行、制作和运营。",
+    "groupType": "TC"
   }
 ]
