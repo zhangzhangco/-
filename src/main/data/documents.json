@@ -1286,19 +1286,6 @@
     }
   },
   {
-    "docId": "gbt-50076-2013",
-    "docLabel": "GB/T 50076—2013",
-    "docTitle": "室内混响时间测量规范",
-    "docType": "国家标准",
-    "href": "javascript:;",
-    "implementationDate": "2014-03-01",
-    "publicationDate": "2013-08-08",
-    "publisher": "中华人民共和国住房和城乡建设部/中华人民共和国国家质量监督检验检疫总局",
-    "status": {
-      "unknown": true
-    }
-  },
-  {
     "adoption": "iso26431-1-2008",
     "authors": [
       "李涵初",
