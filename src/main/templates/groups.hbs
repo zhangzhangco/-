@@ -33,7 +33,18 @@
             <a class="anchor" id="{{groupId}}" href="#{{groupId}}"></a>{{groupOrg}}
           </td>
           <td>
-            {{#if groupLink}}<a href="{{groupLink}}" target="_blank">{{/if}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}{{#ifnoteq groupType "TC"}}{{#with (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/ifnoteq}}{{#ifeq groupType "TC"}}{{groupName}}{{/ifeq}} - {{/with}}{{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}</a>{{/if}}
+            {{#if groupLink}}<a href="{{groupLink}}" target="_blank">{{/if}}
+           {{!--  {{#if parentgroupId}}
+              {{#with (groupIdLookup ../dataGroups parentgroupId)}}
+                {{#ifnoteq groupType "TC"}}
+                  {{#with (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}}
+                {{/ifnoteq}}
+                {{#ifeq groupType "TC"}}
+                  {{groupName}}
+                {{/ifeq}} - 
+              {{/with}}
+            {{/if}} --}}
+            {{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}</a>{{/if}}
           </td>
           <td class="text-center">
             {{groupType}}
@@ -59,7 +70,14 @@
           </td>
           <td>
             {{#ifeq groupType "TC"}}
-            <a href="../{{../htmlLink}}?search.search={{spaceReplace groupOrg}}{{#if parentgroupId}}{{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}{{/if}}%20{{spaceReplace groupName}}{{#if groupDesc}}%20{{spaceReplace groupDesc}}{{/if}}">发布</a>
+              <a href="../{{../htmlLink}}?search.search={{spaceReplace groupOrg}}
+              {{!-- {{#if parentgroupId}}
+                {{#with (groupIdLookup ../dataGroups parentgroupId)}}%20{{spaceReplace groupName}}{{/with}}
+              {{/if}}%20{{spaceReplace groupName}} 
+              {{#if groupDesc}}%20
+                {{spaceReplace groupDesc}}
+              {{/if}} --}}
+              ">发布</a>
             {{/ifeq}}
           </td>
           <td>

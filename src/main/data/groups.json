@@ -3,7 +3,7 @@
     "groupId": "CSMPTE",
     "groupLink": "https://www.csmpte.org.cn/",
     "groupName": "中国电影电视技术学会",
-    "groupOrg": "",
+    "groupOrg": "中国电影电视技术学会",
     "groupStatus": {
       "active": true
     },
@@ -13,7 +13,7 @@
     "groupId": "中国科学技术学会",
     "groupLink": "https://www.cast.org.cn/",
     "groupName": "中国科学技术学会",
-    "groupOrg": "",
+    "groupOrg": "中国科学技术学会",
     "groupStatus": {
       "active": true
     },
@@ -58,11 +58,11 @@
     "groupId": "国家电影局",
     "groupLink": "https://www.chinafilm.gov.cn/",
     "groupName": "国家电影局",
-    "groupOrg": "",
+    "groupOrg": "国家电影局",
     "groupStatus": {
       "active": true
     },
-    "groupType": "ADMIN"
+    "groupType": "TC"
   },
   {
     "groupDesc": "Cinematography",
