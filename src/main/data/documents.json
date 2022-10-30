@@ -947,7 +947,7 @@
     "docTitle": "CIE standard colorimetric observers",
     "docType": "国际标准",
     "href": "https://www.iso.org/standard/18596.html",
-    "publicationDate": "1991-12-01T07:00:00.000Z",
+    "publicationDate": "1991-12-01",
     "publisher": "ISO/CIE",
     "status": {
       "active": false,
@@ -1086,7 +1086,7 @@
     "repo": "https://github.com/SMPTE/st431-1",
     "status": {
       "active": true,
-      "reaffirmDate": "2018-03-15T07:00:00.000Z",
+      "reaffirmDate": "2018-03-15",
       "reaffirmed": true
     }
   },
