@@ -493,9 +493,9 @@ $(document).ready(function() {
               }
             },
             {
-              label: '已修正',
+              label: '已修改',
               value: function(rowData, rowIdx){
-                return rowData[8].includes('[ 已修正 ]');
+                return rowData[8].includes('[ 已修改 ]');
               }
             },
             {
