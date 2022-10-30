@@ -149,7 +149,7 @@ $(document).ready(function() {
           }, 
           layout: 'columns-5',
           viewTotal: true,
-          columns: [8, 2, 4, 6, 10]
+          columns: [8, 2, 0, 6, 10]
         }
       },
       {

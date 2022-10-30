@@ -37,6 +37,9 @@
                     "docId": {
                         "type": "string"
                     },
+                    "docType": {
+                        "type": "string"
+                    },
                     "projApproved": {
                         "type": "boolean"
                     },
@@ -97,11 +100,16 @@
                                 "milestoneAct": {
                                     "type": "string",
                                     "enum": [
+                                        "未知",
+                                        "待立项",
+                                        "项目启动 (5%)",
+                                        "工作组标准草稿 (15%)",
                                         "工作组讨论稿 (30%)",
                                         "征求意见稿 (50%)",
                                         "送审讨论稿 (70%)",
                                         "送审稿 (90%)",
                                         "送审讨论稿 (100%)",
+                                        "归档",
                                         "Awaiting ST Objection Disposition Vote (5%)",
                                         "Waiting for Group Assignment (15%)",
                                         "WG/DG working on WD (20%)",

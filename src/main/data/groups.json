@@ -1,5 +1,36 @@
 [
   {
+    "groupId": "CSMPTE",
+    "groupLink": "https://www.csmpte.org.cn/",
+    "groupName": "中国电影电视技术学会",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "中国科学技术学会",
+    "groupLink": "https://www.cast.org.cn/",
+    "groupName": "中国科学技术学会",
+    "groupOrg": "",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "中国科协科普部",
+    "groupLink": "https://www.cast.org.cn/",
+    "groupName": "中国科协科普部",
+    "groupOrg": "中国科学技术学会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "SC",
+    "parentgroupId": "中国科学技术学会"
+  },
+  {
     "groupId": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "groupLink": "https://www.sarft.gov.cn/",
     "groupName": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",

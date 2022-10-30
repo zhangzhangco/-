@@ -1,144 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
-  {{>header}}
-    <!-- Main content starts - do not edit above this line -->
-    <table id="sorttableProjs" class="table table-small table-hover">
-      <thead class="thead-light">
-        <tr>
-          <th scope="col">项目</th>
-          <th scope="col">文件</th>
-          <th scope="col" class="text-center text-nowrap">工作类型</th>
-          <th scope="col">被批准</th>
-          <th scope="col" class="d-none"></th>
-          <th scope="col">状态</th>
-          <th scope="col" class="d-none"></th>
-          <th scope="col">组织</th>
-          <th scope="col" class="d-none"></th>
-          <th scope="col">影响标准</th>
-          <th scope="col" class="d-none"></th>
-          <th scope="col" class="col-3">详情</th>
-          <th scope="col">依赖关系</th>
-          <th scope="col" class="col-2">注释</th>
-        </tr>
-      </thead>
-      <tbody id="searchTable">
-        {{#dataProjects}}
-        <tr id="{{../idType}}-{{projectId}}" {{#ifeq projectStatus "取消"}}class="cancelled"{{/ifeq}}{{#ifeq projectStatus "未决"}}class="pending"{{/ifeq}}>
-          <td class="projectlabel">
-            <a class="anchor" id="{{projectId}}" href="#{{projectId}}"></a><code>{{projectId}}</code>
-          </td>
-          <td>
-            {{#if docId}}
-            <a class="document-link clear-filter" href="../{{../htmlLink}}?search.search={{docId}}">{{getLabel docId}} {{getTitle docId}}</a>
-            <br>
-            [{{getStatus docId}}] {{{getstatusButton docId "12"}}}
-            {{/if}}
-            {{#if repo}}
-            {{#if docId}}
-            <br>
-            {{/if}}
-            [<a href="{{repo}}" target="_blank">参与方式</a>]
-            {{/if}}
-          </td>
-          <td>
-            {{workType}}
-          </td>
-          <td class="text-center">
-            {{#if projApproved}}<span class="label badge badge-success">是</span>{{/if}}
-            {{#if projApprovedDate}}
-            <br><span class="small">[批准日期： {{projApprovedDate}}]</span>
-            {{/if}}
-            {{#unless projApproved}}<span class="label badge badge-warning">未决</span>{{/unless}}
-          </td>
-          <td class="d-none">
-            {{#if projApproved}}是{{/if}}
-            {{#unless projApproved}}未决{{/unless}}
-          </td>
-          <td class="text-center">
-            {{#if projectLink}}<a href="{{projectLink}}" target="_blank">{{/if}}{{projectStatus}}{{#if projectLink}}</a>{{/if}}
-          </td>
-          <td class="d-none">
-            {{projectStatus}}
-          </td>
-          <td>
-            {{#if assignedGroup}}
-            {{#with (groupIdLookup ../dataGroups assignedGroup)}}
-            {{#if groupId}}<a href="../groups/{{../../htmlLink}}#{{groupId}}">{{/if}}{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupId}}</a>{{/if}}
-            {{/with}}
-            {{/if}}
-          </td>
-          <td class="d-none">
-            {{#if assignedGroup}}
-            {{#with (groupIdLookup ../dataGroups assignedGroup)}}
-            {{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}
-            {{/with}}
-            {{/if}}
-          </td>
-          <td class="p-1">
-            {{#if docAffected}}
-            <ul class="list-group list-group-flush">
-            {{#docAffected}}
-              <li class="list-group-item">
-                <span class="small"><a class="document-link clear-filter" href="../{{../../htmlLink}}?search.search={{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
-              </li>
-            {{/docAffected}}
-            </ul>
-            {{/if}}
-          </td>
-          <td class="d-none">
-            {{#if projectMilestone}}
-            {{#projectMilestone}}
-            {{#if current}}
-              {{milestoneAct}}              
-            {{/if}}
-            {{/projectMilestone}}
-            {{/if}}
-          </td>
-          <td class="p-1">
-            {{#if projectMilestone}}
-            {{#projectMilestone}}
-            <div class="p-2{{#unless @last}} border-bottom{{/unless}}">
-              <span class="font-weight-bold small">进度：  </span>{{milestoneAct}} 
-              <br>
-              {{#if authors}}
-              <span class="font-weight-bold small">起草人： </span> {{#authors}}{{this}}{{#unless @last}}, {{/unless}}{{/authors}}
-              <br>
-              {{/if}}
-              {{#if participationUnits}}
-              <span class="font-weight-bold small">参与单位：</span> {{#participationUnits}}{{this}}{{#unless @last}}, {{/unless}}{{/participationUnits}}
-              <br>
-              {{/if}}
-              {{#if miledateStart}}
-                <br>
-                <span class="font-weight-bold small">Start Date:</span> {{miledateStart}}
-              {{/if}}
-              {{#if miledateEnd}}
-                <br>
-                <span class="font-weight-bold small">End Date:</span> {{miledateEnd}}
-              {{/if}}
-            </div>
-            {{/projectMilestone}}
-            {{/if}}
-          </td>
-          <td class="p-1">
-            {{#if updateDependency}}
-            <ul class="list-group list-group-flush">
-            {{#updateDependency}}
-              <li class="list-group-item">
-                <span class="small"><a class="document-link clear-filter" href="../{{../../htmlLink}}?search.search={{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
-              </li>
-            {{/updateDependency}}
-            </ul>
-            {{/if}}
-          </td>
-          <td>
-            {{workNotes}}
-          </td>
-        </tr>
-        {{/dataProjects}}
-      </tbody>
-    </table>
-    <!-- Main content ends - do not edit below this line -->
+{{>header}}
+<!-- Main content starts - do not edit above this line -->
+<table id="sorttableProjs" class="table table-small table-hover">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">类型</th>
+      <th scope="col">文件</th>
+      <th scope="col" class="text-center text-nowrap">工作类型</th>
+      <th scope="col" style="display:none">被批准</th>
+      <th scope="col" class="d-none"></th>
+      <th scope="col">状态</th>
+      <th scope="col" class="d-none"></th>
+      <th scope="col">组织</th>
+      <th scope="col" class="d-none"></th>
+      <th scope="col">影响标准</th>
+      <th scope="col" class="d-none"></th>
+      <th scope="col" class="col-3">详情</th>
+      <th scope="col" style="display:none">依赖关系</th>
+      <th scope="col" class="col-2">注释</th>
+    </tr>
+  </thead>
+  <tbody id="searchTable">
+    {{#dataProjects}}
+    <tr id="{{../idType}}-{{projectId}}" {{#ifeq projectStatus "取消" }}class="cancelled" {{/ifeq}}{{#ifeq
+      projectStatus "未决" }}class="pending" {{/ifeq}}>
+      <td class="projectlabel">
+        <a class="anchor" id="{{projectId}}" href="#{{projectId}}"></a>{{docType}}
+      </td>
+      <td>
+        {{#if docId}}
+        <a class="document-link clear-filter" href="../{{../htmlLink}}?search.search={{docId}}">
+          {{getLabel docId}} {{getTitle docId}}</a>
+        <br>
+        [{{getStatus docId}}] {{{getstatusButton docId "12"}}}
+        {{else}}
+        {{docTitle}}
+        {{/if}}
+        {{#if repo}}
+        {{#if docId}}
+        <br>
+        {{/if}}
+        [<a href="{{repo}}" target="_blank">参与方式</a>]
+        {{/if}}
+      </td>
+      <td>
+        {{workType}}
+      </td>
+      <td class="text-center" style="display:none">
+        {{#if projApproved}}<span class="label badge badge-success">是</span>{{/if}}
+        {{#if projApprovedDate}}
+        <br><span class="small">[批准日期： {{projApprovedDate}}]</span>
+        {{/if}}
+        {{#unless projApproved}}<span class="label badge badge-warning">未决</span>{{/unless}}
+      </td>
+      <td class="d-none">
+        {{#if projApproved}}是{{/if}}
+        {{#unless projApproved}}未决{{/unless}}
+      </td>
+      <td class="text-center">
+        {{#if projectLink}}<a href="{{projectLink}}" target="_blank">{{/if}}
+          {{#ifeq projectStatus "未决"}}
+          <span class="label badge badge-warning">[ 未决 ]</span><br>
+          {{/ifeq}}
+          {{#ifeq projectStatus "进行"}}
+          <span class="label badge badge-success">[ 进行 ]</span><br>
+          {{/ifeq}}
+          {{#ifeq projectStatus "完成"}}
+          <span class="label badge badge-success">[ 完成 ]</span><br>
+          {{/ifeq}}
+          {{#ifeq projectStatus "取消"}}
+          <span class="label badge badge-secondary text-uppercase">[ 取消 ]</span><br>
+          {{/ifeq}}{{#if projectLink}}</a>{{/if}}
+      </td>
+      <td class="d-none">
+        {{projectStatus}}
+      </td>
+      <td>
+        {{#if assignedGroup}}
+        {{#with (groupIdLookup ../dataGroups assignedGroup)}}
+        {{#if groupId}}<a href="../groups/{{../../htmlLink}}#{{groupId}}">{{/if}}{{#if parentgroupId}}{{#with
+          (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}}
+          {{groupDesc}}{{/if}}{{#if groupId}}</a>{{/if}}
+        {{/with}}
+        {{/if}}
+      </td>
+      <td class="d-none">
+        {{#if assignedGroup}}
+        {{#with (groupIdLookup ../dataGroups assignedGroup)}}
+        {{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../dataGroups parentgroupId)}}{{groupName}}{{/with}}
+        {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}
+        {{/with}}
+        {{/if}}
+      </td>
+      <td class="p-1">
+        {{#if docAffected}}
+        <ul class="list-group list-group-flush">
+          {{#docAffected}}
+          <li class="list-group-item">
+            <span class="small"><a class="document-link clear-filter"
+                href="../{{../../htmlLink}}?search.search={{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span>
+            {{{getstatusButton this "10"}}}
+          </li>
+          {{/docAffected}}
+        </ul>
+        {{/if}}
+      </td>
+      <td class="d-none">
+        {{#if projectMilestone}}
+        {{#projectMilestone}}
+        {{#if current}}
+        {{milestoneAct}}
+        {{/if}}
+        {{/projectMilestone}}
+        {{/if}}
+      </td>
+      <td class="p-1">
+        {{#if projectMilestone}}
+        {{#projectMilestone}}
+        <div class="p-2{{#unless @last}} border-bottom{{/unless}}">
+          <span class="font-weight-bold small">进度： </span>
+          {{milestoneAct}}
+          <br>
+          {{#if authors}}
+          <span class="font-weight-bold small">起草人： </span> {{#authors}}{{this}}{{#unless @last}},
+          {{/unless}}{{/authors}}
+          <br>
+          {{/if}}
+          {{#if participationUnits}}
+          <span class="font-weight-bold small">参与单位：</span> {{#participationUnits}}{{this}}{{#unless @last}},
+          {{/unless}}{{/participationUnits}}
+          <br>
+          {{/if}}
+          {{#if miledateStart}}
+          <br>
+          <span class="font-weight-bold small">Start Date:</span> {{miledateStart}}
+          {{/if}}
+          {{#if miledateEnd}}
+          <br>
+          <span class="font-weight-bold small">End Date:</span> {{miledateEnd}}
+          {{/if}}
+        </div>
+        {{/projectMilestone}}
+        {{/if}}
+      </td>
+      <td class="p-1" style="display:none">
+        {{#if updateDependency}}
+        <ul class="list-group list-group-flush">
+          {{#updateDependency}}
+          <li class="list-group-item">
+            <span class="small"><a class="document-link clear-filter"
+                href="../{{../../htmlLink}}?search.search={{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span>
+            {{{getstatusButton this "10"}}}
+          </li>
+          {{/updateDependency}}
+        </ul>
+        {{/if}}
+      </td>
+      <td>
+        {{workNotes}}
+      </td>
+    </tr>
+    {{/dataProjects}}
+  </tbody>
+</table>
+<!-- Main content ends - do not edit below this line -->
 {{>footer}}
 
 </html>

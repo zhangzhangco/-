@@ -1819,7 +1819,7 @@
       "罗燕钢",
       "王家有"
     ],
-    "docId": "gy-t-39-2007",
+    "docId": "gyt-39-2007",
     "docLabel": "GY/T 39-2007",
     "docTitle": "电影发行拷贝技术质量规范",
     "docType": "行业标准",
@@ -1864,7 +1864,7 @@
       "active": false,
       "superseded": true,
       "supersededBy": [
-        "gy-t-39-2007"
+        "gyt-39-2007"
       ]
     }
   },
@@ -1975,7 +1975,7 @@
     }
   },
   {
-    "docId": "gy-t-101-91",
+    "docId": "gyt-101-91",
     "docLabel": "GY/T 101-91",
     "docTitle": "35mm环幕电影摄影机片窗所形成的影像和发行拷贝可放映画面的位置及尺寸",
     "docType": "行业标准",
@@ -1996,7 +1996,7 @@
     }
   },
   {
-    "docId": "gy-t-112-93",
+    "docId": "gyt-112-93",
     "docLabel": "GY/T 112-93",
     "docTitle": "电影鉴定放映室声光技术条件",
     "docType": "行业标准",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "docId": "gy-t-183-2002",
+    "docId": "gyt-183-2002",
     "docLabel": "GY/T 183-2002",
     "docTitle": "数字立体声电影院的技术标准",
     "docType": "行业标准",
@@ -2038,7 +2038,7 @@
     }
   },
   {
-    "docId": "gy-t-188-2003",
+    "docId": "gyt-188-2003",
     "docLabel": "GY/T 188-2003",
     "docTitle": "电影放映幕主要特性的测定方法",
     "docType": "行业标准",
@@ -2052,7 +2052,7 @@
     }
   },
   {
-    "docId": "gy-t-189-2003",
+    "docId": "gyt-189-2003",
     "docLabel": "GY/T 189-2003",
     "docTitle": "电影院和鉴定放映室幕干扰光的测量方法和技术要求",
     "docType": "行业标准",
@@ -2071,7 +2071,7 @@
     }
   },
   {
-    "docId": "gy-t-190-2003",
+    "docId": "gyt-190-2003",
     "docLabel": "GY/T 190-2003",
     "docTitle": "供交换用影片及其磁性声迹素材容器标签的最低限内容",
     "docType": "行业标准",
@@ -2086,7 +2086,7 @@
     }
   },
   {
-    "docId": "gy-t-191-2003",
+    "docId": "gyt-191-2003",
     "docLabel": "GY/T 191-2003",
     "docTitle": "已加工电影安全胶片的贮存技术",
     "docType": "行业标准",
@@ -2106,7 +2106,7 @@
       "敬健",
       "刘健南"
     ],
-    "docId": "gy-t-207-2005",
+    "docId": "gyt-207-2005",
     "docLabel": "GY/T 207-2005",
     "docTitle": "电影院计算机票务管理系统软件技术规范",
     "docType": "行业标准",
@@ -2124,6 +2124,69 @@
     "publicationDate": "2005-05-09",
     "publisher": "国家广播电影电视总局",
     "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gyt-276-2013"
+      ]
+    }
+  },
+  {
+    "authors": [
+      "季平",
+      "刘健南",
+      "王文强",
+      "金悦",
+      "乔彦宏",
+      "何昊",
+      "李国伟",
+      "张红",
+      "冯军",
+      "林晓飞",
+      "李贺",
+      "卢铭辉",
+      "吴一凡",
+      "赵涛",
+      "张焕岭",
+      "张学静",
+      "王吴迪",
+      "姜楠",
+      "李涛"
+    ],
+    "docId": "gyt-276-2013",
+    "docLabel": "GY/T 276-2013",
+    "docTitle": "电影院票务管理系统技术要求和测量方法",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
+    "href": "javascript:;",
+    "implementationDate": "2013-12-31",
+    "keywords": [
+      "票务",
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "国家新闻出版广电总局电影技术质量检测所",
+      "国家电影事业发展专项资金管理委员会办公室",
+      "国家新闻出版广电总局电影数字节目管理中心",
+      "上海市文化广播影视管理局",
+      "太极计算机股份有限公司",
+      "中影博圣影视科技有限公司",
+      "中影环球(北京)科技有限公司",
+      "北京华夏满天星城市网络售票技术有限公司",
+      "北京捷通无限科技有限公司",
+      "北京影合众新媒体技术服务有限公司",
+      "北京中鑫汇科软件技术有限公司",
+      "广东粤科软件工程有限公司",
+      "哈票网络科技（北京）有限公司",
+      "上海格瓦商务信息咨询有限公司",
+      "沃思达娱乐软件有限公司",
+      "中演票务通文化发展有限责任公司"
+    ],
+    "publicationDate": "2013-12-31",
+    "publisher": "国家广播电影电视总局",
+    "status": {
       "active": true
     }
   },
@@ -2134,7 +2197,7 @@
       "苗正明",
       "崔志民"
     ],
-    "docId": "gy-t-213-2006",
+    "docId": "gyt-213-2006",
     "docLabel": "GY/T 213-2006",
     "docTitle": "声音素材交换Hi8格式的技术规范",
     "docType": "行业标准",
@@ -2160,7 +2223,7 @@
       "苗正明",
       "崔志民"
     ],
-    "docId": "gy-t-215-2006",
+    "docId": "gyt-215-2006",
     "docLabel": "GY/T 215-2006",
     "docTitle": "35mm电影后期制作用片头片尾的技术规范",
     "docType": "行业标准",
@@ -2188,7 +2251,7 @@
       "诸建中",
       "陈中新"
     ],
-    "docId": "gy-t-242-2010",
+    "docId": "gyt-242-2010",
     "docLabel": "GY/T 242-2010",
     "docTitle": "35mm电影发行拷贝青染料无银模拟声声迹制作技术规范",
     "docType": "行业标准",
@@ -2216,7 +2279,7 @@
       "张辉",
       "王丰"
     ],
-    "docId": "gy-t-248-2011",
+    "docId": "gyt-248-2011",
     "docLabel": "GY/T 248-2011",
     "docTitle": "数字电影中档和流动放映系统用声频功率放大器技术要求和测量方法",
     "docType": "行业标准",
@@ -2252,7 +2315,7 @@
       "常一孜",
       "王丰"
     ],
-    "docId": "gy-t-250-2011",
+    "docId": "gyt-250-2011",
     "docLabel": "GY/T 250-2011",
     "docTitle": "数字电影流放放映系统用投影机技术要求与测量方法",
     "docType": "行业标准",
@@ -2292,7 +2355,7 @@
       "刘翼光",
       "徐宏"
     ],
-    "docId": "gy-t-251-2011",
+    "docId": "gyt-251-2011",
     "docLabel": "GY/T 251-2011",
     "docTitle": "数字电影流动放映系统技术要求和测量方法",
     "docType": "行业标准",
@@ -2329,7 +2392,7 @@
       "崔强",
       "张鑫"
     ],
-    "docId": "gy-t-256-2012",
+    "docId": "gyt-256-2012",
     "docLabel": "GY/T 256-2012",
     "docTitle": "数字电影中档放映系统技术要求和测量方法",
     "docType": "行业标准",
@@ -2351,7 +2414,7 @@
     }
   },
   {
-    "docId": "gy-t-256-2012-amd1",
+    "docId": "gyt-256-2012-amd1",
     "docLabel": "GY/T 256-2012 Amd1",
     "docTitle": "GY/T 256-2012 第1号修改单",
     "docType": "行业标准",
@@ -2374,7 +2437,7 @@
       "王孝福",
       "李锐"
     ],
-    "docId": "gy-t-288-2014",
+    "docId": "gyt-288-2014",
     "docLabel": "GY/T 288-2014",
     "docTitle": "电影送审数字母版字幕技术要求",
     "docType": "行业标准",
@@ -2403,7 +2466,7 @@
       "张鑫",
       "刘达"
     ],
-    "docId": "gy-t-292.1-2015",
+    "docId": "gyt-292.1-2015",
     "docLabel": "GY/T 292.1-2015",
     "docTitle": "数字电影发行母版 第1部分：图像特性",
     "docType": "行业标准",
@@ -2452,7 +2515,7 @@
       "徐嘉",
       "晁强"
     ],
-    "docId": "gy-t-292.2-2015",
+    "docId": "gyt-292.2-2015",
     "docLabel": "GY/T 292.2-2015",
     "docTitle": "数字电影发行母版 第2部分 音频特性",
     "docType": "行业标准",
@@ -2501,7 +2564,7 @@
       "张鑫",
       "刘达"
     ],
-    "docId": "gy-t-293.1-2015",
+    "docId": "gyt-293.1-2015",
     "docLabel": "GY/T 293.1-2015",
     "docTitle": "数字电影打包 第1部分：声音和图像轨迹文件",
     "docType": "行业标准",
@@ -2556,7 +2619,7 @@
       "常乐",
       "陈军"
     ],
-    "docId": "gy-t-293.2-2015",
+    "docId": "gyt-293.2-2015",
     "docLabel": "GY/T 293.2-2015",
     "docTitle": "数字电影打包 第2部分：MXF JPEG2000应用",
     "docType": "行业标准",
@@ -2612,7 +2675,7 @@
       "牛小明",
       "赵思行"
     ],
-    "docId": "gy-t-294-2015",
+    "docId": "gyt-294-2015",
     "docLabel": "GY/T 294-2015",
     "docTitle": "电影数字节目版权保护技术体系框架",
     "docType": "行业标准",
@@ -2640,7 +2703,7 @@
       "刘茂英",
       "黄晓宇"
     ],
-    "docId": "gy-t-309-2017",
+    "docId": "gyt-309-2017",
     "docLabel": "GY/T 309-2017",
     "docTitle": "数字电影数据包（DCP）标题命名与载体标识技术规范",
     "docType": "行业标准",
@@ -2670,7 +2733,7 @@
       "刘茂英",
       "黄晓宇"
     ],
-    "docId": "gy-t-310-2017",
+    "docId": "gyt-310-2017",
     "docLabel": "GY/T 310-2017",
     "docTitle": "数字电影放映模式设置技术规范",
     "docType": "行业标准",
@@ -2687,6 +2750,56 @@
       "中国电影科学技术研究所"
     ],
     "publicationDate": "2017-11-24",
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gy-5020-1995",
+    "docLabel": "GY 5020-1995",
+    "docTitle": "电影工程建设标准管理办法",
+    "docType": "规范性文件",
+    "group": "国家广播电影电视总局",
+    "href": "javascript:;",
+    "implementationDate": "1995-03-05",
+    "keywords": [
+      "工程建设"
+    ],
+    "publicationDate": "1995-03-05",
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "瞿瑞虎",
+      "桂信安",
+      "陈子俊",
+      "薛韵琴",
+      "陈秀琼",
+      "郑耀辉",
+      "张福冠",
+      "苑秀岩",
+      "张寅初",
+      "李丹江"
+    ],
+    "docId": "gyt-5059-1997",
+    "docLabel": "GY/T 5059-1997",
+    "docTitle": "电影工程设计图形符号和文字符号",
+    "docType": "行业标准",
+    "group": "国家广播电影电视总局",
+    "href": "javascript:;",
+    "implementationDate": "1997-10-01",
+    "keywords": [
+      "工程建设"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1997-03-28",
     "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
@@ -2730,13 +2843,16 @@
       "冯鹤",
       "雷振宇"
     ],
-    "docId": "gy-t-5061-2015",
+    "docId": "gyt-5061-2015",
     "docLabel": "GY/T 5061-2015",
     "docTitle": "广播电影电视工程技术用房照明设计规范",
     "docType": "行业标准",
     "group": "国家广播电影电视总局",
     "href": "javascript:;",
     "implementationDate": "2016-02-01",
+    "keywords": [
+      "工程建设"
+    ],
     "leadingunit": "中广电广播电影电视设计研究院",
     "participationUnits": [
       "中广电广播电影电视设计研究院",
@@ -2765,7 +2881,7 @@
     "href": "javascript:;",
     "implementationDate": "2000-12-01",
     "keywords": [
-      "制作"
+      "工程建设"
     ],
     "leadingunit": "国家广播电影电视总局设计院",
     "participationUnits": [
@@ -3167,6 +3283,81 @@
     ],
     "publicationDate": "2013-12-18",
     "publisher": "国家新闻出版广电总局科技司",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "杨雪培",
+      "顾正保",
+      "罗燕翎",
+      "陈江",
+      "李涵初",
+      "潘中伙"
+    ],
+    "docId": "gbt-21048-2007",
+    "docLabel": "GB/T 21048-2007",
+    "docTitle": "电影院星级的划分与评定",
+    "docType": "国家标准",
+    "group": "国家电影局",
+    "href": "javascript:;",
+    "implementationDate": "2007-12-01",
+    "keywords": [
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2007-08-23",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "隗京花",
+      "王迎杰",
+      "陈江",
+      "胡滨",
+      "王丽",
+      "马晓丹",
+      "皇甫姜子",
+      "贾硕",
+      "郭良鹏",
+      " 刘茂英",
+      "李娜",
+      "李明涛",
+      "赵然子",
+      "额尔德尼",
+      "刘晓峰",
+      "景海荣",
+      "许黎辉",
+      "李邦模",
+      "佘协元",
+      "吴文忠"
+    ],
+    "docId": "tcas-608-2022",
+    "docLabel": "T/CAS 608-2022",
+    "docTitle": "科普场馆球幕影院功能配置与放映技术要求",
+    "docType": "团体标准",
+    "group": "中国科学技术学会",
+    "href": "javascript:;",
+    "implementationDate": "2022-06-30",
+    "keywords": [
+      "球幕",
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国自然科学博物馆学会",
+      "中国科学技术馆",
+      "中央宣传部电影技术质量检测所"
+    ],
+    "publicationDate": "2022-06-30",
+    "publisher": "中国标准化协会",
     "status": {
       "active": true
     }

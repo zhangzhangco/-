@@ -6,8 +6,10 @@
       "gyt-247-2011"
     ],
     "docId": "dyt-247-20XX",
+    "docType": "行业标准",
     "projApproved": true,
-    "projectId": "gyt-247-2011-rev-001",
+    "projApprovedDate": "2017年",
+    "projectId": "gyt-247-2011-rev-01",
     "projectMilestone": [
       {
         "authors": [
@@ -24,13 +26,531 @@
         ],
         "milestoneAct": "送审稿 (90%)",
         "participationUnits": [
-          "中国电影科学技术研究所（中央宣传部电影技术质量检测所）",
+          "中国电影科学技术研究所 (中央宣传部电影技术质量检测所)",
           "中央宣传部电影数字节目管理中心",
           "中国电影器材有限责任公司"
         ]
       }
     ],
     "projectStatus": "进行",
+    "workNotes": "2021年5月12日所领导批准《关于更换影院管理系统基本功能和接口规范》标准修订项目负责人的请示》 (请示〔 2021 〕 171 号，科管字 [2021]22 号)，项目负责由龚波更换为张鑫，龚波为项目指导。7月9日、8月20日项目组内部召开讨论会。\n2021年12月24日征求意见稿送电影局。\n",
     "workType": "修订"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "gbt-21048-2007"
+    ],
+    "docTitle": "电影院星级的划分与评定",
+    "docType": "国家标准",
+    "projApproved": true,
+    "projApprovedDate": "2014年",
+    "projectId": "gbt-21048-2007-rev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "陈江",
+          "吴纯举",
+          "李娜",
+          "刘世强",
+          "刘茂英"
+        ],
+        "milestoneAct": "送审稿 (90%)",
+        "participationUnits": [
+          "中国电影科学技术研究所",
+          "中央宣传部电影技术质量检测所",
+          "中广电广播电影电视设计研究院"
+        ]
+      }
+    ],
+    "projectStatus": "取消",
+    "workNotes": "原定2020年9月7日召开审查会，电影局会前临时取消。目前电影局暂无推进计划。 (国标委国标计划状态为进行)",
+    "workType": "修订"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "资料影片库房保存技术规范",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2007年",
+    "projectId": "dyt-XXX-XXXX-dev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "左英 (组长)",
+          "白晓飞",
+          "张晓林",
+          "侯映侃",
+          "刘俊燕"
+        ],
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中国电影资料馆"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "2017年审查会时起草人名单为：冷传松、白健、白晓飞、侯小平、张晓林、侯映侃、田旭东。2017年12月起草组递交的项目实施情况检查表中，起草组为：左英 (组长)、白晓飞、张晓林、侯映侃、刘俊燕。",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "数字影院网络运维系统技术要求和测量方法",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2015年",
+    "projectId": "dyt-XXX-XXXX-dev-02",
+    "projectMilestone": [
+      {
+        "authors": [
+          "王文强等"
+        ],
+        "milestoneAct": "征求意见稿 (50%)",
+        "participationUnits": [
+          "国家新闻出版广电总局电影技术质量检测所",
+          "中国电影科学技术研究所",
+          "中国电影器材有限责任公司",
+          "世纪美映影院技术服务(北京)有限公司",
+          "北京时代今典传媒科技有限公司"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "2018年8月25日征求意见结束。\n立项时，标准名称为《数字电影网络运营系统接口规范及测量方法》。2019年底经费已用完。负责人承诺2021年3月底交送审稿，4月、5月、6月11日分别催问1次，建议起草组召集专家对送审稿、意见汇总处理表进行研究，避免审查会有大的技术变动。7月15日项目组召开讨论会，7月16日刘茂英撰写项目部汇报会议情况。\n",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "数字电影放映用投影机系统要求和测量方法",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2016年",
+    "projectId": "dyt-XXX-XXXX-dev-03",
+    "projectMilestone": [
+      {
+        "authors": [
+          "龚波",
+          "林民杰",
+          "林晓飞",
+          "高峰",
+          "李娜",
+          "崔强",
+          "王景宇",
+          "贾波",
+          "胡斐",
+          "田梓枫",
+          "黄一辰"
+        ],
+        "milestoneAct": "送审稿 (90%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所",
+          "中国电影器材有限责任公司",
+          "中影光峰激光影院技术 (北京)有限公司"
+        ]
+      }
+    ],
+    "projectStatus": "取消",
+    "workNotes": "送审稿于2020年7月21日报送，待审查。\n1)任务书中项目名称为《数字电影激光放映的标准和测量方法》，经多次会议修改为《数字电影放映用投影机系统要求和测量方法》；2)任务书中提案单位包括电影技术质量检测所、中影光峰激光影院技术 (北京)有限公司、数码辰星科技发展 (北京)有限公司。因未实质参与工作，起草组决定不将数码辰星科技发展 (北京)有限公司及相关人员列入起草单位和主要起草人。工信部有标准与本标准类似有冲突，电影局指示暂不处理该标准。\n",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "影院运营业务网络技术要求及测量方法",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2016年",
+    "projectId": "dyt-XXX-XXXX-dev-04",
+    "projectMilestone": [
+      {
+        "authors": [
+          "牛小明等"
+        ],
+        "milestoneAct": "工作组标准草稿 (15%)",
+        "participationUnits": [
+          "国家新闻出版广电总局电影数字节目管理中心",
+          "国家新闻出版广电总局电影技术质量检测所",
+          "中国电影器材有限责任公司"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "起草阶段。提案单位：电影数字节目管理中心、电影技术质量检测所、国家电影事业发展专项资金管理委员会办公室、中国电影器材有限责任公司、中国电影科学技术研究所。合同单位：电影数字节目管理中心。2019年11月27日徐宏发来初稿，经口头请示徐所，因为标委会未成立，未作响应。相关情况也多次跟刘知一汇报。2021年5月28日电影局标准审查会上，徐宏跟刘知一、黄治再次提起此项目的事。2021年6月17日，节目中心给电科所发函催促项目推进，7月5日电科所回函，指出其问题并请节目中心完善相关材料。8月23日，节目中心邮件发送征求意见稿和编制说明，9月8日，经领导批准，邮件回复意见。\n",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "gyt-276-2013"
+    ],
+    "docTitle": "电影院票务管理系统技术要求及测量方法，GY/T 276-2013",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2017年",
+    "projectId": "gyt-276-2013-rev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "张伟",
+          "刘知一"
+        ],
+        "milestoneAct": "工作组标准草稿 (15%)",
+        "participationUnits": [
+          "中国电影科学技术研究所",
+          "电影技术质量检测所",
+          "国家电影事业发展专项资金管理委员会办公室和电影数字节目管理中心"
+        ]
+      }
+    ],
+    "projectStatus": "取消",
+    "workNotes": "起草阶段。《电影院票务管理系统技术要求及测量方》修订项目于2017年底立项，2018年5月我所作为牵头单位组织检测所、专资办和节目中心召开了项目启动会，就标准修订的原则、任务分工、人员组成及下一步工作安排等进行了讨论，形成了标准修订工作方案。鉴于该标准涉及面广，对行业影响较大，我所于2018年5月31日向贵局上报了《电影科研所关于启动&lt;电影院票务管理系统技术要求及测量方&gt;标准修订工作的请示》 (影研字 (2018)50号)。目前项目停滞。\n",
+    "workType": "修订"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "胶片档案影片数字化修复技术要求",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2017年",
+    "projectId": "dyt-XXX-XXXX-dev-05",
+    "projectMilestone": [
+      {
+        "authors": [
+          "王峥等"
+        ],
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中国电影资料馆",
+          "中国电影科学技术研究所"
+        ]
+      }
+    ],
+    "projectStatus": "未决",
+    "workNotes": "无进展",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "电影后期制作建筑设计规范",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2012年",
+    "projectId": "dyt-XXX-XXXX-dev-06",
+    "projectMilestone": [
+      {
+        "milestoneAct": "未知",
+        "participationUnits": [
+          "中广电广播电影电视设计研究院",
+          "中国电影股份有限公司"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "已从广电划归电影，待在电影局另行组织立项推进\n",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "电影摄影棚建筑设计规范",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2007年",
+    "projectId": "dyt-XXX-XXXX-dev-07",
+    "projectMilestone": [
+      {
+        "milestoneAct": "未知",
+        "participationUnits": [
+          "中广电广播电影电视设计研究院",
+          "中国电影股份有限公司",
+          " 华夏电影发行有限责任公司",
+          " 中央电视台",
+          "北京电影学院"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "已从广电划归电影，待在电影局另行组织立项推进。2021年5月31日，刘世强电话询问该标准是否能在电影这边立项推进。6月8日，向刘知一汇报，指示因标委会未成立，我所暂不予处理。\n",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "gy-5020-1995"
+    ],
+    "docTitle": "电影工程建设标准管理办法GY5020-1995",
+    "docType": "规范性文件",
+    "projApproved": false,
+    "projectId": "gy-5020-1995-rev-01",
+    "projectMilestone": [
+      {
+        "milestoneAct": "待立项"
+      }
+    ],
+    "projectStatus": "未决",
+    "workNotes": "2020年9月27日《关于电影工程建设行业标准专家论证会的情况报告》 (影研字[2020]71号)做出修订决定。",
+    "workType": "修订"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "面向影视制作的虚拟预演参考框架",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "05/01/2021",
+    "projectId": "csmpte-XXX-XXXX-dev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "王萃",
+          "李虹珊",
+          "刘达",
+          "徐涛",
+          "张雪"
+        ],
+        "milestoneAct": "工作组讨论稿 (30%)",
+        "participationUnits": [
+          "中国电影科学技术研究所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "同时在行业标准立项。",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "数字电影LED影厅技术要求和测量方法",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "05/01/2021",
+    "projectId": "csmpte-XXX-XXXX-dev-02",
+    "projectMilestone": [
+      {
+        "authors": [
+          "李娜",
+          "董强国",
+          "刘知一",
+          "高五峰",
+          "高峰 (传输部)"
+        ],
+        "milestoneAct": "工作组讨论稿 (30%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workNotes": "同时在行业标准立项。",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "点播影院放映数字水印技术要求和检测方法",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "05/01/2021",
+    "projectId": "csmpte-XXX-XXXX-dev-03",
+    "projectMilestone": [
+      {
+        "authors": [
+          "周令非",
+          "徐涛",
+          "刘知一",
+          "王木旺",
+          "董强国",
+          "高峰 (传输部)",
+          "王惠",
+          "解沛"
+        ],
+        "milestoneAct": "工作组讨论稿 (30%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "数字电影专业服务认证通用要求",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "05/01/2021",
+    "projectId": "csmpte-XXX-XXXX-dev-04",
+    "projectMilestone": [
+      {
+        "authors": [
+          "张春涛",
+          "张伟",
+          "徐涛",
+          "郭良鹏",
+          "李娜",
+          "曾真",
+          "李维",
+          "常慧琴",
+          "田由甲",
+          "申立珊",
+          "李虹珊",
+          "何晓",
+          "方捷新"
+        ],
+        "milestoneAct": "工作组讨论稿 (30%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "数字电影LED屏还音效果主观评价方法",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "22/06/2022",
+    "projectId": "csmpte-XXX-XXXX-dev-05",
+    "projectMilestone": [
+      {
+        "authors": [
+          "董强国",
+          "徐涛"
+        ],
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "CSMPTE",
+    "assignedTC": "CSMPTE",
+    "docTitle": "数字电影沉浸式音频渲染效果主观评价方法",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "22/06/2022",
+    "projectId": "csmpte-XXX-XXXX-dev-06",
+    "projectMilestone": [
+      {
+        "authors": [
+          "董强国",
+          "徐涛"
+        ],
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中央宣传部电影技术质量检测所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "中国科学技术学会",
+    "assignedTC": "中国科协科普部",
+    "docTitle": "科普场馆4D影院设备设施配置和放映技术要求",
+    "docType": "团体标准",
+    "projApproved": true,
+    "projApprovedDate": "06/01/2022",
+    "projectId": "tcas-XXX-XXXX-dev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "隗京花",
+          "高峰"
+        ],
+        "milestoneAct": "未知",
+        "participationUnits": [
+          "中国自然科学博物馆学会",
+          "中国电影科学技术研究所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "gyt-5059-1997"
+    ],
+    "docTitle": "电影工程设计图形符号和文字符号-GYT5059-1997",
+    "docType": "行业标准",
+    "projApproved": false,
+    "projectId": "gyt-5059-1997-rev-01",
+    "projectMilestone": [
+      {
+        "milestoneAct": "待立项"
+      }
+    ],
+    "projectStatus": "未决",
+    "workNotes": "2020年9月27日《关于电影工程建设行业标准专家论证会的情况报告》 (影研字[2020]72号)做出修订决定。",
+    "workType": "修订"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "无障碍数字电影音频描述制作规范与技术要求",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "04/07/2022",
+    "projectId": "dyt-XXX-XXXX-dev-08",
+    "projectMilestone": [
+      {
+        "milestoneAct": "项目启动 (5%)"
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "数字电影打包 第8部分：音频描述轨迹文件",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "04/07/2022",
+    "projectId": "dyt-XXX-XXXX-dev-09",
+    "projectMilestone": [
+      {
+        "milestoneAct": "项目启动 (5%)"
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docTitle": "数字电影音频描述还原系统技术要求和测量方法",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "04/07/2022",
+    "projectId": "dyt-XXX-XXXX-dev-10",
+    "projectMilestone": [
+      {
+        "milestoneAct": "项目启动 (5%)"
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
   }
 ]
