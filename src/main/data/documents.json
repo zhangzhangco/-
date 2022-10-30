@@ -829,6 +829,10 @@
     "group": "国家电影局",
     "href": "javascript:;",
     "implementationDate": "2020-09-01",
+    "keywords": [
+      "立体",
+      "测量"
+    ],
     "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
       "中央宣传部电影技术质量检测所",
@@ -1168,6 +1172,9 @@
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2017-11-24",
+    "keywords": [
+      "测量"
+    ],
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
       "国家新闻出版广电总局电影技术质量检测所",
@@ -1348,6 +1355,10 @@
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2017-11-24",
+    "keywords": [
+      "声音",
+      "测量"
+    ],
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
       "国家新闻出版广电总局电影技术质量检测所",
@@ -1835,7 +1846,8 @@
     "href": "javascript:;",
     "implementationDate": "2021-08-01",
     "keywords": [
-      "声音"
+      "声音",
+      "测量"
     ],
     "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
