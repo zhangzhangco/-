@@ -253,7 +253,7 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
       cS = "有效"
 
       if (status.amended){
-        cS = cS.concat(", 已修正");
+        cS = cS.concat(", 已修改");
       }
       
       if (status.stabilized){

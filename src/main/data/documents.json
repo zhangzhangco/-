@@ -1279,6 +1279,47 @@
     }
   },
   {
+    "docId": "gbt-50076-2013",
+    "docLabel": "GB/T 50076—2013",
+    "docTitle": "室内混响时间测量规范",
+    "docType": "国家标准",
+    "href": "javascript:;",
+    "implementationDate": "2014-03-01",
+    "publicationDate": "2013-08-08",
+    "publisher": "中华人民共和国住房和城乡建设部/中华人民共和国国家质量监督检验检疫总局",
+    "status": {
+      "unknown": true
+    }
+  },
+  {
+    "adoption": "iso26431-1-2008",
+    "authors": [
+      "李涵初",
+      "翁山宝",
+      "朱觉",
+      "刘茂英"
+    ],
+    "docId": "gbt-36617-2018",
+    "docLabel": "GB/T 36617-2018",
+    "docTitle": "数字影院质量 银幕亮度、色度和均匀度",
+    "docType": "国家标准",
+    "group": "国家电影局",
+    "href": "javascript:;",
+    "implementationDate": "2019-04-01",
+    "leadingunit": "上海市文化广播影视管理局",
+    "participationUnits": [
+      "上海市文化广播影视管理局",
+      "上海市电影电视技术学会",
+      "上海电影（集团）有限公司",
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2018-09-17",
+    "publisher": "国家市场监督管理总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "adoption": "iso2969-2015",
     "authors": [
       "董强国",
@@ -2114,7 +2155,8 @@
     "href": "javascript:;",
     "implementationDate": "2005-06-01",
     "keywords": [
-      "票务"
+      "票务",
+      "测量"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -2186,6 +2228,28 @@
     ],
     "publicationDate": "2013-12-31",
     "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true,
+      "amended": true,
+      "amendedBy": [
+        "gyt-276-2013-2015"
+      ]
+    }
+  },
+  {
+    "docId": "gyt-276-2013-2015",
+    "docLabel": "GY/T 276-2013-2015",
+    "docTitle": "GY/T 276-2013《电影院票务管理系统技术要求和测量方法》第1号修改单",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
+    "href": "javascript:;",
+    "implementationDate": "2015-08-03",
+    "keywords": [
+      "票务",
+      "测量"
+    ],
+    "publicationDate": "2015-08-03",
+    "publisher": "国家新闻出版广电总局",
     "status": {
       "active": true
     }

@@ -82,11 +82,11 @@
               <span class="label badge badge-success">[ 有效 ]</span><br>  
             {{/status/active}}
             {{#status/amended}}
-              <span class="label badge badge-secondary">[ 已修正 ]</span><br>
+              <span class="label badge badge-secondary">[ 已修改 ]</span><br>
             {{/status/amended}}
             {{#if status/amendedBy}}
               <div class="border-left p-1">
-                <span class="font-weight-bold small">过往修正:</span>
+                <span class="font-weight-bold small">过往修改:</span>
                 <ul class="list-group list-group-flush">
               {{#status/amendedBy}}
                   <li class="list-group-item">
@@ -174,7 +174,7 @@
                     <br>
                     {{/if}}
                     {{#if status/amendedDate}}
-                    <span class="font-weight-bold small">修正日期：</span> {{status/amendedDate}}
+                    <span class="font-weight-bold small">修改日期：</span> {{status/amendedDate}}
                     <br>
                     {{/if}}
                     {{#if publicationDate}}
