@@ -1,10 +1,12 @@
-groupId,groupLink,groupName,groupOrg,groupStatus.active,groupType,parentgroupId,groupStatus.assignedGroup,groupDesc,groupRepo,groupStatus.pending,groupSummary
-CSMPTE,https://www.csmpte.org.cn/,中国电影电视技术学会,中国电影电视技术学会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined
-中国科学技术学会,https://www.cast.org.cn/,中国科学技术学会,中国科学技术学会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined
-中国科协科普部,https://www.cast.org.cn/,中国科协科普部,中国科学技术学会,true,SC,中国科学技术学会,undefined,undefined,undefined,undefined,undefined
-全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,SC,全国广播电影电视标准化技术委员会（SAC/TC239）,"[""国家电影局""]",undefined,undefined,undefined,undefined
-全国广播电影电视标准化技术委员会（SAC/TC239）,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,TC,undefined,undefined,undefined,undefined,undefined,undefined
-国家电影局,https://www.chinafilm.gov.cn/,国家电影局,国家电影局,true,TC,undefined,undefined,undefined,undefined,undefined,undefined
-iso-tc36-tc,https://www.iso.org/committee/48090.html,TC36,ISO,true,TC,undefined,undefined,Cinematography,undefined,undefined,undefined
-smpte-21dc-tc,undefined,21DC,SMPTE,false,TC,undefined,"[""smpte-27c-tc""]",Digital Cinema,https://github.com/orgs/SMPTE/teams/21dc,undefined,undefined
-smpte-27c-tc,undefined,27C,SMPTE,undefined,TC,undefined,undefined,Cinema,https://github.com/orgs/SMPTE/teams/27c,true,筹建的新TC，涵盖胶片和数字的影院发行、制作和运营。
+groupId,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
+广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国电影科学技术研究所,中国电影科学技术研究所,中华人民共和国广播电影电视部,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国电影电视技术学会,中国电影电视技术学会,中国电影电视技术学会,true,undefined,TC,https://www.csmpte.org.cn/,undefined,undefined,undefined,undefined,undefined
+中国科学技术学会,中国科学技术学会,中国科学技术学会,true,undefined,TC,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
+中国科协科普部,中国科协科普部,中国科学技术学会,true,undefined,SC,https://www.cast.org.cn/,中国科学技术学会,undefined,undefined,undefined,undefined
+全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,"[""国家电影局""]",SC,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,undefined,undefined,undefined,undefined
+全国广播电影电视标准化技术委员会（SAC/TC239）,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,undefined,TC,https://www.sarft.gov.cn/,undefined,undefined,undefined,undefined,undefined
+国家电影局,国家电影局,国家电影局,true,undefined,TC,https://www.chinafilm.gov.cn/,undefined,undefined,undefined,undefined,undefined
+iso-tc36-tc,TC36,ISO,true,undefined,TC,https://www.iso.org/committee/48090.html,undefined,Cinematography,undefined,undefined,undefined
+smpte-21dc-tc,21DC,SMPTE,false,"[""smpte-27c-tc""]",TC,undefined,undefined,Digital Cinema,https://github.com/orgs/SMPTE/teams/21dc,undefined,undefined
+smpte-27c-tc,27C,SMPTE,undefined,undefined,TC,undefined,undefined,Cinema,https://github.com/orgs/SMPTE/teams/27c,true,筹建的新TC，涵盖胶片和数字的影院发行、制作和运营。
