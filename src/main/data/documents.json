@@ -808,6 +808,31 @@
     }
   },
   {
+    "docId": "dyj-x-2019",
+    "docLabel": "DY/J X—2019",
+    "docTitle": "点播影院暂行技术规范",
+    "docType": "技术文件",
+    "group": "国家电影局",
+    "href": "javascript:;",
+    "implementationDate": "2019-05-31",
+    "keywords": [
+      "点播",
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "中央宣传部电影技术质量检测所",
+      "中央宣传部电影数字节目管理中心",
+      "国家电影事业发展专项资金管理委员会办公室"
+    ],
+    "publicationDate": "2019-05-31",
+    "publisher": "国家电影局",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "authors": [
       "李娜",
       "高五峰",

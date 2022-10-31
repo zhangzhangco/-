@@ -62,6 +62,7 @@
                             "行业指导性技术文件",
                             "团体标准",
                             "规范性文件",
+                            "技术文件",
                             "Best Practice",
                             "Book",
                             "Directive",
@@ -141,6 +142,7 @@
                                         "辅助数据",
                                         "字幕",
                                         "影院声音",
+                                        "点播",
                                         "DCDM",
                                         "DCinema",
                                         "DCP应用",
@@ -375,13 +377,13 @@
                                         "reviewRec": {
                                             "type": "string",
                                             "enum": [ 
-                                                "Amend",
-                                                "Reaffirm",
-                                                "Stabilize",
-                                                "Revise",
-                                                "Withdraw",
-                                                "Reassign",
-                                                "No Recommendation"
+                                                "修改",
+                                                "重申",
+                                                "稳定化",
+                                                "复审",
+                                                "废止",
+                                                "重新分配",
+                                                "无建议"
                                             ]
                                         }
                                     }
