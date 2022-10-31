@@ -1929,7 +1929,7 @@
     "publicationDate": "1987-10-30",
     "publisher": "中华人民共和国广播电影电视部",
     "status": {
-      "active": true
+      "withdrawn": true
     }
   },
   {
@@ -1950,7 +1950,7 @@
     "publicationDate": "1987-10-30",
     "publisher": "中华人民共和国广播电影电视部",
     "status": {
-      "active": true
+      "withdrawn": true
     }
   },
   {
@@ -1971,7 +1971,7 @@
     "publicationDate": "1987-10-30",
     "publisher": "中华人民共和国广播电影电视部",
     "status": {
-      "active": true
+      "withdrawn": true
     }
   },
   {
@@ -1992,7 +1992,7 @@
     "publicationDate": "1987-10-30",
     "publisher": "中华人民共和国广播电影电视部",
     "status": {
-      "active": true
+      "withdrawn": true
     }
   },
   {
@@ -2013,7 +2013,7 @@
     "publicationDate": "1987-10-30",
     "publisher": "中华人民共和国广播电影电视部",
     "status": {
-      "active": true
+      "withdrawn": true
     }
   },
   {
@@ -2032,7 +2032,7 @@
       "中国电影科学技术研究所"
     ],
     "publicationDate": "1992-01-01",
-    "publisher": "未知",
+    "publisher": "中华人民共和国广播电影电视部",
     "status": {
       "active": true
     }
@@ -2052,7 +2052,7 @@
       "上海电影发行放映公司",
       "中国电影科学技术研究所"
     ],
-    "publisher": "未知",
+    "publisher": "中华人民共和国广播电影电视部",
     "status": {
       "active": true
     }
@@ -2084,11 +2084,12 @@
     "docLabel": "GY/T 188-2003",
     "docTitle": "电影放映幕主要特性的测定方法",
     "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "keywords": [
       "银幕",
       "测量"
     ],
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -2107,7 +2108,7 @@
     "participationUnits": [
       "中国电影科学技术研究所"
     ],
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -2122,7 +2123,7 @@
     "participationUnits": [
       "中国电影科学技术研究所"
     ],
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -2138,7 +2139,7 @@
     "participationUnits": [
       "中国电影科学技术研究所"
     ],
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -2323,7 +2324,7 @@
     "docLabel": "GY/T 242-2010",
     "docTitle": "35mm电影发行拷贝青染料无银模拟声声迹制作技术规范",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2010-07-07",
     "keywords": [
@@ -2351,7 +2352,7 @@
     "docLabel": "GY/T 248-2011",
     "docTitle": "数字电影中档和流动放映系统用声频功率放大器技术要求和测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2011-09-01",
     "keywords": [
@@ -2387,7 +2388,7 @@
     "docLabel": "GY/T 250-2011",
     "docTitle": "数字电影流放放映系统用投影机技术要求与测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2011-10-8",
     "keywords": [
@@ -2427,7 +2428,7 @@
     "docLabel": "GY/T 251-2011",
     "docTitle": "数字电影流动放映系统技术要求和测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2011-10-8",
     "keywords": [
@@ -2464,7 +2465,7 @@
     "docLabel": "GY/T 256-2012",
     "docTitle": "数字电影中档放映系统技术要求和测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2012-04-11",
     "keywords": [
@@ -2482,24 +2483,6 @@
     }
   },
   {
-    "docId": "gyt-256-2012-amd1",
-    "docLabel": "GY/T 256-2012 Amd1",
-    "docTitle": "GY/T 256-2012 第1号修改单",
-    "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 240）",
-    "href": "javascript:;",
-    "implementationDate": "2015-08-03",
-    "keywords": [
-      "中档",
-      "测量"
-    ],
-    "publicationDate": "2015-08-03",
-    "publisher": "国家广播电影电视总局",
-    "status": {
-      "active": true
-    }
-  },
-  {
     "authors": [
       "宋强",
       "王孝福",
@@ -2509,7 +2492,7 @@
     "docLabel": "GY/T 288-2014",
     "docTitle": "电影送审数字母版字幕技术要求",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-01-20",
     "keywords": [
@@ -2539,7 +2522,7 @@
     "docLabel": "GY/T 292.1-2015",
     "docTitle": "数字电影发行母版 第1部分：图像特性",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-07-28",
     "keywords": [
@@ -2588,7 +2571,7 @@
     "docLabel": "GY/T 292.2-2015",
     "docTitle": "数字电影发行母版 第2部分 音频特性",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-07-28",
     "keywords": [
@@ -2637,7 +2620,7 @@
     "docLabel": "GY/T 293.1-2015",
     "docTitle": "数字电影打包 第1部分：声音和图像轨迹文件",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-07-28",
     "keywords": [
@@ -2692,7 +2675,7 @@
     "docLabel": "GY/T 293.2-2015",
     "docTitle": "数字电影打包 第2部分：MXF JPEG2000应用",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-07-28",
     "keywords": [
@@ -2748,7 +2731,7 @@
     "docLabel": "GY/T 294-2015",
     "docTitle": "电影数字节目版权保护技术体系框架",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2015-08-18",
     "keywords": [
@@ -2776,7 +2759,7 @@
     "docLabel": "GY/T 309-2017",
     "docTitle": "数字电影数据包（DCP）标题命名与载体标识技术规范",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2017-11-24",
     "keywords": [
@@ -2806,7 +2789,7 @@
     "docLabel": "GY/T 310-2017",
     "docTitle": "数字电影放映模式设置技术规范",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2017-11-24",
     "keywords": [
@@ -2829,7 +2812,7 @@
     "docLabel": "GY 5020-1995",
     "docTitle": "电影工程建设标准管理办法",
     "docType": "规范性文件",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "1995-03-05",
     "keywords": [
@@ -2858,7 +2841,7 @@
     "docLabel": "GY/T 5059-1997",
     "docTitle": "电影工程设计图形符号和文字符号",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "1997-10-01",
     "keywords": [
@@ -2886,7 +2869,7 @@
     "docLabel": "GY 5060-2008",
     "docTitle": "广播电影电视建筑工程抗震设防分类标准",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "2009-03-01",
     "keywords": [
@@ -2916,7 +2899,7 @@
     "docLabel": "GY/T 5061-2015",
     "docTitle": "广播电影电视工程技术用房照明设计规范",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "2016-02-01",
     "keywords": [
@@ -2946,7 +2929,7 @@
     "docLabel": "GY 5066-2000",
     "docTitle": "电影摄影棚灯光系统设计规范",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "2000-12-01",
     "keywords": [
@@ -2982,7 +2965,7 @@
     "docLabel": "GY 5067-2017",
     "docTitle": "广播电影电视建筑设计防火标准",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "广电总局工程建设标准定额管理中心",
     "href": "javascript:;",
     "implementationDate": "2018-01-01",
     "keywords": [
@@ -3008,11 +2991,11 @@
     "docLabel": "GD/J 003-2007",
     "docTitle": "数字电影农村公益流动放映管理系统技术规范",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "keywords": [
       "流动"
     ],
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": false,
       "superseded": true,
@@ -3034,7 +3017,7 @@
     "docLabel": "GD/J 013-2007",
     "docTitle": "数字电影流动放映系统技术要求",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "implementationDate": "2007-05-28",
     "keywords": [
       "流动",
@@ -3046,7 +3029,7 @@
       "国家广播电影电视总局电影数字节目管理中心"
     ],
     "publicationDate": "2007-05-28",
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -3062,7 +3045,7 @@
     "docLabel": "GD/J 014-2007",
     "docTitle": "数字影院（中档）放映系统技术要求",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "implementationDate": "2007-08-02",
     "keywords": [
       "中档",
@@ -3074,7 +3057,7 @@
       "中国电影科学技术研究所"
     ],
     "publicationDate": "2007-08-02",
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -3090,7 +3073,7 @@
     "docLabel": "GD/J 016-2007",
     "docTitle": "数字电影流动放映系统检测方法",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "implementationDate": "2007-08-03",
     "keywords": [
       "流动",
@@ -3101,7 +3084,7 @@
       "国家广播电影电视总局电影技术质量检测所"
     ],
     "publicationDate": "2007-08-03",
-    "publisher": "未知",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
@@ -3116,7 +3099,7 @@
     "docLabel": "GD/J 029-2010",
     "docTitle": "数字电影流动放映监管信息GPS/GPRS接口技术要求和测试方法（暂行）",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局科技司",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2010-01-01",
     "keywords": [
@@ -3146,7 +3129,7 @@
     "docLabel": "GD/J 032-2010",
     "docTitle": "电影送审标准拷贝声画技术质量主观评价方法",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局科技司",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2010-10-14",
     "keywords": [
@@ -3178,7 +3161,7 @@
     "docLabel": "GD/J 033-2010",
     "docTitle": "电影送审数字母版声画技术质量主观评价方法",
     "docType": "行业标准",
-    "group": "国家广播电影电视总局科技司",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2010-10-14",
     "keywords": [
@@ -3212,7 +3195,7 @@
     "docLabel": "GD/J 040-2012",
     "docTitle": "数字电影巨幕影院技术规范和测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 239）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2012-07-26",
     "keywords": [
@@ -3254,7 +3237,7 @@
     "docLabel": "GD/J 045-2013",
     "docTitle": "电影数字拷贝卫星分发系统技术要求和测量方法",
     "docType": "行业标准",
-    "group": "全国广播电影电视标准化技术委员会（SAC/TC 240）",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2013-09-02",
     "keywords": [
@@ -3300,7 +3283,7 @@
     "docLabel": "GD/J 047-2013",
     "docTitle": "数字影院立体放映技术要求和测量方法",
     "docType": "行业标准",
-    "group": "国家新闻出版广电总局科技司",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2013-12-18",
     "keywords": [
@@ -3339,7 +3322,7 @@
     "docLabel": "GD/J 048-2013",
     "docTitle": "立体送审声画技术质量主观评价方法",
     "docType": "行业标准",
-    "group": "国家新闻出版广电总局科技司",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2013-12-18",
     "keywords": [
@@ -3428,6 +3411,116 @@
     ],
     "publicationDate": "2022-06-30",
     "publisher": "中国标准化协会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "高峰",
+      "李娜",
+      "王文强",
+      "王木旺",
+      "张辉",
+      "董强国",
+      "崔强、刘茂英"
+    ],
+    "docId": "tcsmpte-8-2020",
+    "docLabel": "T/CSMPTE 8—2020",
+    "docTitle": "电影数字拷贝卫星接收机技术要求和测量方法",
+    "docType": "团体标准",
+    "group": "中国电影电视技术学会",
+    "href": "javascript:;",
+    "implementationDate": "2020-09-29",
+    "keywords": [
+      "影院信息化",
+      "发行",
+      "测量"
+    ],
+    "leadingunit": "中央宣传部电影技术质量检测所",
+    "participationUnits": [
+      "中央宣传部电影技术质量检测所",
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2020-09-29",
+    "publisher": "中国电影电视技术学会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "张辉",
+      "董强国",
+      "李娜",
+      "王文强",
+      "刘茂英",
+      "周令非",
+      "贾波",
+      "陈江"
+    ],
+    "docId": "tcsmpte-9-2020",
+    "docLabel": "T/CSMPTE 9—2020",
+    "docTitle": "电影鉴定放映室和录音棚技术要求和测量方法",
+    "docType": "团体标准",
+    "group": "中国电影电视技术学会",
+    "href": "javascript:;",
+    "implementationDate": "2020-09-29",
+    "keywords": [
+      "制作",
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "中央宣传部电影技术质量检测所"
+    ],
+    "publicationDate": "2020-09-29",
+    "publisher": "中国电影电视技术学会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "张学超",
+      "马波",
+      "黄燕洁",
+      "刘茂英",
+      "左雪阳",
+      "杜文芳",
+      "范纬平",
+      "王莉",
+      "刘磊",
+      "何川",
+      "王丰",
+      "常一孜",
+      "乌日娜",
+      "武慧敏",
+      "王静怡",
+      "田珈宁"
+    ],
+    "docId": "tcsmpte-13-2021",
+    "docLabel": "T/CSMPTE 13—2021",
+    "docTitle": "无障碍影视节目制作技术规范",
+    "docType": "团体标准",
+    "group": "中国电影电视技术学会",
+    "href": "javascript:;",
+    "implementationDate": "2021-11-30",
+    "keywords": [
+      "制作",
+      "无障碍"
+    ],
+    "leadingunit": "中国残疾人联合会",
+    "participationUnits": [
+      "中国残疾人联合会",
+      "中国盲文出版社",
+      "康艺无障碍影视发展中心",
+      "中国电影科学技术研究所",
+      "中国视障文化资讯服务中心（中国盲文图书馆）"
+    ],
+    "publicationDate": "2021-11-30",
+    "publisher": "中国电影电视技术学会",
     "status": {
       "active": true
     }

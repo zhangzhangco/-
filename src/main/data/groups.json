@@ -1,6 +1,30 @@
 [
   {
-    "groupId": "CSMPTE",
+    "groupId": "广电总局工程建设标准定额管理中心",
+    "groupName": "广电总局工程建设标准定额管理中心",
+    "groupOrg": "国家广播电影电视总局",
+    "groupStatus": {
+      "active": false,
+      "assignedGroup": [
+        "国家电影局"
+      ]
+    },
+    "groupType": "TC"
+  },  
+  {
+    "groupId": "中国电影科学技术研究所",
+    "groupName": "中国电影科学技术研究所",
+    "groupOrg": "中华人民共和国广播电影电视部",
+    "groupStatus": {
+      "active": false,
+      "assignedGroup": [
+        "国家电影局"
+      ]
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "中国电影电视技术学会",
     "groupLink": "https://www.csmpte.org.cn/",
     "groupName": "中国电影电视技术学会",
     "groupOrg": "中国电影电视技术学会",

@@ -46,7 +46,9 @@
             {{/if}}
           </td>
           <td class="group d-none">
-            {{#if group}}{{#with (groupIdLookup ../dataGroups group)}}{{groupOrg}} {{groupName}} {{groupDesc}}{{/with}}{{/if}}
+            {{#if group}}{{#with (groupIdLookup ../dataGroups group)}}
+            {{!-- {{groupOrg}}  --}}
+            {{groupName}} {{groupDesc}}{{/with}}{{/if}}
           </td>
           <td>
             {{leadingunit}}
