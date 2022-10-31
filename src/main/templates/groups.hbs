@@ -57,7 +57,7 @@
           </td>
           <td>
             {{groupSummary}}
-            {{#ifeq groupStatus/active false}}<span class="font-weight-bold small"><em>** 单位已不存在{{#if groupStatus/assignedGroup}}; 所有工作交接给: {{#groupStatus/assignedGroup}}{{#unless @first}}, {{/unless}}{{#with (groupIdLookup ../../dataGroups this)}}<a class="group-link clear-filter" href="#{{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../dataGroups parentgroupId)}}{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}{{/if}}</a>{{/with}}{{/groupStatus/assignedGroup}}{{/if}}. **</em></span>{{/ifeq}}
+            {{#ifeq groupStatus/active false}}<span class="font-weight-bold small"><em>** 单位已不存在或工作移交{{#if groupStatus/assignedGroup}}; 工作交接单位: {{#groupStatus/assignedGroup}}{{#unless @first}}, {{/unless}}{{#with (groupIdLookup ../../dataGroups this)}}<a class="group-link clear-filter" href="#{{groupId}}">{{#if parentgroupId}}{{#with (groupIdLookup ../../../dataGroups parentgroupId)}}{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{#if groupLink}}{{/if}}</a>{{/with}}{{/groupStatus/assignedGroup}}{{/if}}. **</em></span>{{/ifeq}}
           </td>
           <td class="d-none">
             {{#ifeq groupType "TC"}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}{{/ifeq}}
