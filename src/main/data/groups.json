@@ -10,7 +10,25 @@
       ]
     },
     "groupType": "TC"
+  },  
+  {
+    "groupId": "中国机械工业联合会",
+    "groupName": "中国机械工业联合会",
+    "groupOrg": "中国机械工业联合会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
   },
+  {
+    "groupId": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "groupName": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "groupOrg": "工业和信息化部",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },  
   {
     "groupId": "中国电影科学技术研究所",
     "groupName": "中国电影科学技术研究所",
@@ -34,10 +52,10 @@
     "groupType": "TC"
   },
   {
-    "groupId": "中国科学技术学会",
+    "groupId": "中国科学技术协会",
     "groupLink": "https://www.cast.org.cn/",
-    "groupName": "中国科学技术学会",
-    "groupOrg": "中国科学技术学会",
+    "groupName": "中国科学技术协会",
+    "groupOrg": "中国科学技术协会",
     "groupStatus": {
       "active": true
     },
@@ -47,12 +65,12 @@
     "groupId": "中国科协科普部",
     "groupLink": "https://www.cast.org.cn/",
     "groupName": "中国科协科普部",
-    "groupOrg": "中国科学技术学会",
+    "groupOrg": "中国科学技术协会",
     "groupStatus": {
       "active": true
     },
     "groupType": "SC",
-    "parentgroupId": "中国科学技术学会"
+    "parentgroupId": "中国科学技术协会"
   },
   {
     "groupId": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
@@ -73,6 +91,15 @@
     "groupLink": "https://www.sarft.gov.cn/",
     "groupName": "全国广播电影电视标准化技术委员会（SAC/TC239）",
     "groupOrg": "国家广播电影电视总局",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },  
+  {
+    "groupId": "全国塑料标准化技术委员会（TC15）",
+    "groupName": "全国塑料标准化技术委员会（TC15）",
+    "groupOrg": "中国石油和化学工业联合会",
     "groupStatus": {
       "active": true
     },

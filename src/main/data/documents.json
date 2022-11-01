@@ -1016,6 +1016,28 @@
     }
   },
   {
+    "docId": "SMPTE.ST428-1.2019",
+    "docLabel": "SMPTE ST 428-1:2019",
+    "docNumber": "428",
+    "docPart": "1",
+    "docTitle": "D-Cinema Distribution Master (DCDM) - Image Characteristics",
+    "docType": "国外标准",
+    "group": "smpte-21dc-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST428-1.2019",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "DCP核心",
+      "发行",
+      "图像"
+    ],
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st428-1",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "docId": "SMPTE.ST428-2",
     "docLabel": "SMPTE ST 428-2",
     "docNumber": "428",
@@ -1221,6 +1243,9 @@
         "gbt-50076-2013",
         "gyt-312-2017",
         "sjt-10724-2013"
+      ],
+      "bibliographic":[
+        "dyt-3-2020"
       ]
     },
     "status": {
@@ -1792,6 +1817,13 @@
     ],
     "publicationDate": "2021-01-01",
     "publisher": "国家电影局",
+    "references": {
+      "normative": [
+        "gyt-311-2017",
+        "gyt-312-2017",
+        "dyt-1-2020"
+      ]
+    },
     "status": {
       "active": true
     }
@@ -1829,6 +1861,75 @@
     ],
     "publicationDate": "2021-01-01",
     "publisher": "国家电影局",
+    "references": {
+      "normative": [
+        "gbt-1040.1-2006",
+        "gbt-1040.3-2006",
+        "gbt-3241-2010",
+        "gbt-3785.1-2010",
+        "gbt-13982-2011",
+        "gbt-32200-2015",
+        "sjt-10724-2013"
+      ]
+    },
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-32200-2015",
+    "docLabel": "GB/T 32200—2015",
+    "docTitle": "放映银幕特性参数和测定方法",
+    "docType": "国家标准",
+    "group": "中国机械工业联合会",
+    "href": "javascript:;",
+    "implementationDate": "2016-07-01",
+    "publicationDate": "2015-12-10",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-13982-2011",
+    "docLabel": "GB/T 13982—2011",
+    "docTitle": "反射和透射放映银幕",
+    "docType": "国家标准",
+    "group": "中国机械工业联合会",
+    "href": "javascript:;",
+    "implementationDate": "2012-01-01",
+    "publicationDate": "2011-10-31",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-1040.1-2006",
+    "docLabel": "GB/T 1040.1—2006",
+    "docTitle": "塑料 拉伸性能的测定 第一部分：总则",
+    "docType": "国家标准",
+    "group": "全国塑料标准化技术委员会（TC15）",
+    "href": "javascript:;",
+    "implementationDate": "2007-01-01",
+    "publicationDate": "2006-08-24",
+    "publisher": "国家市场监督管理总局/中国国家标准化管理委员会",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "stabilizedDate":"2019-11-01"
+    }
+  },
+  {
+    "docId": "gbt-1040.3-2006",
+    "docLabel": "GB/T 1040.3—2006",
+    "docTitle": "塑料 拉伸性能的测定 第三部分：薄膜和薄片的试验条件",
+    "docType": "国家标准",
+    "group": "全国电声学标准化技术委员会（TC 23）",
+    "href": "javascript:;",
+    "implementationDate": "2007-02-01",
+    "publicationDate": "2006-09-01",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
@@ -1866,6 +1967,280 @@
     ],
     "publicationDate": "2021-08-01",
     "publisher": "国家电影局",
+    "references": {
+      "normative": [
+        "gyt-288-2014",
+        "gyt-292.2-2015",
+        "iso26428-3-2008",
+        "iso14496-2-2004",
+        "iso15444-1-2019",
+        "SMPTE.ST428-11.2013",
+        "SMPTE.ST429-5.2017",
+        "SMPTE.ST2067-2.2020",
+        "SMPTE.ST2067-5.2020"
+      ],
+      "bibliographic":[
+        "gyt-309-2017",
+        "SMPTE.ST428-1.2019",
+        "SMPTE.ST428-9.2008",
+        "SMPTE.ST429-4.2020",
+        "SMPTE.ST2067-20.2016",
+        "SMPTE.ST2067-21.2020",
+        "SMPTE.ST2067-30.2013"
+      ]
+    },
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "iso26428-3-2008",
+    "docLabel": "ISO 26428-3:2008",
+    "docTitle": "Digital cinema (D-cinema) distribution master — Part 3: Audio channel mapping and channel docLabeling",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50219.html",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "DCP核心",
+      "发行",
+      "声音"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "iso14496-2-2004",
+    "docLabel": "ISO/IEC 14496-2:2004",
+    "docTitle": "Information technology — Coding of audio-visual objects — Part 2: Visual",
+    "docType": "国际标准",
+    "href": "https://www.iso.org/standard/39259.html",
+    "publicationDate": "2004-06-01",
+    "publisher": "ISO/IEC",
+    "status": {
+      "active": true,
+      "amended": true
+    }
+  },
+  {
+    "docId": "iso15444-1-2019",
+    "docLabel": "ISO 15444-1:2019(en)",
+    "docTitle": "Information technology — JPEG 2000 image coding system —Part 1: Core coding system",
+    "docType": "国际标准",
+    "href": "https://www.iso.org/standard/78321.html",
+    "keywords": [
+      "DCinema",
+      "JPEG2000"
+    ],
+    "publicationDate": "2019-10-01T07:00:00.000Z",
+    "publisher": "ISO/IEC",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST428-11.2013",
+    "docLabel": "SMPTE ST 428-11:2013",
+    "docNumber": "428",
+    "docPart": "11",
+    "docTitle": "Additional Frame Rates for D-Cinema",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST428-11.2013",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST428-11.2013",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "发行"
+    ],
+    "publicationDate": "2013-08-27",
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st428-11",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2018-03-15",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST429-5.2017",
+    "docLabel": "SMPTE ST 429-5:2017",
+    "docNumber": "429",
+    "docPart": "5",
+    "docTitle": "D-Cinema Packaging — Timed Text Track File",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST429-5.2017",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST429-5.2017",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "对白",
+      "字幕",
+      "无障碍",
+      "MXF应用"
+    ],
+    "publicationDate": "2017-12-27",
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st429-5",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2019-11-13",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST2067-2.2020",
+    "docLabel": "SMPTE ST 2067-2:2020",
+    "docNumber": "2067",
+    "docPart": "2",
+    "docTitle": "Interoperable Master Format — Core Constraints",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST2067-2.2020",
+    "group": "smpte-35pm-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST2067-2.2020",
+    "keywords": [
+      "IMF"
+    ],
+    "publicationDate": "2020-05-12",
+    "publisher": "SMPTE",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST2067-5.2020",
+    "docLabel": "SMPTE ST 2067-5:2020",
+    "docNumber": "2067",
+    "docPart": "5",
+    "docTitle": "Interoperable Master Format — Essence Component",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST2067-5.2020",
+    "group": "smpte-35pm-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST2067-5.2020",
+    "keywords": [
+      "IMF"
+    ],
+    "publicationDate": "2020-05-12",
+    "publisher": "SMPTE",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST428-9.2008",
+    "docLabel": "SMPTE ST 428-9:2008",
+    "docNumber": "428",
+    "docPart": "9",
+    "docTitle": "D-Cinema Distribution Master - Image Pixel Structure Level 3 - Serial Digital Interface Signal Formatting",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST428-9.2008",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST428-9.2008",
+    "keywords": [
+      "DCinema",
+      "DCDM",
+      "发行",
+      "图像",
+      "SDI"
+    ],
+    "publicationDate": "2008-02-14",
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st428-9",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2018-03-15",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST429-4.2020",
+    "docLabel": "SMPTE ST 429-4:2020",
+    "docNumber": "429",
+    "docPart": "4",
+    "docTitle": "D-Cinema Packaging - MXF JPEG 2000 Application",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST429-4.2020",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST429-4.2020",
+    "keywords": [
+      "DCinema",
+      "打包",
+      "DCP核心",
+      "图像",
+      "MXF应用",
+      "JPEG2000"
+    ],
+    "publicationDate": "2020-03-23",
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st429-4",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST2067-20.2016",
+    "docLabel": "SMPTE ST 2067-20:2016",
+    "docNumber": "2067",
+    "docPart": "20",
+    "docTitle": "Interoperable Master Format — Application #2",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST2067-20.2016",
+    "group": "smpte-35pm-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST2067-20.2016",
+    "publicationDate": "2016-07-11",
+    "publisher": "SMPTE",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "SMPTE.ST2067-21.2020",
+    "docLabel": "SMPTE ST 2067-21:2020",
+    "docNumber": "2067",
+    "docPart": "21",
+    "docTitle": "Interoperable Master Format — Application #2E",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST2067-21.2020",
+    "group": "smpte-35pm-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST2067-21.2020",
+    "keywords": [
+      "IMF",
+      "IMF应用"
+    ],
+    "publicationDate": "2020-05-12",
+    "publisher": "SMPTE",
+    "repo": "https://github.com/SMPTE/st2067-21",
+    "status": {
+      "active": true,
+      "amended": true,
+      "amendedDate": "2020-11-03"
+    }
+  },
+  {
+    "docId": "SMPTE.ST2067-30.2013",
+    "docLabel": "SMPTE ST 2067-30:2013",
+    "docNumber": "2067",
+    "docPart": "30",
+    "docTitle": "Interoperable Master Format — Application #3",
+    "docType": "国外标准",
+    "doi": "10.5594/SMPTE.ST2067-30.2013",
+    "group": "smpte-35pm-tc",
+    "href": "https://doi.org/10.5594/SMPTE.ST2067-30.2013",
+    "keywords": [
+      "IMF",
+      "IMF应用"
+    ],
+    "publicationDate": "2013-08-29",
+    "publisher": "SMPTE",
     "status": {
       "active": true
     }
@@ -1908,6 +2283,56 @@
     ],
     "publicationDate": "2021-08-01",
     "publisher": "国家电影局",
+    "references":{
+      "normative":[
+        "gbt-12060.3-2011",
+        "gbt-12060.5-2011",
+        "gyt-158-2000",
+        "gyt-312-2017"
+      ]
+    },
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-12060.3-2011",
+    "docLabel": "GB/T 12060.3—2011",
+    "docTitle": "声系统设备 第3部分：声频放大器测量方法",
+    "docType": "国家标准",
+    "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "href": "javascript:;",
+    "implementationDate": "2012-02-01",
+    "publicationDate": "2011-10-31",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-12060.5-2011",
+    "docLabel": "GB/T 12060.5—2011",
+    "docTitle": "声系统设备 第5部分：扬声器主要性能测试方法",
+    "docType": "国家标准",
+    "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "href": "javascript:;",
+    "implementationDate": "2012-02-01",
+    "publicationDate": "2011-10-31",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gyt-158-2000",
+    "docLabel": "GY/T 158—2000",
+    "docTitle": "演播室数字音频信号接口",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
+    "href": "javascript:;",
+    "implementationDate": "2000-12-01",
+    "publicationDate": "2000-06-06",
+    "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
     }
