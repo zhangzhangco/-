@@ -1,4 +1,7 @@
 groupId,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
+中华人民共和国建设部,中华人民共和国建设部,中华人民共和国建设部,false,"[""中华人民共和国住房和城乡建设部""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+国家卫生健康委员会（TC361）,国家卫生健康委员会（TC361）,国家卫生健康委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国图形符号标准化技术委员会（TC59）,全国图形符号标准化技术委员会（TC59）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
 中国机械工业联合会,中国机械工业联合会,中国机械工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,工业和信息化部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
