@@ -1,5 +1,35 @@
 [
   {
+    "groupId": "中华人民共和国建设部",
+    "groupName": "中华人民共和国建设部",
+    "groupOrg": "中华人民共和国建设部",
+    "groupStatus": {
+      "active": false,
+      "assignedGroup": [
+        "中华人民共和国住房和城乡建设部"
+      ]
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "国家卫生健康委员会（TC361）",
+    "groupName": "国家卫生健康委员会（TC361）",
+    "groupOrg": "国家卫生健康委员会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "全国图形符号标准化技术委员会（TC59）",
+    "groupName": "全国图形符号标准化技术委员会（TC59）",
+    "groupOrg": "国家标准化管理委员会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
     "groupId": "广电总局工程建设标准定额管理中心",
     "groupName": "广电总局工程建设标准定额管理中心",
     "groupOrg": "国家广播电影电视总局",

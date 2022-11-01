@@ -450,8 +450,33 @@
     ],
     "publicationDate": "1985-08-25",
     "publisher": "国家标准局",
+    "references": {
+      "normative": [
+        "gb-2926-82"
+      ]
+    },
     "status": {
       "active": true
+    }
+  },
+  {
+    "authors": [
+      "王少明"
+    ],
+    "docId": "gb-2926-82",
+    "docLabel": "GB 2926-82",
+    "docTitle": "35mm和16mm电影发行影片用片头和片尾的技术规格",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
@@ -3849,8 +3874,102 @@
     ],
     "publicationDate": "2007-08-23",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "references": {
+      "normative": [
+        "gbt-10001",
+        "gbt-17217-1998",
+        "gb-50325-2001",
+        "gb-50045-1995",
+        "jgj-58-2007",
+        "gyt-183-2002",
+        "jbt-7469-2004"
+      ]
+    },
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "gbt-17217-1998",
+    "docLabel": "GB/T 17217-1998",
+    "docTitle": "城市公共厕所卫生标准",
+    "docType": "国家标准",
+    "group": "国家卫生健康委员会（TC361）",
+    "href": "javascript:;",
+    "implementationDate": "1998-10-01",
+    "publicationDate": "1998-01-21",
+    "publisher": "中华人民共和国卫生部/国家技术监督局",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "gbt-10001",
+    "docLabel": "GB/T 10001",
+    "docTitle": "标志用公共信息图形符号",
+    "docType": "国家标准",
+    "group": "全国图形符号标准化技术委员会（TC59）",
+    "href": "javascript:;",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gb-50325-2001",
+    "docLabel": "GB 50325-2001",
+    "docTitle": "民用建筑工程室内环境污染控制规范",
+    "docType": "国家标准",
+    "group": "中国人民共和国建设部",
+    "href": "javascript:;",
+    "implementationDate": "2002-01-01",
+    "publicationDate": "2002-01-01",
+    "publisher": "中国人民共和国建设部",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "gb-50045-1995",
+    "docLabel": "GB 50045-1995",
+    "docTitle": "高层民用建筑设计防火规范",
+    "docType": "国家标准",
+    "group": "中国人民共和国建设部",
+    "href": "javascript:;",
+    "implementationDate": "1995-11-01",
+    "publicationDate": "1995-11-01",
+    "publisher": "中国人民共和国建设部",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "jgj-58-2007",
+    "docLabel": "JGJ 58-2007",
+    "docTitle": "电影院建筑设计规范",
+    "docType": "行业标准",
+    "group": "中国人民共和国建设部",
+    "href": "javascript:;",
+    "publisher": "中国人民共和国建设部",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "jbt-7469-2004",
+    "docLabel": "JB/T 7469-2004",
+    "docTitle": "35 mm电影放映机技术条件",
+    "docType": "行业标准",
+    "group": "工业和信息化部",
+    "href": "javascript:;",
+    "publisher": "工业和信息化部",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
