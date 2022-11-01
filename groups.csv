@@ -1,11 +1,14 @@
 groupId,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
 广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国机械工业联合会,中国机械工业联合会,中国机械工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,工业和信息化部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 中国电影科学技术研究所,中国电影科学技术研究所,中华人民共和国广播电影电视部,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
 中国电影电视技术学会,中国电影电视技术学会,中国电影电视技术学会,true,undefined,TC,https://www.csmpte.org.cn/,undefined,undefined,undefined,undefined,undefined
-中国科学技术学会,中国科学技术学会,中国科学技术学会,true,undefined,TC,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
-中国科协科普部,中国科协科普部,中国科学技术学会,true,undefined,SC,https://www.cast.org.cn/,中国科学技术学会,undefined,undefined,undefined,undefined
+中国科学技术协会,中国科学技术协会,中国科学技术协会,true,undefined,TC,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
+中国科协科普部,中国科协科普部,中国科学技术协会,true,undefined,SC,https://www.cast.org.cn/,中国科学技术协会,undefined,undefined,undefined,undefined
 全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,"[""国家电影局""]",SC,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,undefined,undefined,undefined,undefined
 全国广播电影电视标准化技术委员会（SAC/TC239）,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,undefined,TC,https://www.sarft.gov.cn/,undefined,undefined,undefined,undefined,undefined
+全国塑料标准化技术委员会（TC15）,全国塑料标准化技术委员会（TC15）,中国石油和化学工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 国家电影局,国家电影局,国家电影局,true,undefined,TC,https://www.chinafilm.gov.cn/,undefined,undefined,undefined,undefined,undefined
 iso-tc36-tc,TC36,ISO,true,undefined,TC,https://www.iso.org/committee/48090.html,undefined,Cinematography,undefined,undefined,undefined
 smpte-21dc-tc,21DC,SMPTE,false,"[""smpte-27c-tc""]",TC,undefined,undefined,Digital Cinema,https://github.com/orgs/SMPTE/teams/21dc,undefined,undefined
