@@ -2041,6 +2041,18 @@
     }
   },
   {
+    "docId": "iso14496-2",
+    "docLabel": "ISO/IEC 14496-2",
+    "docTitle": "Information technology — Coding of audio-visual objects — Part 2: Visual",
+    "docType": "国际标准",
+    "href": "https://www.iso.org/standard/39259.html",
+    "publicationDate": "2004-06-01",
+    "publisher": "ISO/IEC",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "docId": "iso14496-2-2004",
     "docLabel": "ISO/IEC 14496-2:2004",
     "docTitle": "Information technology — Coding of audio-visual objects — Part 2: Visual",
@@ -3539,8 +3551,114 @@
     ],
     "publicationDate": "2007-05-28",
     "publisher": "国家广播电影电视总局",
+    "references":{
+      "normative":[
+        "gb-2099.1-2008",
+        "gbt-9001-1988",
+        "gbt-9396-1996",
+        "gbt-16649.3-2006",
+        "gyt-183-2002",
+        "gyt-248-2011",
+        "gyt-250-2011",
+        "sjt-11298-2003",
+        "iso14496-2",
+        "iec-61937",
+        "itu-r-bs.1196-1"
+      ]
+    },
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "itu-r-bs.1196-1",
+    "docLabel": "ITU-R BS.1196-1",
+    "docTitle": "Audio coding for digital terrestrial television broadcasting",
+    "docType": "国际标准",
+    "href": "https://www.itu.int/rec/R-REC-BS.1196-1-200104-S/en",
+    "publisher": "ITU",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "iec-61937",
+    "docLabel": "IEC 61937",
+    "docTitle": "Digital audio - Interface for non-linear PCM encoded audio bitstreams applying IEC 60958",
+    "docType": "国际标准",
+    "href": "https://standards.iteh.ai/catalog/standards/iec/50ac4c22-153b-4ef8-84e5-b20760370da9/iec-61937-11-2021",
+    "publisher": "IEC",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "sjt-11298-2003",
+    "docLabel": "SJ/T 11298-2003",
+    "docTitle": "数字投影机通用规范",
+    "docType": "行业标准",
+    "group": "中国电子技术标准化研究所",
+    "href": "javascript:;",
+    "publisher": "中华人民共和国信息产业部",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-16649.3-2006",
+    "docLabel": "GB/T 16649.3-2006",
+    "docTitle": "识别卡 带触点的集成电路卡 第3部分:电信号和传输协议",
+    "docType": "国家标准",
+    "group": "全国信息技术标准化技术委员会（TC28）",
+    "href": "javascript:;",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-9396-1996",
+    "docLabel": "GB/T 9396-1996 ",
+    "docTitle": "扬声器主要性能测试方法",
+    "docType": "国家标准",
+    "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "href": "javascript:;",
+    "implementationDate": "1997-08-01",
+    "publicationDate": "1996-12-20",
+    "publisher": "中华人民共和国电子工业部",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "gbt-9001-1988",
+    "docLabel": "GB/T 9001-1988",
+    "docTitle": "声频放大器测量方法",
+    "docType": "国家标准",
+    "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "href": "javascript:;",
+    "implementationDate": "1988-10-01",
+    "publicationDate": "2012-02-01",
+    "publisher": "中华人民共和国电子工业部",
+    "status": {
+      "active": false,
+      "superseded": true
+    }
+  },
+  {
+    "docId": "gb-2099.1-2008",
+    "docLabel": "GB 2099.1-2008",
+    "docTitle": "家用和类似用途插头插座 第 1 部分：通用要求",
+    "docType": "国家标准",
+    "group": "全国电器附件标准化技术委员会（TC67）",
+    "href": "javascript:;",
+    "implementationDate": "2009-08-01",
+    "publicationDate": "2008-09-24",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
