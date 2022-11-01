@@ -10,7 +10,7 @@
       ]
     },
     "groupType": "TC"
-  },  
+  },
   {
     "groupId": "中国机械工业联合会",
     "groupName": "中国机械工业联合会",
@@ -28,7 +28,7 @@
       "active": true
     },
     "groupType": "TC"
-  },  
+  },
   {
     "groupId": "中国电影科学技术研究所",
     "groupName": "中国电影科学技术研究所",
@@ -95,7 +95,7 @@
       "active": true
     },
     "groupType": "TC"
-  },  
+  },
   {
     "groupId": "全国塑料标准化技术委员会（TC15）",
     "groupName": "全国塑料标准化技术委员会（TC15）",

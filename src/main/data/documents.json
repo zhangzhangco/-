@@ -1234,6 +1234,9 @@
     "publicationDate": "2017-11-24",
     "publisher": "国家广播电影电视总局",
     "references": {
+      "bibliographic": [
+        "dyt-3-2020"
+      ],
       "normative": [
         "gbt-19889.4-2005",
         "gbt-50121-2005",
@@ -1243,9 +1246,6 @@
         "gbt-50076-2013",
         "gyt-312-2017",
         "sjt-10724-2013"
-      ],
-      "bibliographic":[
-        "dyt-3-2020"
       ]
     },
     "status": {
@@ -1916,8 +1916,8 @@
     "publisher": "国家市场监督管理总局/中国国家标准化管理委员会",
     "status": {
       "active": false,
-      "superseded": true,
-      "stabilizedDate":"2019-11-01"
+      "stabilizedDate": "2019-11-01",
+      "superseded": true
     }
   },
   {
@@ -1968,6 +1968,15 @@
     "publicationDate": "2021-08-01",
     "publisher": "国家电影局",
     "references": {
+      "bibliographic": [
+        "gyt-309-2017",
+        "SMPTE.ST428-1.2019",
+        "SMPTE.ST428-9.2008",
+        "SMPTE.ST429-4.2020",
+        "SMPTE.ST2067-20.2016",
+        "SMPTE.ST2067-21.2020",
+        "SMPTE.ST2067-30.2013"
+      ],
       "normative": [
         "gyt-288-2014",
         "gyt-292.2-2015",
@@ -1978,15 +1987,6 @@
         "SMPTE.ST429-5.2017",
         "SMPTE.ST2067-2.2020",
         "SMPTE.ST2067-5.2020"
-      ],
-      "bibliographic":[
-        "gyt-309-2017",
-        "SMPTE.ST428-1.2019",
-        "SMPTE.ST428-9.2008",
-        "SMPTE.ST429-4.2020",
-        "SMPTE.ST2067-20.2016",
-        "SMPTE.ST2067-21.2020",
-        "SMPTE.ST2067-30.2013"
       ]
     },
     "status": {
@@ -2283,8 +2283,8 @@
     ],
     "publicationDate": "2021-08-01",
     "publisher": "国家电影局",
-    "references":{
-      "normative":[
+    "references": {
+      "normative": [
         "gbt-12060.3-2011",
         "gbt-12060.5-2011",
         "gyt-158-2000",
