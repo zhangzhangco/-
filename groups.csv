@@ -1,4 +1,5 @@
 groupId,groupName,groupOrg,groupStatus.active,groupType,groupStatus.assignedGroup,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
+国家机械工业局,国家机械工业局,国家机械工业局,false,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
 中国电子技术标准化研究所,中国电子技术标准化研究所,信息产业部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
 全国信息技术标准化技术委员会（TC28）,全国信息技术标准化技术委员会（TC28）,国家标准化管理委员会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
 全国电器附件标准化技术委员会（TC67）,全国电器附件标准化技术委员会（TC67）,中国电器工业协会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
@@ -7,7 +8,9 @@ groupId,groupName,groupOrg,groupStatus.active,groupType,groupStatus.assignedGrou
 全国图形符号标准化技术委员会（TC59）,全国图形符号标准化技术委员会（TC59）,国家标准化管理委员会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
 广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,TC,"[""国家电影局""]",undefined,undefined,undefined,undefined,undefined,undefined
 中国机械工业联合会,中国机械工业联合会,中国机械工业联合会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,工业和信息化部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
 全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,工业和信息化部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+秦皇岛视听机械研究所,秦皇岛视听机械研究所,机械电子工业部,false,TC,"[""中国机械工业联合会""]",undefined,undefined,undefined,undefined,undefined,undefined
 中国电影科学技术研究所,中国电影科学技术研究所,中华人民共和国广播电影电视部,false,TC,"[""国家电影局""]",undefined,undefined,undefined,undefined,undefined,undefined
 中国电影电视技术学会,中国电影电视技术学会,中国电影电视技术学会,true,TC,undefined,https://www.csmpte.org.cn/,undefined,undefined,undefined,undefined,undefined
 中国科学技术协会,中国科学技术协会,中国科学技术协会,true,TC,undefined,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
