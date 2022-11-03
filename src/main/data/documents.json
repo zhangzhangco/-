@@ -2482,8 +2482,38 @@
     ],
     "publicationDate": "2007-06-12",
     "publisher": "国家广播电影电视总局",
+    "references": {
+      "normative": [
+        "gbt-2926-2000",
+        "gbt-5297-2002",
+        "gbt-5300-1994",
+        "gbt-15769-1995",
+        "gbt-4638-1997",
+        "gbt-5299-2002"
+      ]
+    },
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "gbt-5299-2002",
+    "docLabel": "GB/T 5299-2002",
+    "docTitle": "16mm电影发行影片上画面和光学声迹的位置和尺寸",
+    "docType": "国家标准",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局",
+    "status": {
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gbt-5300-1994",
+    "docLabel": "GB/T 5300-1994",
+    "docTitle": "70mm，65mm，35mm和16mm电影影片接头的尺寸和位置",
+    "docType": "国家标准",
+    "publisher": "国家质量技术监督局",
+    "status": {
+      "withdrawn": true
     }
   },
   {
@@ -3757,8 +3787,95 @@
     ],
     "publicationDate": "2015-08-18",
     "publisher": "国家广播电影电视总局",
+    "references": {
+      "normative": [
+        "gyt-251-2011",
+        "gyt-256-2012",
+        "iso26429-6-2008",
+        "iso26430-1-2008",
+        "iso26430-2-2008",
+        "iso26430-6-2009",
+        "dci-dcss-v12"
+      ]
+    },
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "iso26430-1-2008",
+    "docLabel": "ISO 26430-1:2008",
+    "docTitle": "Digital cinema (D-cinema) operations — Part 1: Key delivery message",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50206.html",
+    "keywords": [
+      "DCinema",
+      "运营",
+      "安全",
+      "KDM"
+    ],
+    "publicationDate": "2008-07-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "iso26430-2-2008",
+    "docLabel": "ISO 26430-2:2008",
+    "docTitle": "Digital cinema (D-cinema) operations — Part 2: Digital certificate",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/50224.html",
+    "keywords": [
+      "DCinema",
+      "运营",
+      "DCP核心",
+      "安全",
+      "KDM"
+    ],
+    "publicationDate": "2008-09-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2017-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "iso26430-6-2009",
+    "docLabel": "ISO 26430-6:2009",
+    "docTitle": "Digital cinema (D-cinema) operations — Part 6: Auditorium security messages for intra-theater communications",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/52790.html",
+    "keywords": [
+      "DCinema",
+      "安全",
+      "运营"
+    ],
+    "publicationDate": "2009-12-01",
+    "publisher": "ISO",
+    "status": {
+      "active": true,
+      "reaffirmDate": "2015-01-01",
+      "reaffirmed": true
+    }
+  },
+  {
+    "docId": "dci-dcss-v12",
+    "docLabel": "DCSS v1.2 2012-1010",
+    "docTitle": "Digital Cinema System Specification Version 1.2",
+    "docType": "国外规范",
+    "href": "https://www.dcimovies.com/archives/spec_v1_2_With_Errata_Incorporated/DCI_DCSS_v12_with_errata_2012-1010.pdf",
+    "publicationDate": "2012-08-30",
+    "publisher": "DCI",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
@@ -3787,6 +3904,60 @@
     ],
     "publicationDate": "2017-11-24",
     "publisher": "国家广播电影电视总局",
+    "references": {
+      "bibliographic": [
+        "gdj-017-2007",
+        "gbt-2659-2000",
+        "gbt-4880.1-2005",
+        "dci-dcss-v12",
+        "dcnc"
+      ],
+      "normative": [
+        "gyt-310-2017",
+        "iso26429-7-2008"
+      ]
+    },
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "details": "ISDCF维护的命名DCP文件的建议。",
+    "docId": "dcnc",
+    "docLabel": "ISDCF Doc 01",
+    "docTitle": "Digital Cinema Content Naming Convention",
+    "docType": "国外规范",
+    "href": "http://isdcf.com/dcnc",
+    "keywords": [
+      "DCinema",
+      "DCP核心",
+      "打包",
+      "发行"
+    ],
+    "publisher": "ISDCF",
+    "repo": "https://github.com/ISDCF/registries",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-4880.1-2005",
+    "docLabel": "GB/T 4880.1-2005",
+    "docTitle": "语种名称代码 第1部分:2字母代码",
+    "docType": "国家标准",
+    "group": "全国语言与术语标准化技术委员会（TC62）",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gbt-2659-2000",
+    "docLabel": "GB/T 2659-2000",
+    "docTitle": "世界各国和地区名称代码",
+    "docType": "国家标准",
+    "group": "全国信息与文献标准化技术委员会（TC4）",
+    "publisher": "国家质量技术监督局",
     "status": {
       "active": true
     }
@@ -3817,6 +3988,16 @@
     ],
     "publicationDate": "2017-11-24",
     "publisher": "国家广播电影电视总局",
+    "references": {
+      "bibliographic": [
+        "dci-dcss-v12",
+        "gdj-017-2007"
+      ],
+      "normative": [
+        "gbt-17975.2-2000",
+        "iso15444-1"
+      ]
+    },
     "status": {
       "active": true
     }
@@ -4737,7 +4918,7 @@
     "docLabel": "T/CAS 608-2022",
     "docTitle": "科普场馆球幕影院功能配置与放映技术要求",
     "docType": "团体标准",
-    "group": "中国科学技术学会",
+    "group": "中国科协科普部",
     "href": "javascript:;",
     "implementationDate": "2022-06-30",
     "keywords": [

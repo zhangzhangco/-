@@ -4,7 +4,10 @@
     "groupName": "国家机械工业局",
     "groupOrg": "国家机械工业局",
     "groupStatus": {
-      "active": false
+      "active": false,
+      "assignedGroup": [
+        "中国机械工业联合会"
+      ]
     },
     "groupType": "TC"
   },
@@ -160,6 +163,24 @@
     "parentgroupId": "中国科学技术协会"
   },
   {
+    "groupId": "全国信息与文献标准化技术委员会（TC4）",
+    "groupName": "全国信息与文献标准化技术委员会（TC4）",
+    "groupOrg": "国家标准化管理委员会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupId": "全国语言与术语标准化技术委员会（TC62）",
+    "groupName": "全国语言与术语标准化技术委员会（TC62）",
+    "groupOrg": "国家标准化管理委员会",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
     "groupId": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "groupLink": "https://www.sarft.gov.cn/",
     "groupName": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
@@ -206,7 +227,7 @@
     "groupDesc": "Cinematography",
     "groupId": "iso-tc36-tc",
     "groupLink": "https://www.iso.org/committee/48090.html",
-    "groupName": "TC36",
+    "groupName": "ISO TC36",
     "groupOrg": "ISO",
     "groupStatus": {
       "active": true
@@ -216,7 +237,7 @@
   {
     "groupDesc": "Digital Cinema",
     "groupId": "smpte-21dc-tc",
-    "groupName": "21DC",
+    "groupName": "SMPTE 21DC",
     "groupOrg": "SMPTE",
     "groupRepo": "https://github.com/orgs/SMPTE/teams/21dc",
     "groupStatus": {
@@ -230,7 +251,7 @@
   {
     "groupDesc": "Cinema",
     "groupId": "smpte-27c-tc",
-    "groupName": "27C",
+    "groupName": "SMPTE 27C",
     "groupOrg": "SMPTE",
     "groupRepo": "https://github.com/orgs/SMPTE/teams/27c",
     "groupStatus": {

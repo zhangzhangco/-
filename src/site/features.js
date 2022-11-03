@@ -395,7 +395,7 @@ $(document).ready(function() {
     paging: false,
     processing: true,
     responsive: true,
-    order: [[1, 'asc']],   
+    order: [[4, 'des']],   
     buttons: [
         {
         extend: 'searchPanes',
@@ -422,7 +422,7 @@ $(document).ready(function() {
            .draw();
 
           $('#sorttableDocs').DataTable().searchPanes.clearSelections();
-          $('#sorttableDocs').DataTable().order([1, 'asc']).draw();
+          $('#sorttableDocs').DataTable().order([4, 'des']).draw();
 
           var url= document.location.href;
           window.history.pushState({}, "", url.split("?")[0]);
@@ -443,6 +443,7 @@ $(document).ready(function() {
         visible: false,
         width: '5%',
         targets:[4],
+        orderSequence: [ "desc", "desc" ],
         searchPanes: {
           header: "归口"
         }
