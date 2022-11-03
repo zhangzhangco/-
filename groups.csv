@@ -1,24 +1,26 @@
-groupId,groupName,groupOrg,groupStatus.active,groupType,groupStatus.assignedGroup,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
-国家机械工业局,国家机械工业局,国家机械工业局,false,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-中国电子技术标准化研究所,中国电子技术标准化研究所,信息产业部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-全国信息技术标准化技术委员会（TC28）,全国信息技术标准化技术委员会（TC28）,国家标准化管理委员会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-全国电器附件标准化技术委员会（TC67）,全国电器附件标准化技术委员会（TC67）,中国电器工业协会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-中华人民共和国建设部,中华人民共和国建设部,中华人民共和国建设部,false,TC,"[""中华人民共和国住房和城乡建设部""]",undefined,undefined,undefined,undefined,undefined,undefined
-国家卫生健康委员会（TC361）,国家卫生健康委员会（TC361）,国家卫生健康委员会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-全国图形符号标准化技术委员会（TC59）,全国图形符号标准化技术委员会（TC59）,国家标准化管理委员会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,TC,"[""国家电影局""]",undefined,undefined,undefined,undefined,undefined,undefined
-中国机械工业联合会,中国机械工业联合会,中国机械工业联合会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,工业和信息化部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,工业和信息化部,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-秦皇岛视听机械研究所,秦皇岛视听机械研究所,机械电子工业部,false,TC,"[""中国机械工业联合会""]",undefined,undefined,undefined,undefined,undefined,undefined
-中国电影科学技术研究所,中国电影科学技术研究所,中华人民共和国广播电影电视部,false,TC,"[""国家电影局""]",undefined,undefined,undefined,undefined,undefined,undefined
-中国电影电视技术学会,中国电影电视技术学会,中国电影电视技术学会,true,TC,undefined,https://www.csmpte.org.cn/,undefined,undefined,undefined,undefined,undefined
-中国科学技术协会,中国科学技术协会,中国科学技术协会,true,TC,undefined,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
-中国科协科普部,中国科协科普部,中国科学技术协会,true,SC,undefined,https://www.cast.org.cn/,中国科学技术协会,undefined,undefined,undefined,undefined
-全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,SC,"[""国家电影局""]",https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,undefined,undefined,undefined,undefined
-全国广播电影电视标准化技术委员会（SAC/TC239）,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,TC,undefined,https://www.sarft.gov.cn/,undefined,undefined,undefined,undefined,undefined
-全国塑料标准化技术委员会（TC15）,全国塑料标准化技术委员会（TC15）,中国石油和化学工业联合会,true,TC,undefined,undefined,undefined,undefined,undefined,undefined,undefined
-国家电影局,国家电影局,国家电影局,true,TC,undefined,https://www.chinafilm.gov.cn/,undefined,undefined,undefined,undefined,undefined
-iso-tc36-tc,TC36,ISO,true,TC,undefined,https://www.iso.org/committee/48090.html,undefined,Cinematography,undefined,undefined,undefined
-smpte-21dc-tc,21DC,SMPTE,false,TC,"[""smpte-27c-tc""]",undefined,undefined,Digital Cinema,https://github.com/orgs/SMPTE/teams/21dc,undefined,undefined
-smpte-27c-tc,27C,SMPTE,undefined,TC,undefined,undefined,undefined,Cinema,https://github.com/orgs/SMPTE/teams/27c,true,筹建的新TC，涵盖胶片和数字的影院发行、制作和运营。
+groupId,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
+国家机械工业局,国家机械工业局,国家机械工业局,false,"[""中国机械工业联合会""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国电子技术标准化研究所,中国电子技术标准化研究所,信息产业部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国信息技术标准化技术委员会（TC28）,全国信息技术标准化技术委员会（TC28）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国电器附件标准化技术委员会（TC67）,全国电器附件标准化技术委员会（TC67）,中国电器工业协会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+中华人民共和国建设部,中华人民共和国建设部,中华人民共和国建设部,false,"[""中华人民共和国住房和城乡建设部""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+国家卫生健康委员会（TC361）,国家卫生健康委员会（TC361）,国家卫生健康委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国图形符号标准化技术委员会（TC59）,全国图形符号标准化技术委员会（TC59）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+广电总局工程建设标准定额管理中心,广电总局工程建设标准定额管理中心,国家广播电影电视总局,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国机械工业联合会,中国机械工业联合会,中国机械工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,全国电子设备用高频电缆及连接器标准化技术委员会（TC190）,工业和信息化部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）,工业和信息化部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+秦皇岛视听机械研究所,秦皇岛视听机械研究所,机械电子工业部,false,"[""中国机械工业联合会""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国电影科学技术研究所,中国电影科学技术研究所,中华人民共和国广播电影电视部,false,"[""国家电影局""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
+中国电影电视技术学会,中国电影电视技术学会,中国电影电视技术学会,true,undefined,TC,https://www.csmpte.org.cn/,undefined,undefined,undefined,undefined,undefined
+中国科学技术协会,中国科学技术协会,中国科学技术协会,true,undefined,TC,https://www.cast.org.cn/,undefined,undefined,undefined,undefined,undefined
+中国科协科普部,中国科协科普部,中国科学技术协会,true,undefined,SC,https://www.cast.org.cn/,中国科学技术协会,undefined,undefined,undefined,undefined
+全国信息与文献标准化技术委员会（TC4）,全国信息与文献标准化技术委员会（TC4）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国语言与术语标准化技术委员会（TC62）,全国语言与术语标准化技术委员会（TC62）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,全国广播电影电视标准化技术委员会（SAC/TC239/SC4）,国家广播电影电视总局,false,"[""国家电影局""]",SC,https://www.sarft.gov.cn/,全国广播电影电视标准化技术委员会（SAC/TC239）,undefined,undefined,undefined,undefined
+全国广播电影电视标准化技术委员会（SAC/TC239）,全国广播电影电视标准化技术委员会（SAC/TC239）,国家广播电影电视总局,true,undefined,TC,https://www.sarft.gov.cn/,undefined,undefined,undefined,undefined,undefined
+全国塑料标准化技术委员会（TC15）,全国塑料标准化技术委员会（TC15）,中国石油和化学工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+国家电影局,国家电影局,国家电影局,true,undefined,TC,https://www.chinafilm.gov.cn/,undefined,undefined,undefined,undefined,undefined
+iso-tc36-tc,ISO TC36,ISO,true,undefined,TC,https://www.iso.org/committee/48090.html,undefined,Cinematography,undefined,undefined,undefined
+smpte-21dc-tc,SMPTE 21DC,SMPTE,false,"[""smpte-27c-tc""]",TC,undefined,undefined,Digital Cinema,https://github.com/orgs/SMPTE/teams/21dc,undefined,undefined
+smpte-27c-tc,SMPTE 27C,SMPTE,undefined,undefined,TC,undefined,undefined,Cinema,https://github.com/orgs/SMPTE/teams/27c,true,筹建的新TC，涵盖胶片和数字的影院发行、制作和运营。
