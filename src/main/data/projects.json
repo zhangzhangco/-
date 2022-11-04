@@ -8,7 +8,7 @@
     "docId": "dyt-247-20XX",
     "docType": "行业标准",
     "projApproved": true,
-    "projApprovedDate": "2017年",
+    "projApprovedDate": "2017-09-07",
     "projectId": "gyt-247-2011-rev-01",
     "projectMilestone": [
       {
@@ -34,6 +34,25 @@
     ],
     "projectStatus": "进行",
     "workNotes": "2022年7月，已报送电影局。",
+    "workType": "修订"
+  },
+  {
+    "assignedGroup": "国家电影局",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "gdj-040-2012"
+    ],
+    "docId": "dyt-3-2020",
+    "docType": "行业标准",
+    "projApproved": true,
+    "projApprovedDate": "2017-09-07",
+    "projectId": "gyt-040-2012-rev-01",
+    "projectMilestone": [
+      {
+        "milestoneAct": "归档"
+      }
+    ],
+    "projectStatus": "完成",
     "workType": "修订"
   },
   {
@@ -191,7 +210,7 @@
     "docTitle": "电影院票务管理系统技术要求及测量方法",
     "docType": "行业标准",
     "projApproved": true,
-    "projApprovedDate": "2017年",
+    "projApprovedDate": "2017-09-07",
     "projectId": "gyt-276-2013-rev-01",
     "projectMilestone": [
       {
@@ -217,7 +236,7 @@
     "docTitle": "胶片档案影片数字化修复技术要求",
     "docType": "行业标准",
     "projApproved": true,
-    "projApprovedDate": "2017年",
+    "projApprovedDate": "2017-09-04",
     "projectId": "dyt-XXX-XXXX-dev-05",
     "projectMilestone": [
       {
@@ -488,7 +507,15 @@
       {
         "authors": [
           "隗京花",
-          "高峰"
+          "李明涛",
+          "高峰",
+          "王丽",
+          "曹建华",
+          "刘硕",
+          "张辉",
+          "贾硕",
+          "刘思佳",
+          "高闯"
         ],
         "milestoneAct": "工作组标准草稿 (15%)",
         "participationUnits": [

@@ -383,9 +383,13 @@
             {{/currentWork}}
           </td>
           <td class="adoption">
-            {{#if adoption}}
-              <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{adoption}}">{{getLabel adoption}}</a> [{{getStatus adoption}}]</span> {{{getstatusButton adoption "10"}}}
-            {{/if}}
+            {{#each adoption}}
+              {{#if (getLabel this)}}
+                <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
+                {{else}}
+                  {{this}}
+              {{/if}}<br>
+            {{/each}}
           </td>
           <td class="p-1">
             {{#if references/normative}}

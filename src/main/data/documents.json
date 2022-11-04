@@ -1,6 +1,8 @@
 [
   {
-    "adoption": "iso4241-1987",
+    "adoption": [
+      "iso4241-1987"
+    ],
     "authors": [
       "吴淑芝",
       "孙延炜"
@@ -35,7 +37,9 @@
     }
   },
   {
-    "adoption": "iso4238-1976",
+    "adoption": [
+      "iso4238-1976"
+    ],
     "docId": "gbt-2927-94",
     "docLabel": "GB/T 2927-94",
     "docTitle": "电影影片画幅放大或缩小光学印片比率技术要求",
@@ -74,6 +78,10 @@
     "group": "国家电影局",
     "href": "javascript:;",
     "implementationDate": "1995-08-01",
+    "keywords": [
+      "测量",
+      "检测能力"
+    ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
       "中国电影科学技术研究所"
@@ -85,7 +93,9 @@
     }
   },
   {
-    "adoption": "iso2906-84",
+    "adoption": [
+      "iso2906-84"
+    ],
     "authors": [
       "孙延炜"
     ],
@@ -119,7 +129,9 @@
     }
   },
   {
-    "adoption": "iso2907-84",
+    "adoption": [
+      "iso2907-84"
+    ],
     "authors": [
       "孙延炜"
     ],
@@ -153,7 +165,9 @@
     }
   },
   {
-    "adoption": "iso162-85",
+    "adoption": [
+      "iso162-85"
+    ],
     "docId": "gbt-4637-1994",
     "docLabel": "GB/T 4637-1994",
     "docTitle": "35mm磁片上三声轨、四声轨和六声轨磁头隙缝的位置和宽度尺寸",
@@ -185,7 +199,9 @@
     }
   },
   {
-    "adoption": "iso2939-1986",
+    "adoption": [
+      "iso2939-1986"
+    ],
     "authors": [
       "孙延炜"
     ],
@@ -219,7 +235,9 @@
     }
   },
   {
-    "adoption": "iso70-1981",
+    "adoption": [
+      "iso70-1981"
+    ],
     "authors": [
       "孙延炜"
     ],
@@ -254,7 +272,9 @@
     }
   },
   {
-    "adoption": "iso23-1993",
+    "adoption": [
+      "iso23-1993"
+    ],
     "authors": [
       "吴淑芝"
     ],
@@ -289,7 +309,9 @@
     }
   },
   {
-    "adoption": "iso25-1994",
+    "adoption": [
+      "iso25-1994"
+    ],
     "authors": [
       "吴淑芝"
     ],
@@ -324,7 +346,9 @@
     }
   },
   {
-    "adoption": "iso466-1976",
+    "adoption": [
+      "iso466-1976"
+    ],
     "authors": [
       "华锡梅"
     ],
@@ -359,7 +383,9 @@
     }
   },
   {
-    "adoption": "iso2910-1990",
+    "adoption": [
+      "iso2910-1990"
+    ],
     "authors": [
       "顾正保",
       "李涵初",
@@ -400,7 +426,9 @@
     }
   },
   {
-    "adoption": "iso8567-1986",
+    "adoption": [
+      "iso8567-1986"
+    ],
     "authors": [
       "张中平"
     ],
@@ -480,7 +508,9 @@
     }
   },
   {
-    "adoption": "iso1223-1993",
+    "adoption": [
+      "iso1223-1993"
+    ],
     "authors": [
       "杨明达"
     ],
@@ -514,7 +544,23 @@
     }
   },
   {
-    "adoption": "iso5768-1981",
+    "docId": "jbt-6839-2011",
+    "docLabel": "JB/T 6839-2011",
+    "docTitle": "放映银幕分类",
+    "docType": "行业标准",
+    "group": "中国机械工业联合会",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "工业和信息化部",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "adoption": [
+      "iso5768-1981"
+    ],
     "authors": [
       "王少明"
     ],
@@ -549,7 +595,10 @@
     }
   },
   {
-    "adoption": "iso1189-1986",
+    "adoption": [
+      "iso1189-1986",
+      "iso1188-1984"
+    ],
     "docId": "gbt-5875-94",
     "docLabel": "GB/T 5875-94",
     "docTitle": "35mm和16mm磁片的录音特性",
@@ -582,7 +631,9 @@
     }
   },
   {
-    "adoption": "iso417-1977",
+    "adoption": [
+      "iso417-1977"
+    ],
     "authors": [
       "梁敏聪"
     ],
@@ -616,7 +667,9 @@
     }
   },
   {
-    "adoption": "iso6036-1996",
+    "adoption": [
+      "iso6036-1996"
+    ],
     "authors": [
       "杨明达"
     ],
@@ -638,6 +691,27 @@
     }
   },
   {
+    "adoption": [
+      "iso8590-1985"
+    ],
+    "docId": "gbt-13155-1991",
+    "docLabel": "GB/T 13155-1991",
+    "docTitle": "70mm电影涂磁发行拷贝上磁性声迹的录音频率响应特性",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1992-6-1",
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1991-9-16",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "docId": "iso6036-1996",
     "docLabel": "ISO 6036:1996",
     "docTitle": "Cinematography — Colour motion-picture prints and slides for television — Density specifications",
@@ -651,7 +725,10 @@
     }
   },
   {
-    "adoption": "iso2969-1987",
+    "adoption": [
+      "iso7831-1986",
+      "iso2969-1987"
+    ],
     "docId": "gbt-13157-91",
     "docLabel": "GB/T 13157-91",
     "docTitle": "35mm影片光学声迹的还音电声频率响应特性",
@@ -683,7 +760,9 @@
     }
   },
   {
-    "adoption": "iso7343-1983",
+    "adoption": [
+      "iso7343-1983"
+    ],
     "authors": [
       "敬健"
     ],
@@ -717,7 +796,9 @@
     }
   },
   {
-    "adoption": "iso2969-1987",
+    "adoption": [
+      "iso2969-1987"
+    ],
     "docId": "gbt-15397-1994",
     "docLabel": "GB/T 15397-1994",
     "docTitle": "电影录音控制室、鉴定放映室及室内影院A环、B环电声频率响应特性测量方法",
@@ -764,7 +845,9 @@
     }
   },
   {
-    "adoption": "iso6035-1983",
+    "adoption": [
+      "iso6035-1983"
+    ],
     "authors": [
       "顾欣台"
     ],
@@ -799,7 +882,9 @@
     }
   },
   {
-    "adoption": "iso12612-1997",
+    "adoption": [
+      "iso12612-1997"
+    ],
     "authors": [
       "顾欣台"
     ],
@@ -842,7 +927,8 @@
     "implementationDate": "2019-05-31",
     "keywords": [
       "点播",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -881,7 +967,8 @@
     "implementationDate": "2020-09-01",
     "keywords": [
       "立体",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
@@ -920,6 +1007,9 @@
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
     "href": "javascript:;",
     "implementationDate": "2007-8-13",
+    "keywords": [
+      "检测能力"
+    ],
     "leadingunit": "中国电影科学技术研究所",
     "publicationDate": "2007-8-13",
     "publisher": "国家广播电影电视总局",
@@ -946,7 +1036,9 @@
     }
   },
   {
-    "adoption": "iso4246-1984",
+    "adoption": [
+      "iso4246-1984"
+    ],
     "docId": "gbt-15769-1995",
     "docLabel": "GB/T 15769-1995",
     "docTitle": "电影技术术语",
@@ -1245,7 +1337,8 @@
     "href": "javascript:;",
     "implementationDate": "2017-11-24",
     "keywords": [
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
@@ -1361,7 +1454,9 @@
     }
   },
   {
-    "adoption": "iso26431-1-2008",
+    "adoption": [
+      "iso26431-1-2008"
+    ],
     "authors": [
       "李涵初",
       "翁山宝",
@@ -1389,7 +1484,9 @@
     }
   },
   {
-    "adoption": "iso2969-2015",
+    "adoption": [
+      "iso2969-2015"
+    ],
     "authors": [
       "董强国",
       "朱觉",
@@ -1419,7 +1516,8 @@
     "implementationDate": "2017-11-24",
     "keywords": [
       "声音",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家新闻出版广电总局电影技术质量检测所",
     "participationUnits": [
@@ -1474,7 +1572,8 @@
     "href": "javascript:;",
     "implementationDate": "2011-08-03",
     "keywords": [
-      "影院信息化"
+      "影院信息化",
+      "检测能力"
     ],
     "participationUnits": [
       "中国电影科学技术研究所",
@@ -1641,7 +1740,9 @@
     }
   },
   {
-    "adoption": "iso26429-6-2008",
+    "adoption": [
+      "iso26429-6-2008"
+    ],
     "authors": [
       "刘戈三",
       "张鑫",
@@ -1695,7 +1796,9 @@
     }
   },
   {
-    "adoption": "iso26429-7-2008",
+    "adoption": [
+      "iso26429-7-2008"
+    ],
     "authors": [
       "刘戈三",
       "王萃",
@@ -1746,7 +1849,9 @@
     }
   },
   {
-    "adoption": "iso26429-8-2008",
+    "adoption": [
+      "iso26429-8-2008"
+    ],
     "authors": [
       "王萃",
       "方捷新",
@@ -1792,7 +1897,9 @@
     }
   },
   {
-    "adoption": "iso26429-9-2008",
+    "adoption": [
+      "iso26429-9-2008"
+    ],
     "authors": [
       "刘茂英",
       "王木旺",
@@ -1840,7 +1947,9 @@
     }
   },
   {
-    "adoption": "iso26429-10-2008",
+    "adoption": [
+      "iso26429-10-2008"
+    ],
     "authors": [
       "刘茂英",
       "李铭",
@@ -1914,7 +2023,8 @@
     "implementationDate": "2021-01-01",
     "keywords": [
       "测量",
-      "巨幕"
+      "巨幕",
+      "检测能力"
     ],
     "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
@@ -1932,6 +2042,9 @@
         "dyt-1-2020"
       ]
     },
+    "relatedDocs": [
+      "gdj-040-2012"
+    ],
     "status": {
       "active": true
     }
@@ -1992,6 +2105,9 @@
     "group": "中国机械工业联合会",
     "href": "javascript:;",
     "implementationDate": "2016-07-01",
+    "keywords": [
+      "检测能力"
+    ],
     "publicationDate": "2015-12-10",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
@@ -2006,6 +2122,9 @@
     "group": "中国机械工业联合会",
     "href": "javascript:;",
     "implementationDate": "2012-01-01",
+    "keywords": [
+      "检测能力"
+    ],
     "publicationDate": "2011-10-31",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
@@ -2422,6 +2541,10 @@
     "docType": "国家标准",
     "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
     "implementationDate": "2012-02-01",
+    "keywords": [
+      "声音",
+      "检测能力"
+    ],
     "publicationDate": "2011-10-31",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
@@ -2447,7 +2570,6 @@
     "docTitle": "演播室数字音频信号接口",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
-    "href": "javascript:;",
     "implementationDate": "2000-12-01",
     "publicationDate": "2000-06-06",
     "publisher": "国家广播电影电视总局",
@@ -2761,7 +2883,8 @@
     "implementationDate": "2002-12-01",
     "keywords": [
       "立体",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -2948,7 +3071,8 @@
     "keywords": [
       "影院信息化",
       "票务",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -3148,7 +3272,8 @@
     "keywords": [
       "中档",
       "流动",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家广播电影电视总局电影技术质量检测所",
     "participationUnits": [
@@ -3225,7 +3350,8 @@
     "implementationDate": "2011-10-8",
     "keywords": [
       "流动",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家广播电影电视总局电影技术质量检测所",
     "participationUnits": [
@@ -3252,6 +3378,19 @@
     }
   },
   {
+    "docId": "iso-21118-2020",
+    "docLabel": "ISO/IEC 21118:2020",
+    "docTitle": "Information technology — Office equipment — Information to be included in specification sheets for data projector",
+    "docType": "国际标准",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "ISO/IEC",
+    "status": {
+      "active": true
+    }
+  },
+  {
     "authors": [
       "陈江",
       "刘健南",
@@ -3273,7 +3412,8 @@
     "implementationDate": "2011-10-8",
     "keywords": [
       "流动",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家广播电影电视总局电影技术质量检测所",
     "participationUnits": [
@@ -3462,7 +3602,8 @@
     "implementationDate": "2012-04-11",
     "keywords": [
       "中档",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "国家广播电影电视总局电影技术质量检测所",
     "participationUnits": [
@@ -3555,7 +3696,9 @@
     }
   },
   {
-    "adoption": "iso26428-1-2008",
+    "adoption": [
+      "iso26428-1-2008"
+    ],
     "authors": [
       "李虹珊",
       "刘茂英",
@@ -3603,7 +3746,9 @@
     }
   },
   {
-    "adoption": "iso26428-2-2008",
+    "adoption": [
+      "iso26428-2-2008"
+    ],
     "authors": [
       "陈飞",
       "吴凌",
@@ -3654,7 +3799,9 @@
     }
   },
   {
-    "adoption": "iso26429-3-2008",
+    "adoption": [
+      "iso26429-3-2008"
+    ],
     "authors": [
       "刘茂英",
       "张鑫",
@@ -3705,7 +3852,9 @@
     }
   },
   {
-    "adoption": "iso26429-4-2008",
+    "adoption": [
+      "iso26429-4-2008"
+    ],
     "authors": [
       "刘戈三",
       "李铭",
@@ -4299,7 +4448,8 @@
     "implementationDate": "2010-01-01",
     "keywords": [
       "流动",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -4495,7 +4645,11 @@
       ]
     },
     "status": {
-      "active": true
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "dyt-3-2020"
+      ]
     }
   },
   {
@@ -4519,6 +4673,20 @@
     "publisher": "国家发展和改革委员会",
     "status": {
       "withdrawn": true
+    }
+  },
+  {
+    "docId": "sjt-11346-2015",
+    "docLabel": "SJ/T 11346-2015",
+    "docTitle": "电子投影机测量方法",
+    "docType": "行业标准",
+    "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "工业和信息化部",
+    "status": {
+      "active": true
     }
   },
   {
@@ -4549,7 +4717,8 @@
     "keywords": [
       "发行",
       "影院信息化",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -4619,10 +4788,66 @@
     "docTitle": "卫星数字电视接收站测量方法——室内单元测量",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
-    "href": "javascript:;",
     "publisher": "国家广播电影电视总局",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "gyt-134-1998",
+    "docLabel": "GY/T 134-1998",
+    "docTitle": "数字电视图像质量主观评价方法",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gy-74-1989",
+    "docLabel": "GY 74-1989",
+    "docTitle": "广播声频通路运行技术指标测量方法",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gy-75-1989",
+    "docLabel": "GY 75-1989",
+    "docTitle": "广播声频通路运行技术指标等级",
+    "docType": "行业标准",
+    "group": "全国广播电影电视标准化技术委员会（SAC/TC239）",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "国家广播电影电视总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "ctp-121",
+    "docLabel": "CTP 1.2.1",
+    "docTitle": "DCI Compliance Test Plan (CTP)",
+    "docType": "技术文件",
+    "href": "https://www.dcimovies.com/compliance_test_plan/",
+    "keywords": [
+      "检测能力"
+    ],
+    "publisher": "DCI",
+    "status": {
+      "active": false,
+      "superseded": true
     }
   },
   {
@@ -4785,7 +5010,8 @@
     "href": "javascript:;",
     "implementationDate": "2007-12-01",
     "keywords": [
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -4957,7 +5183,8 @@
     "keywords": [
       "影院信息化",
       "发行",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中央宣传部电影技术质量检测所",
     "participationUnits": [
@@ -4990,7 +5217,8 @@
     "implementationDate": "2020-09-29",
     "keywords": [
       "制作",
-      "测量"
+      "测量",
+      "检测能力"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
@@ -5045,6 +5273,683 @@
     "publisher": "中国电影电视技术学会",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "gb-3556-83",
+    "docLabel": "GB 3556-83",
+    "docTitle": "摄影用标准灰板、色板的技术规范",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "implementationDate": "1984-01-01",
+    "keywords": [
+      "制作"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "中国科学院心理研究所",
+      "北京油漆厂涂料研究所",
+      "中央新闻记录电影制片厂"
+    ],
+    "publicationDate": "1983-04-02",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso71-1977"
+    ],
+    "authors": [
+      "杨明达"
+    ],
+    "docId": "gbt-4643-2002",
+    "docLabel": "GB/T 4643-2002",
+    "docTitle": "16mm电影负片光学声迹的位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "2003-05-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2002-12-04",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso71-1977"
+    ],
+    "authors": [
+      "何安甫"
+    ],
+    "docId": "gb-4643-84",
+    "docLabel": "GB 4643-84",
+    "docTitle": "16mm电影光学声带负片的录音位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1985-05-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1984-08-14",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-4643-2002"
+      ]
+    }
+  },
+  {
+    "adoption": [
+      "iso490-1978"
+    ],
+    "authors": [
+      "谢立明"
+    ],
+    "docId": "gb-4644-84",
+    "docLabel": "GB 4644-84",
+    "docTitle": "单边片孔单条16mm影片的磁性声带的录音与还音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1985-05-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1984-08-14",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso4243-1979"
+    ],
+    "authors": [
+      "杨明达"
+    ],
+    "docId": "gbt-5299-2002",
+    "docLabel": "GB/T 5299-2002",
+    "docTitle": "16mm电影发行影片上画面和光学声迹的位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "2003-05-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2002-12-04",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-5299-85",
+    "docLabel": "GB 5299-85",
+    "docTitle": "16mm电影发行影片上的画面面积和光学声带的位置及尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1985-04-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1985-08-25",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-5299-2002"
+      ]
+    }
+  },
+  {
+    "adoption": [
+      "iso6038-1993"
+    ],
+    "docId": "gbt-5300-94",
+    "docLabel": "GB/T 5300-94",
+    "docTitle": "70mm、65mm、35mm和16mm电影影片接头的尺寸和位置",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1995-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-5300-85",
+    "docLabel": "GB 5300-85",
+    "docTitle": "16mm和35mm电影影片粘接接片的位置及尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-5300-94"
+      ]
+    }
+  },
+  {
+    "docId": "gb-5302-85",
+    "docLabel": "GB 5302-85",
+    "docTitle": "电影院工艺设计 观众厅的银幕",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "工程建设",
+      "银幕"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-5303-85",
+    "docLabel": "GB 5303-85",
+    "docTitle": "电影院工艺设计 观众厅的座位和地面坡度",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "工程建设"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso360-1975"
+    ],
+    "docId": "gb-5876-86",
+    "docLabel": "GB 5876-86",
+    "docTitle": "35mm磁片上四声轨录音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1986-12-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "八一电影制片厂"
+    ],
+    "publicationDate": "1986-02-27",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-5877-86",
+    "docLabel": "GB 5877-86",
+    "docTitle": "35mm磁片上六声轨录音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "八一电影制片厂"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-5878-86",
+    "docLabel": "GB 5878-86",
+    "docTitle": "电影院工艺设计(放映机房部分)放映机房、放映机、放映孔及观察孔的位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "工程建设"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "authors": [
+      "于正中",
+      "左大理"
+    ],
+    "docId": "gb-5879-86",
+    "docLabel": "GB 5879-86",
+    "docTitle": "电影放映幕主要特性的测定方法",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1986-12-01",
+    "keywords": [
+      "银幕",
+      "测量"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1986-02-27",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso1039-1995"
+    ],
+    "authors": [
+      "贾玉来"
+    ],
+    "docId": "gbt-6848-2008",
+    "docLabel": "GB/T 6848-2008",
+    "docTitle": "电影 电影胶片和涂磁胶片卷的片芯 尺寸",
+    "docType": "国家标准",
+    "group": "全国感光材料标准化技术委员会（TC102）",
+    "href": "javascript:;",
+    "implementationDate": "2009-2-1",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "乐凯胶片集团公司",
+    "participationUnits": [
+      "乐凯胶片集团公司"
+    ],
+    "publicationDate": "2008-6-18",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "gb-7426-87",
+    "docLabel": "GB 7426-87",
+    "docTitle": "16mm磁片的录音特性",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-7427-87",
+    "docLabel": "GB 7427-87",
+    "docTitle": "16mm磁片上中心单声轨录音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-7428-94"
+      ]
+    }
+  },
+  {
+    "adoption": [
+      "iso4242-1980"
+    ],
+    "docId": "gbt-7428-94",
+    "docLabel": "GB/T 7428-94",
+    "docTitle": "16mm磁片上两声轨磁头隙缝的位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1995-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1994-12-28",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-7428-87",
+    "docLabel": "GB 7428-87",
+    "docTitle": "16mm磁片上一边单声轨录音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-7428-94"
+      ]
+    }
+  },
+  {
+    "docId": "gb-7429-87",
+    "docLabel": "GB 7429-87",
+    "docTitle": "16mm磁片上两声轨录音磁头的隙缝位置和宽度尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "gbt-7428-94"
+      ]
+    }
+  },
+  {
+    "adoption": [
+      "iso6328-1982"
+    ],
+    "authors": [
+      "牟秀芳",
+      "贾民霞"
+    ],
+    "docId": "gb-9045-88",
+    "docLabel": "GB 9045-88",
+    "docTitle": "感光材料分辨率的测定",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1988-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "化工部第一胶片厂"
+    ],
+    "publicationDate": "1988-04-13",
+    "publisher": "中华人民共和国广播电影电视部",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-9046-88",
+    "docLabel": "GB 9046-88",
+    "docTitle": "供交换用影片及其磁片(带)素材容器标签的最低限内容",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1988-07-31",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1988-01-20",
+    "publisher": "中华人民共和国广播电影电视部",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-9047-88",
+    "docLabel": "GB 9047-88",
+    "docTitle": "70mm电影发行拷贝上六轨磁性声迹的位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1988-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1988-01-21",
+    "publisher": "中华人民共和国广播电影电视部",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "authors": [
+      "吴淑芝"
+    ],
+    "docId": "gb-9048-88",
+    "docLabel": "GB 9048-88",
+    "docTitle": "65mm和70mm电影摄影机片窗所形成的影像和70mm电影拷贝最大可放映画面的位置和尺寸",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1988-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1988-04-13",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gb-9049-88",
+    "docLabel": "GB 9049-88",
+    "docTitle": "已加工电影安全胶片的贮存技术",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1988-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1988-01-21",
+    "publisher": "国家标准局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso2969-1987"
+    ],
+    "authors": [
+      "姚世荣",
+      "袁津"
+    ],
+    "docId": "gbt-14000-1992",
+    "docLabel": "GB/T 14000-1992",
+    "docTitle": "70mm电影涂磁发行拷贝上磁性声迹还音电-声频率响应特性",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "href": "javascript:;",
+    "implementationDate": "1993-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1992-12-17",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "docId": "gbt-14314-1993",
+    "docLabel": "GB/T 14314-1993",
+    "docTitle": "16mm影片作直接正面放映时在放映机中的用法",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "implementationDate": "1993-11-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1993-04-20",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": false,
+      "withdrawn": true
+    }
+  },
+  {
+    "adoption": [
+      "iso359-1983"
+    ],
+    "authors": [
+      "吴淑芝"
+    ],
+    "docId": "gbt-16893-1997",
+    "docLabel": "GB/T 16893-1997",
+    "docTitle": "16mm电影拷贝可放映画面的尺寸和位置",
+    "docType": "国家标准",
+    "group": "中国电影科学技术研究所",
+    "implementationDate": "1998-03-01",
+    "keywo[rds": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "1997-06-28",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": false,
+      "withdrawn": true
     }
   }
 ]
