@@ -1,6 +1,7 @@
 import jsonpath
 import json
-import os, fnmatch
+import sys, os, fnmatch
+from shutil import copyfile
 
 def find(pattern, path):
     result = []
@@ -16,11 +17,15 @@ with open("/Users/John/mediastandards-registry-china/src/main/data/documents.jso
 for key in range(len(data)):
     if jsonpath.jsonpath(data, "$["+str(key)+"].href"):
         file = data[key]['docTitle']
-        f = find('*'+file+'.pdf', '/Users/John/Library/Containers/com.kingsoft.wpsoffice.mac/Data/Library/Application Support/Kingsoft/WPS Cloud Files/userdata/qing/filecache/259626762/标准研究室/标准处文件共享/文献资料/标准电子版归档')
-        if len(f) > 0:
-            print(f[0])
-            data[key]['href']=f[0]
+        fn = find('*'+file+'*.pdf', '/Users/John/Library/Containers/com.kingsoft.wpsoffice.mac/Data/Library/Application Support/Kingsoft/WPS Cloud Files/userdata/qing/filecache/259626762/标准研究室/标准处文件共享/文献资料/标准电子版归档')
+        if len(fn) > 0:
+            srcfile = fn[0]
+            objfile = os.path.abspath('..')+'/filmstandards/'+data[key]['docLabel'].replace('/', '')+' '+data[key]['docTitle']+'.pdf'
+            copyfile(srcfile,objfile)
+            data[key]['href']='file://'+objfile.replace(" ","%20")
         # for key, value in data[key].items():
         #     print(key, value)
-    json.dump(data,f, ensure_ascii=False)
+
+with open("/Users/John/mediastandards-registry-china/src/main/data/documents.json", 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
 print(json.dumps(data, ensure_ascii=False))
