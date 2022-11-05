@@ -488,9 +488,9 @@ $(document).ready(function() {
         searchPanes: {
           options:[
             {
-              label: '有效',
+              label: '现行',
               value: function(rowData, rowIdx){
-                return rowData[8].includes('[ 有效 ]');
+                return rowData[8].includes('[ 现行 ]');
               }
             },
             {
