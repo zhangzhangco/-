@@ -255,13 +255,13 @@
                           {{#if assignedTC}}
                           {{#with (groupIdLookup ../../../../dataGroups assignedTC)}}
                           <br>
-                          <span class="font-weight-bold small">所属委员会： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属委员会： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../../dataGroups assignedGroup)}}
                           <br>
-                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../../htmlLink}}?search.search={{groupId}}">{{#if parentgroupId}}{{#with (groupIdLookup ../../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if workNotes}}
@@ -323,7 +323,7 @@
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../dataGroups assignedGroup)}}
                           <br>
-                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{groupOrg}} {{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if reviewDate}}
