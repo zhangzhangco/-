@@ -385,7 +385,7 @@
           <td class="adoption">
             {{#each adoption}}
               {{#if (getLabel this)}}
-                <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
+                <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{realId this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
                 {{else}}
                   {{this}}
               {{/if}}<br>

@@ -44,8 +44,8 @@
     "adoption": [
       "iso4238-1976"
     ],
-    "docId": "gbt-2927-94",
-    "docLabel": "GB/T 2927-94",
+    "docId": "gbt-2927-1994",
+    "docLabel": "GB/T 2927-1994",
     "docTitle": "电影影片画幅放大或缩小光学印片比率技术要求",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -101,7 +101,7 @@
   },
   {
     "adoption": [
-      "iso2906-84"
+      "iso2906-1984"
     ],
     "authors": [
       "孙延炜"
@@ -127,7 +127,7 @@
     }
   },
   {
-    "docId": "iso2906-84",
+    "docId": "iso2906-1984",
     "docLabel": "ISO 2906:84",
     "docTitle": "Cinematography — Image area produced by camera aperture on 35 mm motion-picture film — Position and dimensions",
     "docType": "国际标准",
@@ -140,7 +140,7 @@
   },
   {
     "adoption": [
-      "iso2907-84"
+      "iso2907-1984"
     ],
     "authors": [
       "孙延炜"
@@ -166,7 +166,7 @@
     }
   },
   {
-    "docId": "iso2907-84",
+    "docId": "iso2907-1984",
     "docLabel": "ISO 2907:84",
     "docTitle": "Cinematography — Maximum projectable image area on 35 mm motion-picture film — Position and dimensions",
     "docType": "国际标准",
@@ -179,7 +179,7 @@
   },
   {
     "adoption": [
-      "iso162-85"
+      "iso162-1985"
     ],
     "docId": "gbt-4637-1994",
     "docLabel": "GB/T 4637-1994",
@@ -202,7 +202,7 @@
     }
   },
   {
-    "docId": "iso162-85",
+    "docId": "iso162-1985",
     "docLabel": "ISO 162:1985",
     "docTitle": "Cinematography — Head gaps and sound records for three-, four-, or six-track magnetic sound records on 35 mm and single-track on 17,5 mm motion-picture film containing no picture — Positions and width dimensions",
     "docType": "国际标准",
@@ -380,8 +380,8 @@
     "authors": [
       "华锡梅"
     ],
-    "docId": "gb-4642-84",
-    "docLabel": "GB 4642-84",
+    "docId": "gbt-4642-1984",
+    "docLabel": "GB/T 4642-1984",
     "docTitle": "16mm电影摄影机片窗在胶片上所形成的影象位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -503,8 +503,8 @@
     "authors": [
       "王少明"
     ],
-    "docId": "gb-5298-85",
-    "docLabel": "GB 5298-85",
+    "docId": "gbt-5298-1985",
+    "docLabel": "GB/T 5298-1985",
     "docTitle": "35mm电影遮幅法影片画面的位置及尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -521,7 +521,7 @@
     "publisher": "国家标准局",
     "references": {
       "normative": [
-        "gb-2926-82"
+        "gbt-2926-1982"
       ]
     },
     "status": {
@@ -532,8 +532,8 @@
     "authors": [
       "王少明"
     ],
-    "docId": "gb-2926-82",
-    "docLabel": "GB 2926-82",
+    "docId": "gbt-2926-1982",
+    "docLabel": "GB/T 2926-1982",
     "docTitle": "35mm和16mm电影发行影片用片头和片尾的技术规格",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -607,8 +607,8 @@
     "authors": [
       "王少明"
     ],
-    "docId": "gb-5874-86",
-    "docLabel": "GB 5874-86",
+    "docId": "gbt-5874-1986",
+    "docLabel": "GB/T 5874-1986",
     "docTitle": "16mm W型电影摄影机片窗所形成的画面位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -645,8 +645,8 @@
       "iso1189-1986",
       "iso1188-1984"
     ],
-    "docId": "gbt-5875-94",
-    "docLabel": "GB/T 5875-94",
+    "docId": "gbt-5875-1994",
+    "docLabel": "GB/T 5875-1994",
     "docTitle": "35mm和16mm磁片的录音特性",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -663,7 +663,7 @@
     "publisher": "国家技术监督局",
     "status": {
       "active": true,
-      "statusNote": "同时采标的ISO 1189:1986和ISO 1188:1984，均现行现行。"
+      "statusNote": "同时采标的ISO 1189:1986和ISO 1188:1984，均现行。"
     }
   },
   {
@@ -778,8 +778,8 @@
       "iso7831-1986",
       "iso2969-1987"
     ],
-    "docId": "gbt-13157-91",
-    "docLabel": "GB/T 13157-91",
+    "docId": "gbt-13157-1991",
+    "docLabel": "GB/T 13157-1991",
     "docTitle": "35mm影片光学声迹的还音电声频率响应特性",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -793,7 +793,7 @@
     "publisher": "国家技术监督局",
     "status": {
       "active": true,
-      "statusNote": "同时采标的ISO 7831:1986现行现行;ISO 2969:1987被代替。"
+      "statusNote": "同时采标的ISO 7831:1986现行;ISO 2969:1987被代替。"
     }
   },
   {
@@ -815,8 +815,8 @@
     "authors": [
       "敬健"
     ],
-    "docId": "gbt-13999-92",
-    "docLabel": "GB/T 13999-92",
+    "docId": "gbt-13999-1992",
+    "docLabel": "GB/T 13999-1992",
     "docTitle": "35mm电影拷贝上光学双声迹的位置和宽度尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -1163,28 +1163,6 @@
     }
   },
   {
-    "docId": "SMPTE.ST428-1",
-    "docLabel": "SMPTE ST 428-1",
-    "docNumber": "428",
-    "docPart": "1",
-    "docTitle": "D-Cinema Distribution Master (DCDM) - Image Characteristics",
-    "docType": "国外标准",
-    "group": "smpte-21dc-tc",
-    "href": "https://doi.org/10.5594/SMPTE.ST428-1.2019",
-    "keywords": [
-      "DCinema",
-      "DCDM",
-      "DCP核心",
-      "发行",
-      "图像"
-    ],
-    "publisher": "SMPTE",
-    "repo": "https://github.com/SMPTE/st428-1",
-    "status": {
-      "active": true
-    }
-  },
-  {
     "docId": "SMPTE.ST428-1.2019",
     "docLabel": "SMPTE ST 428-1:2019",
     "docNumber": "428",
@@ -1207,8 +1185,8 @@
     }
   },
   {
-    "docId": "SMPTE.ST428-2",
-    "docLabel": "SMPTE ST 428-2",
+    "docId": "SMPTE.ST428-2.2006",
+    "docLabel": "SMPTE ST 428-2.2006",
     "docNumber": "428",
     "docPart": "2",
     "docTitle": "D-Cinema Distribution Master - Audio Characteristics",
@@ -1229,8 +1207,8 @@
     }
   },
   {
-    "docId": "SMPTE.ST429-3",
-    "docLabel": "SMPTE ST 429-3",
+    "docId": "SMPTE.ST429-3.2007",
+    "docLabel": "SMPTE ST 429-3:2007",
     "docNumber": "429",
     "docPart": "3",
     "docTitle": "D-Cinema Packaging - Sound and Picture Track File",
@@ -1249,30 +1227,6 @@
     ],
     "publisher": "SMPTE",
     "repo": "https://github.com/SMPTE/st429-3",
-    "status": {
-      "active": true
-    }
-  },
-  {
-    "docId": "SMPTE.ST429-4",
-    "docLabel": "SMPTE ST 429-4",
-    "docNumber": "429",
-    "docPart": "4",
-    "docTitle": "D-Cinema Packaging - MXF JPEG 2000 Application",
-    "docType": "国外标准",
-    "doi": "10.5594/SMPTE.ST429-4.2020",
-    "group": "smpte-27c-tc",
-    "href": "https://doi.org/10.5594/SMPTE.ST429-4.2020",
-    "keywords": [
-      "DCinema",
-      "打包",
-      "DCP核心",
-      "图像",
-      "MXF应用",
-      "JPEG2000"
-    ],
-    "publisher": "SMPTE",
-    "repo": "https://github.com/SMPTE/st429-4",
     "status": {
       "active": true
     }
@@ -2691,8 +2645,8 @@
     }
   },
   {
-    "docId": "gy-39-87",
-    "docLabel": "GY 39-87",
+    "docId": "gy-39-1987",
+    "docLabel": "GY 39-1987",
     "docTitle": "35mm和16mm电影发行拷贝的出厂技术质量要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2717,8 +2671,8 @@
     }
   },
   {
-    "docId": "gy-40-87",
-    "docLabel": "GY 40-87",
+    "docId": "gy-40-1987",
+    "docLabel": "GY 40-1987",
     "docTitle": "8.75mm电影发行贝的出厂技术质量要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2739,8 +2693,8 @@
     }
   },
   {
-    "docId": "gy-41-87",
-    "docLabel": "GY 41-87",
+    "docId": "gy-41-1987",
+    "docLabel": "GY 41-1987",
     "docTitle": "35mm单机立体电影的摄影画幅位置和尺寸",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2760,8 +2714,8 @@
     }
   },
   {
-    "docId": "gy-42-87",
-    "docLabel": "GY 42-87",
+    "docId": "gy-42-1987",
+    "docLabel": "GY 42-1987",
     "docTitle": "35mm单机偏光立体电影放映效果技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2781,8 +2735,8 @@
     }
   },
   {
-    "docId": "gy-43-87",
-    "docLabel": "GY 43-87",
+    "docId": "gy-43-1987",
+    "docLabel": "GY 43-1987",
     "docTitle": "16mm单机立体电影贝的画幅位置位置和尺寸",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2802,8 +2756,8 @@
     }
   },
   {
-    "docId": "gy-44-87",
-    "docLabel": "GY 44-87",
+    "docId": "gy-44-1987",
+    "docLabel": "GY 44-1987",
     "docTitle": "16mm单机偏光立体电影放映效果技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2844,8 +2798,8 @@
     }
   },
   {
-    "docId": "gyt-112-93",
-    "docLabel": "GY/T 112-93",
+    "docId": "gyt-112-1993",
+    "docLabel": "GY/T 112-1993",
     "docTitle": "电影鉴定放映室声光技术条件",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
@@ -2861,10 +2815,10 @@
     "publisher": "中华人民共和国广播电影电视部",
     "references": {
       "normative": [
-        "gb-2925-82",
+        "gbt-2925-1982",
         "gbt-4645",
         "gbt-5880",
-        "gbt-13157-91",
+        "gbt-13157-1991",
         "gbt-13156"
       ]
     },
@@ -2873,8 +2827,8 @@
     }
   },
   {
-    "docId": "gbt-13156",
-    "docLabel": "GB/T 13156",
+    "docId": "gbt-13156-1991",
+    "docLabel": "GB/T 13156-1991",
     "docTitle": "电影院观众厅建筑声学的技术要求",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -2888,8 +2842,8 @@
     }
   },
   {
-    "docId": "gbt-5880",
-    "docLabel": "GB/T 5880",
+    "docId": "gbt-5880-1986",
+    "docLabel": "GB/T 5880-1986",
     "docTitle": "电影院和鉴定放映室放映幕干扰光的测量方法和技术要求",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -2903,19 +2857,8 @@
     }
   },
   {
-    "docId": "gbt-4645",
-    "docLabel": "GB/T 4645",
-    "docTitle": "室内影院和鉴定放映室的银幕亮度",
-    "docType": "国家标准",
-    "group": "国家电影局",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
-    "status": {
-      "active": true
-    }
-  },
-  {
-    "docId": "gb-2925-82",
-    "docLabel": "GB 2925-82",
+    "docId": "gbt-2925-1982",
+    "docLabel": "GB/T 2925-1982",
     "docTitle": "影片技术鉴定放映室的银幕亮度",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -2946,13 +2889,13 @@
     "publisher": "国家广播电影电视总局",
     "references": {
       "normative": [
-        "gbt-4959-95",
-        "gyt-112-93",
+        "gbt-4959-1995",
+        "gyt-112-1993",
         "gbt-15397-1994",
         "gbt-3557-1994",
-        "gbt-4645-94",
-        "zb-n40-004-88",
-        "zb-n40-005-88"
+        "gbt-4645-1994",
+        "zb-n40-004-1988",
+        "zb-n40-005-1988"
       ]
     },
     "status": {
@@ -2960,8 +2903,8 @@
     }
   },
   {
-    "docId": "zb-n40-004-88",
-    "docLabel": "ZB N40 004-88",
+    "docId": "zb-n40-004-1988",
+    "docLabel": "ZB N40 004-1988",
     "docTitle": "电影放映画面抖动等级",
     "docType": "专业标准",
     "group": "秦皇岛视听机械研究所",
@@ -2972,8 +2915,8 @@
     }
   },
   {
-    "docId": "gbt-4645-94",
-    "docLabel": "GB/T 4645-94",
+    "docId": "gbt-4645-1994",
+    "docLabel": "GB/T 4645-1994",
     "docTitle": "室内影院和鉴定放映室的银幕亮度",
     "docType": "国家标准",
     "group": "国家电影局",
@@ -2987,8 +2930,8 @@
     }
   },
   {
-    "docId": "gbt-4959-95",
-    "docLabel": "GB/T 4959-95",
+    "docId": "gbt-4959-1995",
+    "docLabel": "GB/T 4959-1995",
     "docTitle": "厅堂扩声特性测量方法",
     "docType": "国家标准",
     "group": "全国音频、视频及多媒体系统与设备标准化技术委员会（TC242）",
@@ -3423,7 +3366,7 @@
     "publisher": "国家广播电影电视总局",
     "references": {
       "normative": [
-        "gb-2099.1-2008",
+        "gbt-2099.1-2008",
         "sjt-11298-2003",
         "itu-r-bt.500-11",
         "hdcp"
@@ -3480,7 +3423,7 @@
     "publisher": "国家广播电影电视总局",
     "references": {
       "normative": [
-        "gb-2099.1-2008",
+        "gbt-2099.1-2008",
         "gbt-9001-1988",
         "gbt-9396-1996",
         "gbt-16649.3-2006",
@@ -3620,8 +3563,8 @@
     }
   },
   {
-    "docId": "gb-2099.1-2008",
-    "docLabel": "GB 2099.1-2008",
+    "docId": "gbt-2099.1-2008",
+    "docLabel": "GB/T 2099.1-2008",
     "docTitle": "家用和类似用途插头插座 第1部分：通用要求",
     "docType": "国家标准",
     "group": "全国电器附件标准化技术委员会（TC67）",
@@ -4548,16 +4491,16 @@
         "gbt-4638-1997",
         "gbt-4645-2006",
         "gbt-5297-2002",
-        "gb-5298-85",
+        "gbt-5298-1985",
         "gbt-13920-1992",
         "gbt-15397-1994",
         "gyt-189-2003",
         "jbt-10064.2-1999",
-        "zb-n40-005-88",
-        "zb-y-212-84"
+        "zb-n40-005-1988",
+        "zb-y-212-1984"
       ],
       "normative": [
-        "gyt-112-93"
+        "gyt-112-1993"
       ]
     },
     "status": {
@@ -4565,8 +4508,8 @@
     }
   },
   {
-    "docId": "zb-y-212-84",
-    "docLabel": "ZB Y 212-84",
+    "docId": "zb-y-212-1984",
+    "docLabel": "ZB Y 212-1984",
     "docTitle": "35mm电影放映画面检验片技术条件",
     "docType": "专业标准",
     "group": "秦皇岛视听机械研究所",
@@ -4577,8 +4520,8 @@
     }
   },
   {
-    "docId": "zb-n40-005-88",
-    "docLabel": "ZB N40 005-88",
+    "docId": "zb-n40-005-1988",
+    "docLabel": "ZB N40 005-1988",
     "docTitle": "电影放映画面清晰度等级",
     "docType": "专业标准",
     "group": "秦皇岛视听机械研究所",
@@ -4705,17 +4648,6 @@
       "supersededBy": [
         "dyt-3-2020"
       ]
-    }
-  },
-  {
-    "docId": "dci-dcss",
-    "docLabel": "DCSS",
-    "docTitle": "Digital Cinema System Specification",
-    "docType": "国外规范",
-    "href": "https://www.dcimovies.com/",
-    "publisher": "DCI",
-    "status": {
-      "active": true
     }
   },
   {
@@ -5076,8 +5008,8 @@
       "normative": [
         "gbt-10001",
         "gbt-17217-1998",
-        "gb-50325-2001",
-        "gb-50045-1995",
+        "gbt-50325-2001",
+        "gbt-50045-1995",
         "jgj-58-2007",
         "gyt-183-2002",
         "jbt-7469-2004"
@@ -5113,8 +5045,8 @@
     }
   },
   {
-    "docId": "gb-50325-2001",
-    "docLabel": "GB 50325-2001",
+    "docId": "gbt-50325-2001",
+    "docLabel": "GB/T 50325-2001",
     "docTitle": "民用建筑工程室内环境污染控制规范",
     "docType": "国家标准",
     "group": "中国人民共和国建设部",
@@ -5127,8 +5059,8 @@
     }
   },
   {
-    "docId": "gb-50045-1995",
-    "docLabel": "GB 50045-1995",
+    "docId": "gbt-50045-1995",
+    "docLabel": "GB/T 50045-1995",
     "docTitle": "高层民用建筑设计防火规范",
     "docType": "国家标准",
     "group": "中国人民共和国建设部",
@@ -5323,8 +5255,8 @@
     }
   },
   {
-    "docId": "gb-3556-83",
-    "docLabel": "GB 3556-83",
+    "docId": "gbt-3556-1983",
+    "docLabel": "GB/T 3556-1983",
     "docTitle": "摄影用标准灰板、色板的技术规范",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5381,8 +5313,8 @@
     "authors": [
       "何安甫"
     ],
-    "docId": "gb-4643-84",
-    "docLabel": "GB 4643-84",
+    "docId": "gbt-4643-1984",
+    "docLabel": "GB/T 4643-1984",
     "docTitle": "16mm电影光学声带负片的录音位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5412,8 +5344,8 @@
     "authors": [
       "谢立明"
     ],
-    "docId": "gb-4644-84",
-    "docLabel": "GB 4644-84",
+    "docId": "gbt-4644-1984",
+    "docLabel": "GB/T 4644-1984",
     "docTitle": "单边片孔单条16mm影片的磁性声带的录音与还音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5462,8 +5394,8 @@
     }
   },
   {
-    "docId": "gb-5299-85",
-    "docLabel": "GB 5299-85",
+    "docId": "gbt-5299-1985",
+    "docLabel": "GB/T 5299-1985",
     "docTitle": "16mm电影发行影片上的画面面积和光学声带的位置及尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5490,8 +5422,8 @@
     "adoption": [
       "iso6038-1993"
     ],
-    "docId": "gbt-5300-94",
-    "docLabel": "GB/T 5300-94",
+    "docId": "gbt-5300-1994",
+    "docLabel": "GB/T 5300-1994",
     "docTitle": "70mm、65mm、35mm和16mm电影影片接头的尺寸和位置",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5512,8 +5444,8 @@
     }
   },
   {
-    "docId": "gb-5300-85",
-    "docLabel": "GB 5300-85",
+    "docId": "gbt-5300-1985",
+    "docLabel": "GB/T 5300-1985",
     "docTitle": "16mm和35mm电影影片粘接接片的位置及尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5529,13 +5461,13 @@
       "active": false,
       "superseded": true,
       "supersededBy": [
-        "gbt-5300-94"
+        "gbt-5300-1994"
       ]
     }
   },
   {
-    "docId": "gb-5302-85",
-    "docLabel": "GB 5302-85",
+    "docId": "gbt-5302-1985",
+    "docLabel": "GB/T 5302-1985",
     "docTitle": "电影院工艺设计 观众厅的银幕",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5554,8 +5486,8 @@
     }
   },
   {
-    "docId": "gb-5303-85",
-    "docLabel": "GB 5303-85",
+    "docId": "gbt-5303-1985",
+    "docLabel": "GB/T 5303-1985",
     "docTitle": "电影院工艺设计 观众厅的座位和地面坡度",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5576,8 +5508,8 @@
     "adoption": [
       "iso360-1975"
     ],
-    "docId": "gb-5876-86",
-    "docLabel": "GB 5876-86",
+    "docId": "gbt-5876-1986",
+    "docLabel": "GB/T 5876-1986",
     "docTitle": "35mm磁片上四声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5599,8 +5531,8 @@
     }
   },
   {
-    "docId": "gb-5877-86",
-    "docLabel": "GB 5877-86",
+    "docId": "gbt-5877-1986",
+    "docLabel": "GB/T 5877-1986",
     "docTitle": "35mm磁片上六声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5619,8 +5551,8 @@
     }
   },
   {
-    "docId": "gb-5878-86",
-    "docLabel": "GB 5878-86",
+    "docId": "gbt-5878-1986",
+    "docLabel": "GB/T 5878-1986",
     "docTitle": "电影院工艺设计(放映机房部分)放映机房、放映机、放映孔及观察孔的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5642,8 +5574,8 @@
       "于正中",
       "左大理"
     ],
-    "docId": "gb-5879-86",
-    "docLabel": "GB 5879-86",
+    "docId": "gbt-5879-1986",
+    "docLabel": "GB/T 5879-1986",
     "docTitle": "电影放映幕主要特性的测定方法",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5692,8 +5624,8 @@
     }
   },
   {
-    "docId": "gb-7426-87",
-    "docLabel": "GB 7426-87",
+    "docId": "gbt-7426-1987",
+    "docLabel": "GB/T 7426-1987",
     "docTitle": "16mm磁片的录音特性",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5711,8 +5643,8 @@
     }
   },
   {
-    "docId": "gb-7427-87",
-    "docLabel": "GB 7427-87",
+    "docId": "gbt-7427-1987",
+    "docLabel": "GB/T 7427-1987",
     "docTitle": "16mm磁片上中心单声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5728,7 +5660,7 @@
       "active": false,
       "superseded": true,
       "supersededBy": [
-        "gbt-7428-94"
+        "gbt-7428-1994"
       ]
     }
   },
@@ -5736,8 +5668,8 @@
     "adoption": [
       "iso4242-1980"
     ],
-    "docId": "gbt-7428-94",
-    "docLabel": "GB/T 7428-94",
+    "docId": "gbt-7428-1994",
+    "docLabel": "GB/T 7428-1994",
     "docTitle": "16mm磁片上两声轨磁头隙缝的位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5758,8 +5690,8 @@
     }
   },
   {
-    "docId": "gb-7428-87",
-    "docLabel": "GB 7428-87",
+    "docId": "gbt-7428-1987",
+    "docLabel": "GB/T 7428-1987",
     "docTitle": "16mm磁片上一边单声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5775,13 +5707,13 @@
       "active": false,
       "superseded": true,
       "supersededBy": [
-        "gbt-7428-94"
+        "gbt-7428-1994"
       ]
     }
   },
   {
-    "docId": "gb-7429-87",
-    "docLabel": "GB 7429-87",
+    "docId": "gbt-7429-1987",
+    "docLabel": "GB/T 7429-1987",
     "docTitle": "16mm磁片上两声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5797,7 +5729,7 @@
       "active": false,
       "superseded": true,
       "supersededBy": [
-        "gbt-7428-94"
+        "gbt-7428-1994"
       ]
     }
   },
@@ -5809,8 +5741,8 @@
       "牟秀芳",
       "贾民霞"
     ],
-    "docId": "gb-9045-88",
-    "docLabel": "GB 9045-88",
+    "docId": "gbt-9045-1988",
+    "docLabel": "GB/T 9045-1988",
     "docTitle": "感光材料分辨率的测定",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5832,8 +5764,8 @@
     }
   },
   {
-    "docId": "gb-9046-88",
-    "docLabel": "GB 9046-88",
+    "docId": "gbt-9046-1988",
+    "docLabel": "GB/T 9046-1988",
     "docTitle": "供交换用影片及其磁片(带)素材容器标签的最低限内容",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5854,8 +5786,8 @@
     }
   },
   {
-    "docId": "gb-9047-88",
-    "docLabel": "GB 9047-88",
+    "docId": "gbt-9047-1988",
+    "docLabel": "GB/T 9047-1988",
     "docTitle": "70mm电影发行拷贝上六轨磁性声迹的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5879,8 +5811,8 @@
     "authors": [
       "吴淑芝"
     ],
-    "docId": "gb-9048-88",
-    "docLabel": "GB 9048-88",
+    "docId": "gbt-9048-1988",
+    "docLabel": "GB/T 9048-1988",
     "docTitle": "65mm和70mm电影摄影机片窗所形成的影像和70mm电影拷贝最大可放映画面的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
@@ -5901,8 +5833,8 @@
     }
   },
   {
-    "docId": "gb-9049-88",
-    "docLabel": "GB 9049-88",
+    "docId": "gbt-9049-1988",
+    "docLabel": "GB/T 9049-1988",
     "docTitle": "已加工电影安全胶片的贮存技术",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",

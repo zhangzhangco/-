@@ -290,15 +290,30 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
 
   const docStatuses = {}
   registryDocument.forEach(item => { docStatuses[item.docId] = item.currentStatus} );
+  const docids= Object.getOwnPropertyNames(docStatuses).sort();
+
+  function realId(keyWord) {
+    var arr = [];
+    for (var i = 0; i < docids.length; i++) {
+      if (docids[i].indexOf(keyWord) >= 0) {
+        arr.push(docids[i]);
+      }
+    }
+    return arr.pop();
+  }
+  hb.registerHelper("realId", function(docId) {
+    return realId(docId);
+  });
 
   hb.registerHelper("getStatus", function(docId) {
+    docId = realId(docId);
     return docStatuses[docId];
   });
 
   /* create Status Button and Label based on current document status */
 
   hb.registerHelper("getstatusButton", function(docId, btnSize) {
-    
+    docId = realId(docId);
     var status = docStatuses[docId]
 
     if (status.includes("现行")) { 
@@ -318,13 +333,15 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
   registryDocument.forEach(item => { docLabels[item.docId] = (item.docLabel)} );
 
   hb.registerHelper("getLabel", function(docId) {
-    return docLabels[docId];
+    docId = realId(docId);
+    return (docLabels[docId]);
   });
 
   const docTitles = {}
   registryDocument.forEach(item => { docTitles[item.docId] = (item.docTitle)} );
 
   hb.registerHelper("getTitle", function(docId) {
+    //docId = realId(docId);
     return docTitles[docId];
   });
 
