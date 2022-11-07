@@ -12,7 +12,7 @@
     "docTitle": "35mm和16mm电影发行拷贝片头和片尾的技术规格",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%202926-2000%2035mm和16mm电影发行拷贝片头和片尾的技术规格.pdf",
+    "href": "./pdf/GBT_2926-2000_35mm和16mm电影发行拷贝片头和片尾的技术规格.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "制作",
@@ -49,7 +49,7 @@
     "docTitle": "电影影片画幅放大或缩小光学印片比率技术要求",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%202927-1994%20电影影片画幅放大或缩小光学印片比率技术要求.pdf",
+    "href": "./pdf/GBT_2927-1994_电影影片画幅放大或缩小光学印片比率技术要求.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "胶片工艺"
@@ -83,7 +83,7 @@
     "docTitle": "电影院视听环境技术要求",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%203557-1994%20电影院视听环境技术要求.pdf",
+    "href": "./pdf/GBT_3557-1994_电影院视听环境技术要求.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "测量",
@@ -111,7 +111,7 @@
     "docTitle": "35mm电影摄影机片窗在胶片上形成的画面的位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204635-2000%2035mm电影摄影机片窗在胶片上形成的画面的位置和尺寸.pdf",
+    "href": "./pdf/GBT_4635-2000_35mm电影摄影机片窗在胶片上形成的画面的位置和尺寸.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "胶片工艺"
@@ -150,7 +150,7 @@
     "docTitle": "35mm影片上最大可放映画面的位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204636-2000%2035mm影片上最大可放映画面的位置和尺寸.pdf",
+    "href": "./pdf/GBT_4636-2000_35mm影片上最大可放映画面的位置和尺寸.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "胶片工艺"
@@ -186,7 +186,7 @@
     "docTitle": "35mm磁片上三声轨、四声轨和六声轨磁头隙缝的位置和宽度尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204637-1994%2035mm磁片上三声轨、四声轨和六声轨磁头隙缝的位置和宽度尺寸.pdf",
+    "href": "./pdf/GBT_4637-1994_35mm磁片上三声轨、四声轨和六声轨磁头隙缝的位置和宽度尺寸.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "胶片工艺"
@@ -226,7 +226,7 @@
     "docTitle": "35mm电影发行拷贝上画面和光学声迹的位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204638-1997%2035mm电影发行拷贝上画面和光学声迹的位置和尺寸.pdf",
+    "href": "./pdf/GBT_4638-1997_35mm电影发行拷贝上画面和光学声迹的位置和尺寸.pdf",
     "implementationDate": "1998-03-01",
     "keywords": [
       "胶片工艺"
@@ -265,7 +265,7 @@
     "docTitle": "35mm 单声道电影光学声底片上声迹的位置和最大宽度尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204639-2000%2035mm%20单声道电影光学声底片上声迹的位置和最大宽度尺寸.pdf",
+    "href": "./pdf/GBT_4639-2000_35mm_单声道电影光学声底片上声迹的位置和最大宽度尺寸.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "胶片工艺"
@@ -305,7 +305,7 @@
     "docTitle": "35mm电影胶片在摄影机上的用法",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204640-2000%2035mm电影胶片在摄影机上的用法.pdf",
+    "href": "./pdf/GBT_4640-2000_35mm电影胶片在摄影机上的用法.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "胶片工艺"
@@ -345,7 +345,7 @@
     "docTitle": "16mm电影胶片在摄影机上的用法",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204641-2000%2016mm电影胶片在摄影机上的用法.pdf",
+    "href": "./pdf/GBT_4641-2000_16mm电影胶片在摄影机上的用法.pdf",
     "implementationDate": "2001-03-01",
     "keywords": [
       "胶片工艺"
@@ -385,7 +385,7 @@
     "docTitle": "16mm电影摄影机片窗在胶片上所形成的影象位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204642-1984%2016mm电影摄影机片窗在胶片上所形成的影象位置和尺寸.pdf",
+    "href": "./pdf/GBT_4642-1984_16mm电影摄影机片窗在胶片上所形成的影象位置和尺寸.pdf",
     "implementationDate": "1985-05-01",
     "keywords": [
       "胶片工艺"
@@ -429,7 +429,7 @@
     "docTitle": "室内影院和鉴定放映室的银幕亮度",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%204645-2006%20室内影院和鉴定放映室的银幕亮度.pdf",
+    "href": "./pdf/GBT_4645-2006_室内影院和鉴定放映室的银幕亮度.pdf",
     "implementationDate": "2007-03-01",
     "keywords": [
       "测量",
@@ -472,7 +472,7 @@
     "docTitle": "35mm和16mm电影发行影片字幕最大可允许区域的位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%205297-2002%2035mm和16mm电影发行影片字幕最大可允许区域的位置和尺寸.pdf",
+    "href": "./pdf/GBT_5297-2002_35mm和16mm电影发行影片字幕最大可允许区域的位置和尺寸.pdf",
     "implementationDate": "2003-05-01",
     "keywords": [
       "胶片工艺"
@@ -508,7 +508,7 @@
     "docTitle": "35mm电影遮幅法影片画面的位置及尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%205298-1985%2035mm电影遮幅法影片画面的位置及尺寸.pdf",
+    "href": "./pdf/GBT_5298-1985_35mm电影遮幅法影片画面的位置及尺寸.pdf",
     "implementationDate": "1986-04-01",
     "keywords": [
       "胶片工艺"
@@ -562,7 +562,7 @@
     "docTitle": "供电视播放用影片安全画面范围的位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%205301-2002%20供电视播放用影片安全画面范围的位置和尺寸.pdf",
+    "href": "./pdf/GBT_5301-2002_供电视播放用影片安全画面范围的位置和尺寸.pdf",
     "implementationDate": "2003-05-01",
     "keywords": [
       "胶片工艺",
@@ -616,7 +616,7 @@
     "docTitle": "16mm W型电影摄影机片窗所形成的画面位置和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%205874-1986%2016mm%20W型电影摄影机片窗所形成的画面位置和尺寸.pdf",
+    "href": "./pdf/GBT_5874-1986_16mm_W型电影摄影机片窗所形成的画面位置和尺寸.pdf",
     "implementationDate": "1986-012-01",
     "keywords": [
       "胶片工艺"
@@ -654,7 +654,7 @@
     "docTitle": "35mm和16mm磁片的录音特性",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%205875-1994%2035mm和16mm磁片的录音特性.pdf",
+    "href": "./pdf/GBT_5875-1994_35mm和16mm磁片的录音特性.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "胶片工艺"
@@ -695,7 +695,7 @@
     "docTitle": "已加工的摄影材料中硫代硫酸盐及其他相关化学残留物的测定方法 碘-直链淀粉法、亚甲蓝法和硫化银密度法",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2012938-1991%20已加工的摄影材料中硫代硫酸盐及其他相关化学残留物的测定方法%20碘-直链淀粉法、亚甲蓝法和硫化银密度法.pdf",
+    "href": "./pdf/GBT_12938-1991_已加工的摄影材料中硫代硫酸盐及其他相关化学残留物的测定方法_碘-直链淀粉法、亚甲蓝法和硫化银密度法.pdf",
     "implementationDate": "1992-04-01",
     "keywords": [
       "胶片工艺",
@@ -735,7 +735,7 @@
     "docTitle": "电视用彩色电影拷贝和幻灯片的密度规范",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2013154-2006%20电视用彩色电影拷贝和幻灯片的密度规范.pdf",
+    "href": "./pdf/GBT_13154-2006_电视用彩色电影拷贝和幻灯片的密度规范.pdf",
     "implementationDate": "2007-03-01",
     "keywords": [
       "胶片工艺",
@@ -761,7 +761,7 @@
     "docTitle": "70mm电影涂磁发行拷贝上磁性声迹的录音频率响应特性",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%2013155-1991%2070mm电影涂磁发行拷贝上磁性声迹的录音频率响应特性.pdf",
+    "href": "./pdf/GBT_13155-1991_70mm电影涂磁发行拷贝上磁性声迹的录音频率响应特性.pdf",
     "implementationDate": "1992-6-1",
     "keywords": [
       "胶片工艺"
@@ -799,7 +799,7 @@
     "docTitle": "35mm影片光学声迹的还音电声频率响应特性",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2013157-1991%2035mm影片光学声迹的还音电声频率响应特性.pdf",
+    "href": "./pdf/GBT_13157-1991_35mm影片光学声迹的还音电声频率响应特性.pdf",
     "implementationDate": "1992-06-01",
     "keywords": [
       "胶片工艺"
@@ -839,7 +839,7 @@
     "docTitle": "35mm电影拷贝上光学双声迹的位置和宽度尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2013999-1992%2035mm电影拷贝上光学双声迹的位置和宽度尺寸.pdf",
+    "href": "./pdf/GBT_13999-1992_35mm电影拷贝上光学双声迹的位置和宽度尺寸.pdf",
     "implementationDate": "1993-08-01",
     "keywords": [
       "胶片工艺"
@@ -875,7 +875,7 @@
     "docTitle": "电影录音控制室、鉴定放映室及室内影院A环、B环电声频率响应特性测量方法",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2015397-1994%20电影录音控制室、鉴定放映室及室内影院A环、B环电声频率响应特性测量方法.pdf",
+    "href": "./pdf/GBT_15397-1994_电影录音控制室、鉴定放映室及室内影院A环、B环电声频率响应特性测量方法.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "声音"
@@ -930,7 +930,7 @@
     "docTitle": "电影 评价电视用电影和幻灯的观看条件 彩色、亮度和尺寸",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2019770-2005%20电影%20评价电视用电影和幻灯的观看条件%20彩色、亮度和尺寸.pdf",
+    "href": "./pdf/GBT_19770-2005_电影_评价电视用电影和幻灯的观看条件_彩色、亮度和尺寸.pdf",
     "implementationDate": "2005-012-01",
     "keywords": [
       "胶片工艺",
@@ -971,7 +971,7 @@
     "docTitle": "电影 后期制作素材的交换",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2020231-2006%20电影%20后期制作素材的交换.pdf",
+    "href": "./pdf/GBT_20231-2006_电影_后期制作素材的交换.pdf",
     "implementationDate": "2006-010-01",
     "keywords": [
       "胶片工艺"
@@ -1004,7 +1004,7 @@
     "docTitle": "点播影院暂行技术规范",
     "docType": "技术文件",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYJ%20X—2019%20点播影院暂行技术规范.pdf",
+    "href": "./pdf/DYJ_X—2019_点播影院暂行技术规范.pdf",
     "implementationDate": "2019-05-31",
     "keywords": [
       "点播",
@@ -1044,7 +1044,7 @@
     "docTitle": "数字影院立体放映技术要求和测量方法",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%201—2020%20数字影院立体放映技术要求和测量方法.pdf",
+    "href": "./pdf/DYT_1—2020_数字影院立体放映技术要求和测量方法.pdf",
     "implementationDate": "2020-09-01",
     "keywords": [
       "立体",
@@ -1086,7 +1086,7 @@
     "docTitle": "数字影院暂行技术要求",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20017—2007%20数字影院暂行技术要求.pdf",
+    "href": "./pdf/GDJ_017—2007_数字影院暂行技术要求.pdf",
     "implementationDate": "2007-8-13",
     "keywords": [
       "检测能力"
@@ -1125,7 +1125,7 @@
     "docTitle": "电影技术术语",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2015769-1995%20电影技术术语.pdf",
+    "href": "./pdf/GBT_15769-1995_电影技术术语.pdf",
     "implementationDate": "1996-08-01",
     "keywords": [
       "胶片工艺"
@@ -1372,7 +1372,7 @@
     "docTitle": "电影院视听环境技术要求和测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20311—2017%20电影院视听环境技术要求和测量方法.pdf",
+    "href": "./pdf/GYT_311—2017_电影院视听环境技术要求和测量方法.pdf",
     "implementationDate": "2017-11-24",
     "keywords": [
       "测量",
@@ -1506,7 +1506,7 @@
     "docTitle": "数字影院质量 银幕亮度、色度和均匀度",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2036617-2018%20数字影院质量%20银幕亮度、色度和均匀度.pdf",
+    "href": "./pdf/GBT_36617-2018_数字影院质量_银幕亮度、色度和均匀度.pdf",
     "implementationDate": "2019-04-01",
     "keywords": [
       "胶片工艺",
@@ -1554,7 +1554,7 @@
     "docTitle": "电影 录音控制室、室内影厅B环电声响应规范和测量",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20312—2017%20电影%20录音控制室、室内影厅B环电声响应规范和测量.pdf",
+    "href": "./pdf/GYT_312—2017_电影_录音控制室、室内影厅B环电声响应规范和测量.pdf",
     "implementationDate": "2017-11-24",
     "keywords": [
       "声音",
@@ -1611,7 +1611,7 @@
     "docTitle": "影院管理系统基本功能和接口规范",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20247-2011%20影院管理系统基本功能和接口规范.pdf",
+    "href": "./pdf/GYT_247-2011_影院管理系统基本功能和接口规范.pdf",
     "implementationDate": "2011-08-03",
     "keywords": [
       "影院信息化",
@@ -1798,7 +1798,7 @@
     "docTitle": "数字电影打包 第3部分：MXF轨迹文件基本数据加密",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%202.3-2020%20数字电影打包%20第3部分：MXF轨迹文件基本数据加密.pdf",
+    "href": "./pdf/DYT_2.3-2020_数字电影打包_第3部分：MXF轨迹文件基本数据加密.pdf",
     "implementationDate": "2020-09-30",
     "keywords": [
       "打包",
@@ -1854,7 +1854,7 @@
     "docTitle": "数字电影打包 第4部分：合成播放列表",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%202.4-2020%20数字电影打包%20第4部分：合成播放列表.pdf",
+    "href": "./pdf/DYT_2.4-2020_数字电影打包_第4部分：合成播放列表.pdf",
     "implementationDate": "2020-09-30",
     "keywords": [
       "打包"
@@ -1905,7 +1905,7 @@
     "docTitle": "数字电影打包 第5部分：打包列表",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%202.5-2020%20数字电影打包%20第5部分：打包列表.pdf",
+    "href": "./pdf/DYT_2.5-2020_数字电影打包_第5部分：打包列表.pdf",
     "implementationDate": "2020-09-30",
     "keywords": [
       "打包"
@@ -1953,7 +1953,7 @@
     "docTitle": "数字电影打包 第6部分：资产映射和文件分割",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%202.6-2020%20数字电影打包%20第6部分：资产映射和文件分割.pdf",
+    "href": "./pdf/DYT_2.6-2020_数字电影打包_第6部分：资产映射和文件分割.pdf",
     "implementationDate": "2020-09-30",
     "keywords": [
       "打包"
@@ -2004,7 +2004,7 @@
     "docTitle": "数字电影打包 第7部分：立体图像轨迹文件",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%202.7-2020%20数字电影打包%20第7部分：立体图像轨迹文件.pdf",
+    "href": "./pdf/DYT_2.7-2020_数字电影打包_第7部分：立体图像轨迹文件.pdf",
     "implementationDate": "2020-09-30",
     "keywords": [
       "打包"
@@ -2061,7 +2061,7 @@
     "docTitle": "数字电影巨幕影厅技术要求和测量方法",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%203-2020%20数字电影巨幕影厅技术要求和测量方法.pdf",
+    "href": "./pdf/DYT_3-2020_数字电影巨幕影厅技术要求和测量方法.pdf",
     "implementationDate": "2021-01-01",
     "keywords": [
       "测量",
@@ -2108,7 +2108,7 @@
     "docTitle": "巨型金属银幕技术要求和测量方法",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%204-2020%20巨型金属银幕技术要求和测量方法.pdf",
+    "href": "./pdf/DYT_4-2020_巨型金属银幕技术要求和测量方法.pdf",
     "implementationDate": "2021-01-01",
     "keywords": [
       "测量",
@@ -2145,7 +2145,7 @@
     "docTitle": "放映银幕特性参数和测定方法",
     "docType": "国家标准",
     "group": "中国机械工业联合会",
-    "href": "file:///Users/John/filmstandards/GBT%2032200—2015%20放映银幕特性参数和测定方法.pdf",
+    "href": "./pdf/GBT_32200—2015_放映银幕特性参数和测定方法.pdf",
     "implementationDate": "2016-07-01",
     "keywords": [
       "检测能力"
@@ -2162,7 +2162,7 @@
     "docTitle": "反射和透射放映银幕",
     "docType": "国家标准",
     "group": "中国机械工业联合会",
-    "href": "file:///Users/John/filmstandards/GBT%2013982—2011%20反射和透射放映银幕.pdf",
+    "href": "./pdf/GBT_13982—2011_反射和透射放映银幕.pdf",
     "implementationDate": "2012-01-01",
     "keywords": [
       "检测能力"
@@ -2219,7 +2219,7 @@
     "docTitle": "数字电影存档母版技术规范",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%205-2021%20数字电影存档母版技术规范.pdf",
+    "href": "./pdf/DYT_5-2021_数字电影存档母版技术规范.pdf",
     "implementationDate": "2021-08-01",
     "keywords": [
       "存档",
@@ -2547,7 +2547,7 @@
     "docTitle": "数字电影放映用还音设备技术要求和测量方法",
     "docType": "行业标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/DYT%206-2021%20数字电影放映用还音设备技术要求和测量方法.pdf",
+    "href": "./pdf/DYT_6-2021_数字电影放映用还音设备技术要求和测量方法.pdf",
     "implementationDate": "2021-08-01",
     "keywords": [
       "声音",
@@ -2632,7 +2632,7 @@
     "docTitle": "电影发行拷贝技术质量规范",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%2039-2007%20电影发行拷贝技术质量规范.pdf",
+    "href": "./pdf/GYT_39-2007_电影发行拷贝技术质量规范.pdf",
     "implementationDate": "2007-09-01",
     "keywords": [
       "发行"
@@ -2686,7 +2686,7 @@
     "docTitle": "35mm和16mm电影发行拷贝的出厂技术质量要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2039-1987%2035mm和16mm电影发行拷贝的出厂技术质量要求.pdf",
+    "href": "./pdf/GY_39-1987_35mm和16mm电影发行拷贝的出厂技术质量要求.pdf",
     "implementationDate": "1987-12-31",
     "keywords": [
       "发行",
@@ -2713,7 +2713,7 @@
     "docTitle": "8.75mm电影发行贝的出厂技术质量要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2040-1987%208.75mm电影发行贝的出厂技术质量要求.pdf",
+    "href": "./pdf/GY_40-1987_8.75mm电影发行贝的出厂技术质量要求.pdf",
     "implementationDate": "1988-01-01",
     "keywords": [
       "发行",
@@ -2736,7 +2736,7 @@
     "docTitle": "35mm单机立体电影的摄影画幅位置和尺寸",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2041-1987%2035mm单机立体电影的摄影画幅位置和尺寸.pdf",
+    "href": "./pdf/GY_41-1987_35mm单机立体电影的摄影画幅位置和尺寸.pdf",
     "implementationDate": "1988-01-01",
     "keywords": [
       "立体",
@@ -2758,7 +2758,7 @@
     "docTitle": "35mm单机偏光立体电影放映效果技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2042-1987%2035mm单机偏光立体电影放映效果技术要求.pdf",
+    "href": "./pdf/GY_42-1987_35mm单机偏光立体电影放映效果技术要求.pdf",
     "implementationDate": "1988-01-01",
     "keywords": [
       "立体",
@@ -2780,7 +2780,7 @@
     "docTitle": "16mm单机立体电影贝的画幅位置位置和尺寸",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2043-1987%2016mm单机立体电影贝的画幅位置位置和尺寸.pdf",
+    "href": "./pdf/GY_43-1987_16mm单机立体电影贝的画幅位置位置和尺寸.pdf",
     "implementationDate": "1988-01-01",
     "keywords": [
       "立体",
@@ -2802,7 +2802,7 @@
     "docTitle": "16mm单机偏光立体电影放映效果技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GY%2044-1987%2016mm单机偏光立体电影放映效果技术要求.pdf",
+    "href": "./pdf/GY_44-1987_16mm单机偏光立体电影放映效果技术要求.pdf",
     "implementationDate": "1988-01-01",
     "keywords": [
       "立体",
@@ -2824,7 +2824,7 @@
     "docTitle": "35mm环幕电影摄影机片窗所形成的影像和发行拷贝可放映画面的位置及尺寸",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20101-91%2035mm环幕电影摄影机片窗所形成的影像和发行拷贝可放映画面的位置及尺寸.pdf",
+    "href": "./pdf/GYT_101-91_35mm环幕电影摄影机片窗所形成的影像和发行拷贝可放映画面的位置及尺寸.pdf",
     "implementationDate": "1992-01-01",
     "keywords": [
       "环幕",
@@ -2882,7 +2882,7 @@
     "docTitle": "电影鉴定放映室声光技术条件",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20112-1993%20电影鉴定放映室声光技术条件.pdf",
+    "href": "./pdf/GYT_112-1993_电影鉴定放映室声光技术条件.pdf",
     "keywords": [
       "测量"
     ],
@@ -2953,7 +2953,7 @@
     "docTitle": "数字立体声电影院的技术标准",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20183-2002%20数字立体声电影院的技术标准.pdf",
+    "href": "./pdf/GYT_183-2002_数字立体声电影院的技术标准.pdf",
     "implementationDate": "2002-12-01",
     "keywords": [
       "立体",
@@ -3041,7 +3041,7 @@
     "docTitle": "电影院和鉴定放映室幕干扰光的测量方法和技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20189-2003%20电影院和鉴定放映室幕干扰光的测量方法和技术要求.pdf",
+    "href": "./pdf/GYT_189-2003_电影院和鉴定放映室幕干扰光的测量方法和技术要求.pdf",
     "keywords": [
       "测量"
     ],
@@ -3075,7 +3075,7 @@
     "docTitle": "已加工电影安全胶片的贮存技术",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20191-2003%20已加工电影安全胶片的贮存技术.pdf",
+    "href": "./pdf/GYT_191-2003_已加工电影安全胶片的贮存技术.pdf",
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
       "中国电影科学技术研究所"
@@ -3095,7 +3095,7 @@
     "docTitle": "电影院计算机票务管理系统软件技术规范",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20207-2005%20电影院计算机票务管理系统软件技术规范.pdf",
+    "href": "./pdf/GYT_207-2005_电影院计算机票务管理系统软件技术规范.pdf",
     "implementationDate": "2005-06-01",
     "keywords": [
       "影院信息化",
@@ -3144,7 +3144,7 @@
     "docTitle": "电影院票务管理系统技术要求和测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20276-2013%20电影院票务管理系统技术要求和测量方法.pdf",
+    "href": "./pdf/GYT_276-2013_电影院票务管理系统技术要求和测量方法.pdf",
     "implementationDate": "2013-12-31",
     "keywords": [
       "影院信息化",
@@ -3260,7 +3260,7 @@
     "docTitle": "35mm 电影后期制作用片头片尾的技术规范",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GYT%20215-2006%2035mm%20电影后期制作用片头片尾的技术规范.pdf",
+    "href": "./pdf/GYT_215-2006_35mm_电影后期制作用片头片尾的技术规范.pdf",
     "implementationDate": "2006-09-01",
     "keywords": [
       "制作",
@@ -3318,7 +3318,7 @@
     "docTitle": "35mm电影发行拷贝青染料无银模拟声声迹制作技术规范",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20242-2010%2035mm电影发行拷贝青染料无银模拟声声迹制作技术规范.pdf",
+    "href": "./pdf/GYT_242-2010_35mm电影发行拷贝青染料无银模拟声声迹制作技术规范.pdf",
     "implementationDate": "2010-07-07",
     "keywords": [
       "制作",
@@ -3347,7 +3347,7 @@
     "docTitle": "数字电影中档和流动放映系统用声频功率放大器技术要求和测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20248-2011%20数字电影中档和流动放映系统用声频功率放大器技术要求和测量方法.pdf",
+    "href": "./pdf/GYT_248-2011_数字电影中档和流动放映系统用声频功率放大器技术要求和测量方法.pdf",
     "implementationDate": "2011-09-01",
     "keywords": [
       "中档",
@@ -3426,7 +3426,7 @@
     "docTitle": "数字电影流放放映系统用投影机技术要求与测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20250-2011%20数字电影流放放映系统用投影机技术要求与测量方法.pdf",
+    "href": "./pdf/GYT_250-2011_数字电影流放放映系统用投影机技术要求与测量方法.pdf",
     "implementationDate": "2011-10-8",
     "keywords": [
       "流动",
@@ -3488,7 +3488,7 @@
     "docTitle": "数字电影流动放映系统技术要求和测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20251-2011%20数字电影流动放映系统技术要求和测量方法.pdf",
+    "href": "./pdf/GYT_251-2011_数字电影流动放映系统技术要求和测量方法.pdf",
     "implementationDate": "2011-10-8",
     "keywords": [
       "流动",
@@ -3598,7 +3598,7 @@
     "docTitle": "数字投影机通用规范",
     "docType": "行业标准",
     "group": "中国电子技术标准化研究所",
-    "href": "file:///Users/John/filmstandards/SJT%2011298-2003%20数字投影机通用规范.pdf",
+    "href": "./pdf/SJT_11298-2003_数字投影机通用规范.pdf",
     "publisher": "中华人民共和国信息产业部",
     "status": {
       "active": true
@@ -3677,7 +3677,7 @@
     "docTitle": "数字电影中档放映系统技术要求和测量方法",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20256-2012%20数字电影中档放映系统技术要求和测量方法.pdf",
+    "href": "./pdf/GYT_256-2012_数字电影中档放映系统技术要求和测量方法.pdf",
     "implementationDate": "2012-04-11",
     "keywords": [
       "中档",
@@ -3752,7 +3752,7 @@
     "docTitle": "电影送审数字母版字幕技术要求",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20288-2014%20电影送审数字母版字幕技术要求.pdf",
+    "href": "./pdf/GYT_288-2014_电影送审数字母版字幕技术要求.pdf",
     "implementationDate": "2015-01-20",
     "keywords": [
       "审查",
@@ -3789,7 +3789,7 @@
     "docTitle": "数字电影发行母版 第1部分：图像特性",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20292.1-2015%20数字电影发行母版%20第1部分：图像特性.pdf",
+    "href": "./pdf/GYT_292.1-2015_数字电影发行母版_第1部分：图像特性.pdf",
     "implementationDate": "2015-07-28",
     "keywords": [
       "母版"
@@ -3840,7 +3840,7 @@
     "docTitle": "数字电影发行母版 第2部分：音频特性",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20292.2-2015%20数字电影发行母版%20第2部分：音频特性.pdf",
+    "href": "./pdf/GYT_292.2-2015_数字电影发行母版_第2部分：音频特性.pdf",
     "implementationDate": "2015-07-28",
     "keywords": [
       "母版"
@@ -3891,7 +3891,7 @@
     "docTitle": "数字电影打包 第1部分：声音和图像轨迹文件",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20293.1-2015%20数字电影打包%20第1部分：声音和图像轨迹文件.pdf",
+    "href": "./pdf/GYT_293.1-2015_数字电影打包_第1部分：声音和图像轨迹文件.pdf",
     "implementationDate": "2015-07-28",
     "keywords": [
       "打包"
@@ -3948,7 +3948,7 @@
     "docTitle": "数字电影打包 第2部分：MXF JPEG2000应用",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20293.2-2015%20数字电影打包%20第2部分：MXF%20JPEG2000应用.pdf",
+    "href": "./pdf/GYT_293.2-2015_数字电影打包_第2部分：MXF_JPEG2000应用.pdf",
     "implementationDate": "2015-07-28",
     "keywords": [
       "打包",
@@ -4004,7 +4004,7 @@
     "docTitle": "电影数字节目版权保护技术体系框架",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20294-2015%20电影数字节目版权保护技术体系框架.pdf",
+    "href": "./pdf/GYT_294-2015_电影数字节目版权保护技术体系框架.pdf",
     "implementationDate": "2015-08-18",
     "keywords": [
       "安全"
@@ -4119,7 +4119,7 @@
     "docTitle": "数字电影数据包（DCP）标题命名与载体标识技术规范",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20309-2017%20数字电影数据包（DCP）标题命名与载体标识技术规范.pdf",
+    "href": "./pdf/GYT_309-2017_数字电影数据包（DCP）标题命名与载体标识技术规范.pdf",
     "implementationDate": "2017-11-24",
     "keywords": [
       "DCP应用"
@@ -4203,7 +4203,7 @@
     "docTitle": "数字电影放映模式设置技术规范",
     "docType": "行业标准",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GYT%20310-2017%20数字电影放映模式设置技术规范.pdf",
+    "href": "./pdf/GYT_310-2017_数字电影放映模式设置技术规范.pdf",
     "implementationDate": "2017-11-24",
     "keywords": [
       "放映"
@@ -4236,7 +4236,7 @@
     "docTitle": "电影工程建设标准管理办法",
     "docType": "规范性文件",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GY%205020-1995%20电影工程建设标准管理办法.pdf",
+    "href": "./pdf/GY_5020-1995_电影工程建设标准管理办法.pdf",
     "implementationDate": "1995-03-05",
     "keywords": [
       "工程建设"
@@ -4265,7 +4265,7 @@
     "docTitle": "电影工程设计图形符号和文字符号",
     "docType": "行业标准",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GYT%205059-1997%20电影工程设计图形符号和文字符号.pdf",
+    "href": "./pdf/GYT_5059-1997_电影工程设计图形符号和文字符号.pdf",
     "implementationDate": "1997-10-01",
     "keywords": [
       "工程建设"
@@ -4293,7 +4293,7 @@
     "docTitle": "广播电影电视建筑工程抗震设防分类标准",
     "docType": "行业标准",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GY%205060-2008%20广播电影电视建筑工程抗震设防分类标准.pdf",
+    "href": "./pdf/GY_5060-2008_广播电影电视建筑工程抗震设防分类标准.pdf",
     "implementationDate": "2009-03-01",
     "keywords": [
       "工程建设"
@@ -4323,7 +4323,7 @@
     "docTitle": "广播电影电视工程技术用房照明设计规范",
     "docType": "行业标准",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GYT%205061-2015%20广播电影电视工程技术用房照明设计规范.pdf",
+    "href": "./pdf/GYT_5061-2015_广播电影电视工程技术用房照明设计规范.pdf",
     "implementationDate": "2016-02-01",
     "keywords": [
       "工程建设"
@@ -4353,7 +4353,7 @@
     "docTitle": "电影摄影棚灯光系统设计规范",
     "docType": "行业标准",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GY%205066-2000%20电影摄影棚灯光系统设计规范.pdf",
+    "href": "./pdf/GY_5066-2000_电影摄影棚灯光系统设计规范.pdf",
     "implementationDate": "2000-12-01",
     "keywords": [
       "工程建设"
@@ -4389,7 +4389,7 @@
     "docTitle": "广播电影电视建筑设计防火标准",
     "docType": "行业标准",
     "group": "广电总局工程建设标准定额管理中心",
-    "href": "file:///Users/John/filmstandards/GY%205067-2017%20广播电影电视建筑设计防火标准.pdf",
+    "href": "./pdf/GY_5067-2017_广播电影电视建筑设计防火标准.pdf",
     "implementationDate": "2018-01-01",
     "keywords": [
       "工程建设"
@@ -4523,7 +4523,7 @@
     "docTitle": "数字电影流动放映监管信息GPS、GPRS接口技术要求和测试方法（暂行）",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20029-2010%20数字电影流动放映监管信息GPS、GPRS接口技术要求和测试方法（暂行）.pdf",
+    "href": "./pdf/GDJ_029-2010_数字电影流动放映监管信息GPS、GPRS接口技术要求和测试方法（暂行）.pdf",
     "implementationDate": "2010-01-01",
     "keywords": [
       "流动",
@@ -4554,7 +4554,7 @@
     "docTitle": "电影送审标准拷贝声画技术质量主观评价方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20032-2010%20电影送审标准拷贝声画技术质量主观评价方法.pdf",
+    "href": "./pdf/GDJ_032-2010_电影送审标准拷贝声画技术质量主观评价方法.pdf",
     "implementationDate": "2010-10-14",
     "keywords": [
       "审查"
@@ -4637,7 +4637,7 @@
     "docTitle": "35mm电影 主观检验片（彩色测试图）",
     "docType": "国家标准",
     "group": "中国机械工业联合会",
-    "href": "file:///Users/John/filmstandards/GBT%2013920-1992%2035mm电影%20主观检验片（彩色测试图）.pdf",
+    "href": "./pdf/GBT_13920-1992_35mm电影_主观检验片（彩色测试图）.pdf",
     "implementationDate": "2016-07-1",
     "keywords": [
       "胶片工艺"
@@ -4665,7 +4665,7 @@
     "docTitle": "电影送审数字母版声画技术质量主观评价方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20033-2010%20电影送审数字母版声画技术质量主观评价方法.pdf",
+    "href": "./pdf/GDJ_033-2010_电影送审数字母版声画技术质量主观评价方法.pdf",
     "implementationDate": "2010-10-14",
     "keywords": [
       "审查",
@@ -4707,7 +4707,7 @@
     "docTitle": "数字电影巨幕影院技术规范和测量方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20040-2012%20数字电影巨幕影院技术规范和测量方法.pdf",
+    "href": "./pdf/GDJ_040-2012_数字电影巨幕影院技术规范和测量方法.pdf",
     "implementationDate": "2012-07-26",
     "keywords": [
       "巨幕",
@@ -4746,7 +4746,7 @@
     "docTitle": "放映银幕特性参数和测定方法",
     "docType": "行业标准",
     "group": "秦皇岛视听机械研究所",
-    "href": "file:///Users/John/filmstandards/JBT%207809-2005%20放映银幕特性参数和测定方法.pdf",
+    "href": "./pdf/JBT_7809-2005_放映银幕特性参数和测定方法.pdf",
     "publisher": "国家发展和改革委员会",
     "status": {
       "withdrawn": true
@@ -4789,7 +4789,7 @@
     "docTitle": "电影数字拷贝卫星分发系统技术要求和测量方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20045-2013%20电影数字拷贝卫星分发系统技术要求和测量方法.pdf",
+    "href": "./pdf/GDJ_045-2013_电影数字拷贝卫星分发系统技术要求和测量方法.pdf",
     "implementationDate": "2013-09-02",
     "keywords": [
       "发行",
@@ -4977,7 +4977,7 @@
     "docTitle": "数字影院立体放映技术要求和测量方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20047-2013%20数字影院立体放映技术要求和测量方法.pdf",
+    "href": "./pdf/GDJ_047-2013_数字影院立体放映技术要求和测量方法.pdf",
     "implementationDate": "2013-12-18",
     "keywords": [
       "立体",
@@ -5021,7 +5021,7 @@
     "docTitle": "立体送审声画技术质量主观评价方法",
     "docType": "行业暂行技术要求",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "file:///Users/John/filmstandards/GDJ%20048-2013%20立体送审声画技术质量主观评价方法.pdf",
+    "href": "./pdf/GDJ_048-2013_立体送审声画技术质量主观评价方法.pdf",
     "implementationDate": "2013-12-18",
     "keywords": [
       "立体",
@@ -5082,7 +5082,7 @@
     "docTitle": "电影院星级的划分与评定",
     "docType": "国家标准",
     "group": "国家电影局",
-    "href": "file:///Users/John/filmstandards/GBT%2021048-2007%20电影院星级的划分与评定.pdf",
+    "href": "./pdf/GBT_21048-2007_电影院星级的划分与评定.pdf",
     "implementationDate": "2007-12-01",
     "keywords": [
       "测量",
@@ -5168,7 +5168,7 @@
     "docTitle": "电影院建筑设计规范",
     "docType": "行业标准",
     "group": "中国人民共和国建设部",
-    "href": "file:///Users/John/filmstandards/JGJ%2058-2007%20电影院建筑设计规范.pdf",
+    "href": "./pdf/JGJ_58-2007_电影院建筑设计规范.pdf",
     "publisher": "中国人民共和国建设部",
     "status": {
       "active": false,
@@ -5247,7 +5247,7 @@
     "docTitle": "电影数字拷贝卫星接收机技术要求和测量方法",
     "docType": "团体标准",
     "group": "中国电影电视技术学会",
-    "href": "file:///Users/John/filmstandards/TCSMPTE%208—2020%20电影数字拷贝卫星接收机技术要求和测量方法.pdf",
+    "href": "./pdf/TCSMPTE_8—2020_电影数字拷贝卫星接收机技术要求和测量方法.pdf",
     "implementationDate": "2020-09-29",
     "keywords": [
       "影院信息化",
@@ -5282,7 +5282,7 @@
     "docTitle": "电影鉴定放映室和录音棚技术要求和测量方法",
     "docType": "团体标准",
     "group": "中国电影电视技术学会",
-    "href": "file:///Users/John/filmstandards/TCSMPTE%209—2020%20电影鉴定放映室和录音棚技术要求和测量方法.pdf",
+    "href": "./pdf/TCSMPTE_9—2020_电影鉴定放映室和录音棚技术要求和测量方法.pdf",
     "implementationDate": "2020-09-29",
     "keywords": [
       "制作",
@@ -5324,7 +5324,7 @@
     "docTitle": "无障碍影视节目制作技术规范",
     "docType": "团体标准",
     "group": "中国电影电视技术学会",
-    "href": "file:///Users/John/filmstandards/TCSMPTE%2013—2021%20无障碍影视节目制作技术规范.pdf",
+    "href": "./pdf/TCSMPTE_13—2021_无障碍影视节目制作技术规范.pdf",
     "implementationDate": "2021-11-30",
     "keywords": [
       "制作",
@@ -5380,7 +5380,7 @@
     "docTitle": "16mm电影负片光学声迹的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%204643-2002%2016mm电影负片光学声迹的位置和尺寸.pdf",
+    "href": "./pdf/GBT_4643-2002_16mm电影负片光学声迹的位置和尺寸.pdf",
     "implementationDate": "2003-05-01",
     "keywords": [
       "胶片工艺"
@@ -5408,7 +5408,7 @@
     "docTitle": "16mm电影光学声带负片的录音位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%204643-1984%2016mm电影光学声带负片的录音位置和尺寸.pdf",
+    "href": "./pdf/GBT_4643-1984_16mm电影光学声带负片的录音位置和尺寸.pdf",
     "implementationDate": "1985-05-01",
     "keywords": [
       "胶片工艺"
@@ -5439,7 +5439,7 @@
     "docTitle": "单边片孔单条16mm影片的磁性声带的录音与还音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%204644-1984%20单边片孔单条16mm影片的磁性声带的录音与还音磁头的隙缝位置和宽度尺寸.pdf",
+    "href": "./pdf/GBT_4644-1984_单边片孔单条16mm影片的磁性声带的录音与还音磁头的隙缝位置和宽度尺寸.pdf",
     "implementationDate": "1985-05-01",
     "keywords": [
       "胶片工艺"
@@ -5467,7 +5467,7 @@
     "docTitle": "16mm电影发行影片上画面和光学声迹的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%205299-2002%2016mm电影发行影片上画面和光学声迹的位置和尺寸.pdf",
+    "href": "./pdf/GBT_5299-2002_16mm电影发行影片上画面和光学声迹的位置和尺寸.pdf",
     "implementationDate": "2003-05-01",
     "keywords": [
       "胶片工艺"
@@ -5489,7 +5489,7 @@
     "docTitle": "16mm电影发行影片上的画面面积和光学声带的位置及尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%205299-1985%2016mm电影发行影片上的画面面积和光学声带的位置及尺寸.pdf",
+    "href": "./pdf/GBT_5299-1985_16mm电影发行影片上的画面面积和光学声带的位置及尺寸.pdf",
     "implementationDate": "1985-04-01",
     "keywords": [
       "胶片工艺"
@@ -5517,7 +5517,7 @@
     "docTitle": "70mm、65mm、35mm和16mm电影影片接头的尺寸和位置",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%205300-1994%2070mm、65mm、35mm和16mm电影影片接头的尺寸和位置.pdf",
+    "href": "./pdf/GBT_5300-1994_70mm、65mm、35mm和16mm电影影片接头的尺寸和位置.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "胶片工艺"
@@ -5603,7 +5603,7 @@
     "docTitle": "35mm磁片上四声轨录音磁头的隙缝位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%205876-1986%2035mm磁片上四声轨录音磁头的隙缝位置和宽度尺寸.pdf",
+    "href": "./pdf/GBT_5876-1986_35mm磁片上四声轨录音磁头的隙缝位置和宽度尺寸.pdf",
     "implementationDate": "1986-12-01",
     "keywords": [
       "胶片工艺"
@@ -5669,7 +5669,7 @@
     "docTitle": "电影放映幕主要特性的测定方法",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%205879-1986%20电影放映幕主要特性的测定方法.pdf",
+    "href": "./pdf/GBT_5879-1986_电影放映幕主要特性的测定方法.pdf",
     "implementationDate": "1986-12-01",
     "keywords": [
       "银幕",
@@ -5698,7 +5698,7 @@
     "docTitle": "电影 电影胶片和涂磁胶片卷的片芯 尺寸",
     "docType": "国家标准",
     "group": "全国感光材料标准化技术委员会（TC102）",
-    "href": "file:///Users/John/filmstandards/GBT%206848-2008%20电影%20电影胶片和涂磁胶片卷的片芯%20尺寸.pdf",
+    "href": "./pdf/GBT_6848-2008_电影_电影胶片和涂磁胶片卷的片芯_尺寸.pdf",
     "implementationDate": "2009-2-1",
     "keywords": [
       "胶片工艺"
@@ -5763,7 +5763,7 @@
     "docTitle": "16mm磁片上两声轨磁头隙缝的位置和宽度尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%207428-1994%2016mm磁片上两声轨磁头隙缝的位置和宽度尺寸.pdf",
+    "href": "./pdf/GBT_7428-1994_16mm磁片上两声轨磁头隙缝的位置和宽度尺寸.pdf",
     "implementationDate": "1995-08-01",
     "keywords": [
       "胶片工艺"
@@ -5836,7 +5836,7 @@
     "docTitle": "感光材料分辨率的测定",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%209045-1988%20感光材料分辨率的测定.pdf",
+    "href": "./pdf/GBT_9045-1988_感光材料分辨率的测定.pdf",
     "implementationDate": "1988-08-01",
     "keywords": [
       "胶片工艺"
@@ -5859,7 +5859,7 @@
     "docTitle": "供交换用影片及其磁片(带)素材容器标签的最低限内容",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%209046-1988%20供交换用影片及其磁片(带)素材容器标签的最低限内容.pdf",
+    "href": "./pdf/GBT_9046-1988_供交换用影片及其磁片(带)素材容器标签的最低限内容.pdf",
     "implementationDate": "1988-07-31",
     "keywords": [
       "胶片工艺"
@@ -5881,7 +5881,7 @@
     "docTitle": "70mm电影发行拷贝上六轨磁性声迹的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%209047-1988%2070mm电影发行拷贝上六轨磁性声迹的位置和尺寸.pdf",
+    "href": "./pdf/GBT_9047-1988_70mm电影发行拷贝上六轨磁性声迹的位置和尺寸.pdf",
     "implementationDate": "1988-08-01",
     "keywords": [
       "胶片工艺"
@@ -5906,7 +5906,7 @@
     "docTitle": "65mm和70mm电影摄影机片窗所形成的影像和70mm电影拷贝最大可放映画面的位置和尺寸",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%209048-1988%2065mm和70mm电影摄影机片窗所形成的影像和70mm电影拷贝最大可放映画面的位置和尺寸.pdf",
+    "href": "./pdf/GBT_9048-1988_65mm和70mm电影摄影机片窗所形成的影像和70mm电影拷贝最大可放映画面的位置和尺寸.pdf",
     "implementationDate": "1988-08-01",
     "keywords": [
       "胶片工艺"
@@ -5928,7 +5928,7 @@
     "docTitle": "已加工电影安全胶片的贮存技术",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%209049-1988%20已加工电影安全胶片的贮存技术.pdf",
+    "href": "./pdf/GBT_9049-1988_已加工电影安全胶片的贮存技术.pdf",
     "implementationDate": "1988-08-01",
     "keywords": [
       "胶片工艺"
@@ -5957,7 +5957,7 @@
     "docTitle": "70mm电影涂磁发行拷贝上磁性声迹还音电-声频率响应特性",
     "docType": "国家标准",
     "group": "中国电影科学技术研究所",
-    "href": "file:///Users/John/filmstandards/GBT%2014000-1992%2070mm电影涂磁发行拷贝上磁性声迹还音电-声频率响应特性.pdf",
+    "href": "./pdf/GBT_14000-1992_70mm电影涂磁发行拷贝上磁性声迹还音电-声频率响应特性.pdf",
     "implementationDate": "1993-08-01",
     "keywords": [
       "胶片工艺"
