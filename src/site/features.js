@@ -512,6 +512,12 @@ $(document).ready(function() {
         targets:[1],
       },      
       {
+        searchPanes: {
+          header: "发布",
+          dtOpts: {
+            order: [[ 1, "desc" ]]
+            }
+        },
         width: '5%',
         targets:[2],
       },

@@ -382,8 +382,9 @@
             <span class="text-nowrap">{{this}}</span>{{#unless @last}}<br>{{/unless}}
             {{/currentWork}}
           </td>
-          <td class="adoption">
+          <td class="adoption">            
             {{#each adoption}}
+            <span class="font-weight-bold small">采标程度：</span> {{../adoptionDegree}}<br>
               {{#if (getLabel this)}}
                 <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{realId this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
                 {{else}}

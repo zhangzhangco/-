@@ -233,6 +233,28 @@
     "groupType": "TC"
   },
   {
+    "groupDesc": "Acoustics",
+    "groupId": "iso-tc43-tc",
+    "groupLink": "https://www.iso.org/committee/48458.html",
+    "groupName": "ISO TC43",
+    "groupOrg": "ISO",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
+    "groupDesc": "Photography",
+    "groupId": "iso-tc42-tc",
+    "groupLink": "https://www.iso.org/committee/48420.html",
+    "groupName": "ISO TC42",
+    "groupOrg": "ISO",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
     "groupDesc": "Cinematography",
     "groupId": "iso-tc36-tc",
     "groupLink": "https://www.iso.org/committee/48090.html",

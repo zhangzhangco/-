@@ -11,7 +11,7 @@ def find(pattern, path):
                 result.append(os.path.join(root, name))
     return result
 
-docs = "\\main\\data\\documents.json"
+docs = "\\src\\main\\data\\documents.json"
 with open(os.path.abspath('.')+docs, encoding='utf8') as f:
     data = json.load(f)
     r = jsonpath.jsonpath(data, '$[0].docId')
@@ -25,7 +25,7 @@ for key in range(len(data)):
             srcfile = fn[0]
             objfilename = data[key]['docLabel'].replace('/', '')+' '+data[key]['docTitle']+'.pdf'
             objfilename = objfilename.replace(' ', '_')
-            objfile = os.path.abspath('../..')+'\\filmstandards\\'+objfilename
+            objfile = os.path.abspath('../')+'\\filmstandards\\'+objfilename
 
             copyfile(srcfile,objfile)
             data[key]['href']='./pdf/'+objfilename

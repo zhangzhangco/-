@@ -13,7 +13,6 @@
                     "docLabel",
                     "docTitle",
                     "docType",
-                    "publisher",
                     "status"
                 ],
                 "additionalProperties": true,
