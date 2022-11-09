@@ -60,6 +60,15 @@
     "groupType": "TC"
   },
   {
+    "groupId": "中华人民共和国住房和城乡建设部",
+    "groupName": "中华人民共和国住房和城乡建设部",
+    "groupOrg": "中华人民共和国住房和城乡建设部",
+    "groupStatus": {
+      "active": true
+    },
+    "groupType": "TC"
+  },
+  {
     "groupId": "国家卫生健康委员会（TC361）",
     "groupName": "国家卫生健康委员会（TC361）",
     "groupOrg": "国家卫生健康委员会",
