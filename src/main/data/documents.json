@@ -1448,21 +1448,6 @@
     }
   },
   {
-    "docId": "iso15444-1",
-    "docLabel": "ISO/IEC 15444-1",
-    "docTitle": "Information technology — JPEG 2000 image coding system: Core coding system — Part 1",
-    "docType": "国际标准",
-    "href": "https://www.iso.org/standard/66389.html",
-    "keywords": [
-      "JPEG2000"
-    ],
-    "publicationDate": "2015-03-15",
-    "publisher": "ISO/IEC",
-    "status": {
-      "active": true
-    }
-  },
-  {
     "docId": "isocie10527-1991",
     "docLabel": "ISO/CIE 10527:1991",
     "docTitle": "CIE standard colorimetric observers",
@@ -2653,7 +2638,7 @@
   },
   {
     "docId": "iso15444-1-2019",
-    "docLabel": "ISO 15444-1:2019(en)",
+    "docLabel": "ISO 15444-1:2019",
     "docTitle": "Information technology — JPEG 2000 image coding system —Part 1: Core coding system",
     "docType": "国际标准",
     "href": "https://www.iso.org/standard/78321.html",
@@ -4071,7 +4056,7 @@
     "docTitle": "Acoustics-Preferred frequencies for measurements",
     "docType": "国际标准",
     "group": "iso-tc43-tc",
-    "href":"https://www.iso.org/standard/4174.html",
+    "href":"https://www.iso.org/standard/1350.html",
     "publisher": "ISO",
     "status": {
       "active": true
