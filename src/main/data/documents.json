@@ -419,6 +419,7 @@
     "docType": "国际标准",
     "group": "iso-tc36-tc",
     "publisher": "ISO",
+    "href":"https://www.iso.org/standard/20575.html",
     "status": {
       "active": true,
       "stabilized": true,
@@ -3805,6 +3806,7 @@
     "docLabel": "ISO/IEC 21118:2020",
     "docTitle": "Information technology — Office equipment — Information to be included in specification sheets for data projector",
     "docType": "国际标准",
+    "href": "https://www.iso.org/standard/74674.html",
     "keywords": [
       "检测能力"
     ],
@@ -4069,6 +4071,7 @@
     "docTitle": "Acoustics-Preferred frequencies for measurements",
     "docType": "国际标准",
     "group": "iso-tc43-tc",
+    "href":"https://www.iso.org/standard/4174.html",
     "publisher": "ISO",
     "status": {
       "active": true
