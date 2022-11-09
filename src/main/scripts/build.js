@@ -22,7 +22,8 @@ const BUILD_PATH = "build";
 const argv = require('yargs').argv;
 const { readFile, writeFile } = require('fs').promises;
 const { json2csvAsync } = require('json-2-csv');
-const { mkdir } = require('fs');
+const { cp, mkdir,mkdirSync, existsSync,readFileSync,writeFileSync, cpSync} = require('fs');
+const {exists} = require('fs');
 
 /* list the available registries type (lower case), id (single, for links), titles (Upper Case), and schema builds */
 
@@ -549,7 +550,7 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
   /* copy in static resources */
   
   await Promise.all((await fs.readdir(SITE_PATH)).map(    
-    f => fs.copyFile(path.join(SITE_PATH, f), path.join(BUILD_PATH, f))
+    f => cpSync(path.join(SITE_PATH, f), path.join(BUILD_PATH, f), {recursive: true})
   ))
   
   
