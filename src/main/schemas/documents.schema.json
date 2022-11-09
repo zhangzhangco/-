@@ -51,6 +51,16 @@
                     "docTitle": {
                         "type": "string"
                     },
+                    "adoptionDegree": {
+                        "type":"string",
+                        "enum": [
+                            "等同采用（IDT）",
+                            "修改采用（MOD）",                            
+                            "等效采用（EQV）",                            
+                            "非等效采用（NEQ）",
+                            "参考采用（REF）"
+                        ]
+                    },
                     "docType": {
                         "type": "string",
                         "enum": [

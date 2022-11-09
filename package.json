@@ -14,11 +14,11 @@
   "author": "Zhang Xin",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "ajv": "^6.12.6",
-    "handlebars": "^4.7.7"
+    "ajv": "^6.12.6"
   },
   "dependencies": {
     "bootstrap-icons": "^1.9.1",
+    "handlebars": "^4.7.7",
     "is-fullwidth-code-point": "^4.0.0",
     "json-2-csv": "^3.17.1",
     "json-stable-stringify": "^1.0.1",

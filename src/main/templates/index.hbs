@@ -323,7 +323,7 @@
                           {{#if assignedGroup}}
                           {{#with (groupIdLookup ../../../dataGroups assignedGroup)}}
                           <br>
-                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{groupName}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
+                          <span class="font-weight-bold small">所属组织： </span><a href="groups/{{../../../../htmlLink}}?search.search={{groupId}}">{{#if parentgroupId}}{{#with (groupIdLookup ../../../../dataGroups parentgroupId)}}{{/with}} {{/if}}{{groupName}}{{#if groupDesc}} {{groupDesc}}{{/if}}</a>
                           {{/with}}
                           {{/if}}
                           {{#if reviewDate}}
@@ -382,9 +382,9 @@
             <span class="text-nowrap">{{this}}</span>{{#unless @last}}<br>{{/unless}}
             {{/currentWork}}
           </td>
-          <td class="adoption">            
-            {{#each adoption}}
-            <span class="font-weight-bold small">采标程度：</span> {{../adoptionDegree}}<br>
+          <td class="adoption">
+            {{#if adoptionDegree}}<span class="font-weight-bold small"></span>{{adoptionDegree}}：<br> {{/if}} 
+            {{#each adoption}}                          
               {{#if (getLabel this)}}
                 <span class="small"><a class="{{../../idType}}-link clear-filter" href="#{{realId this}}">{{getLabel this}}</a> [{{getStatus this}}]</span> {{{getstatusButton this "10"}}}
                 {{else}}
