@@ -2019,11 +2019,12 @@
     }
   },
     {
-    "docId": "iso5926-202X",
-    "docLabel": "ISO 5926-202X",
+    "docId": "iso/dis5926",
+    "docLabel": "ISO/DIS 5926",
     "docTitle": "Technical requirements and test methods for digital cinema stereoscopic projection",
     "docType": "国际标准",
-    "group": "iso-tc-36",
+    "href":"https://www.iso.org/standard/81846.html",
+    "group": "iso-tc36-tc",
     "keywords": [
       "立体",
       "测量"

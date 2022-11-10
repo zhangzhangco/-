@@ -1,5 +1,21 @@
 [
   {
+    "assignedGroup": "iso-tc36-tc",
+    "assignedTC": "iso-tc36-tc",
+    "docId": "iso/dis5926",
+    "docType": "国际标准",
+    "projApproved": true,
+    "projApprovedDate": "2020-12-23",
+    "projectId": "iso-5926-2020",
+    "projectMilestone": [
+      {
+        "milestoneAct": "送审稿 (90%)"
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "编制"
+  },
+  {
     "assignedGroup": "国家电影局",
     "assignedTC": "国家电影局",
     "docAffected": [
