@@ -418,8 +418,8 @@
     "docTitle": "Cinematography — Camera usage of 35 mm motion-picture film — Specifications",
     "docType": "国际标准",
     "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/20575.html",
     "publisher": "ISO",
-    "href":"https://www.iso.org/standard/20575.html",
     "status": {
       "active": true,
       "stabilized": true,
@@ -2018,13 +2018,13 @@
       "publicCd": true
     }
   },
-    {
+  {
     "docId": "iso/dis5926",
     "docLabel": "ISO/DIS 5926",
     "docTitle": "Technical requirements and test methods for digital cinema stereoscopic projection",
     "docType": "国际标准",
-    "href":"https://www.iso.org/standard/81846.html",
     "group": "iso-tc36-tc",
+    "href": "https://www.iso.org/standard/81846.html",
     "keywords": [
       "立体",
       "测量"
@@ -4073,7 +4073,7 @@
     "docTitle": "Acoustics-Preferred frequencies for measurements",
     "docType": "国际标准",
     "group": "iso-tc43-tc",
-    "href":"https://www.iso.org/standard/1350.html",
+    "href": "https://www.iso.org/standard/1350.html",
     "publisher": "ISO",
     "status": {
       "active": true
