@@ -47,7 +47,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso4241-2019"
+      ]
     }
   },
   {
@@ -175,7 +178,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso2906-2002"
+      ]
     }
   },
   {
@@ -224,7 +230,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso2907-2002"
+      ]
     }
   },
   {
@@ -582,7 +591,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso2910-2018"
+      ]
     }
   },
   {
@@ -631,7 +643,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso8567-2002"
+      ]
     }
   },
   {
@@ -751,7 +766,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso1223-2003"
+      ]
     }
   },
   {
@@ -832,7 +850,9 @@
     "status": {
       "active": false,
       "superseded": true,
-      "withdrawn": true
+      "supersededBy": [
+        "iso5768-1998"
+      ]
     }
   },
   {
@@ -1068,7 +1088,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso2969-2015"
+      ]
     }
   },
   {
@@ -1117,7 +1140,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso7343-1993"
+      ]
     }
   },
   {
@@ -1281,7 +1307,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso12612-2016"
+      ]
     }
   },
   {
@@ -1305,6 +1334,7 @@
       "国家电影事业发展专项资金管理委员会办公室"
     ],
     "publicationDate": "2019-05-31",
+    "publisher": "国家电影局",
     "status": {
       "active": true
     }
@@ -2236,7 +2266,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso26429-8-2009"
+      ]
     }
   },
   {
@@ -2287,7 +2320,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso26429-9-2009"
+      ]
     }
   },
   {
@@ -2341,7 +2377,10 @@
     "publisher": "ISO",
     "status": {
       "active": false,
-      "superseded": true
+      "superseded": true,
+      "supersededBy": [
+        "iso26429-10-2009"
+      ]
     }
   },
   {
