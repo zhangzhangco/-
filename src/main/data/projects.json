@@ -572,7 +572,10 @@
     "projectId": "dyt-XXX-XXXX-dev-08",
     "projectMilestone": [
       {
-        "milestoneAct": "项目启动 (5%)"
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中国传媒大学"
+        ]
       }
     ],
     "projectStatus": "进行",
@@ -588,7 +591,10 @@
     "projectId": "dyt-XXX-XXXX-dev-09",
     "projectMilestone": [
       {
-        "milestoneAct": "项目启动 (5%)"
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中国传媒大学"
+        ]
       }
     ],
     "projectStatus": "进行",
@@ -604,7 +610,10 @@
     "projectId": "dyt-XXX-XXXX-dev-10",
     "projectMilestone": [
       {
-        "milestoneAct": "项目启动 (5%)"
+        "milestoneAct": "项目启动 (5%)",
+        "participationUnits": [
+          "中国传媒大学"
+        ]
       }
     ],
     "projectStatus": "进行",
