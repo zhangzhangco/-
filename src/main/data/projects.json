@@ -9,7 +9,10 @@
     "projectId": "iso-5926-2020",
     "projectMilestone": [
       {
-        "milestoneAct": "送审稿 (90%)"
+        "milestoneAct": "送审稿 (90%)",
+        "participationUnits": [
+          "中国电影科学技术研究所"
+        ]
       }
     ],
     "projectStatus": "进行",
