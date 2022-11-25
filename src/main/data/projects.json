@@ -699,5 +699,52 @@
     "projectStatus": "进行",
     "workNotes": "同时在CSMPTE立项。",
     "workType": "编制"
+  },
+  {
+    "assignedGroup": "中华人民共和国住房和城乡建设部",
+    "assignedTC": "国家电影局",
+    "docAffected": [
+      "jgj-58-2008"
+    ],
+    "docTitle": "中华人民共和国住房和城乡建设部",
+    "docType": "行业标准",
+    "leadingunit": "中广电广播电影电视设计研究院",
+    "projApproved": true,
+    "projApprovedDate": "2013-11-22",
+    "projectId": "jbj-XXX-XXXX-dev-01",
+    "projectMilestone": [
+      {
+        "authors": [
+          "刘世强",
+          "吴纯举",
+          "张伟",
+          "邱正选",
+          "陈江",
+          "林民杰",
+          "胡海兴",
+          "杨小寒",
+          "阚强",
+          "张明照",
+          "黄义成",
+          "陈钧",
+          "王红旗",
+          "金鹏",
+          "王振颖",
+          "钟铁军",
+          "秦东"
+        ],
+        "milestoneAct": "送审稿 (90%)",
+        "participationUnits": [
+          "中广电广播电影电视设计研究院",
+          "中国电影科学技术研究所",
+          "中央宣传部电影技术质量检测所",
+          "中国电影器材有限责任公司",
+          "南京中广华夏科技有限公司",
+          "应急管理部天津消防研究所"
+        ]
+      }
+    ],
+    "projectStatus": "进行",
+    "workType": "修订"
   }
 ]
