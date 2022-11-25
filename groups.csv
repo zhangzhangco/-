@@ -1,6 +1,7 @@
 groupId,groupName,groupOrg,groupStatus.active,groupStatus.assignedGroup,groupType,groupLink,parentgroupId,groupDesc,groupRepo,groupStatus.pending,groupSummary
 国家机械工业局,国家机械工业局,国家机械工业局,false,"[""中国机械工业联合会""]",TC,undefined,undefined,undefined,undefined,undefined,undefined
 中国电子技术标准化研究所,中国电子技术标准化研究所,信息产业部,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
+全国声学标准化技术委员会建筑声学分技术委员会（TC17/SC3）,全国声学标准化技术委员会建筑声学分技术委员会（TC17/SC3）,中国科学院,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 全国感光材料标准化技术委员会（TC102）,全国感光材料标准化技术委员会（TC102）,中国石油和化学工业联合会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 全国信息技术标准化技术委员会（TC28）,全国信息技术标准化技术委员会（TC28）,国家标准化管理委员会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
 全国电器附件标准化技术委员会（TC67）,全国电器附件标准化技术委员会（TC67）,中国电器工业协会,true,undefined,TC,undefined,undefined,undefined,undefined,undefined,undefined
