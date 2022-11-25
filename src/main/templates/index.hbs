@@ -221,7 +221,7 @@
                   </div>
                   {{#if docDependancy}}
                   <div class="p-2">
-                    <span class="small"><a href="dependancies/index.html#{{docId}}">View Document Dependancies</a></span>
+                    <span class="small"><a href="dependancies/index.html#{{docId}}">查看文件引用关系</a></span>
                   </div>
                   {{/if}}
                   {{#if workInfo}}
@@ -246,7 +246,7 @@
                         <div class="p-2{{#unless @last}} border-bottom{{/unless}}"> 
                           {{#if projectId}}
                           {{#with (projectIdLookup ../../../dataProjects projectId)}}
-                          <span class="font-weight-bold small">工作类型： </span><a class="project-link clear-filter" href="projects/{{../../../../htmlLink}}?search.search={{projectId}}">{{workType}}</a> {{#if projApproved}}<span class="label badge badge-success float-right">Project Approved</span>{{/if}}
+                          <span class="font-weight-bold small">工作类型： </span><a class="project-link clear-filter" href="projects/{{../../../../htmlLink}}?search.search={{projectId}}">{{workType}}</a> {{#if projApproved}}<span class="label badge badge-success float-right">项目被批准</span>{{/if}}
                           {{#if projectStatus}}
                           <br>
                           <span class="font-weight-bold small">工作状态： </span>

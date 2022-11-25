@@ -44,7 +44,7 @@ const registries = [
     "templateType": "documents",
     "templateName": "dependancies",
     "idType": "document",
-    "listTitle": "Document Dependancies",
+    "listTitle": "文件引用关系",
     "subRegistry": [
       "documents",
       "groups",
@@ -512,14 +512,6 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
   hb.registerHelper("getLabel", function(docId) {
     docId = realId(docId);
     return (docLabels[docId]);
-  });
-
-  const docTitles = {}
-  registryDocument.forEach(item => { docTitles[item.docId] = (item.docTitle)} );
-
-  hb.registerHelper("getTitle", function(docId) {
-    //docId = realId(docId);
-    return docTitles[docId];
   });
 
   const docTitles = {}
