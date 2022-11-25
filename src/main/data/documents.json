@@ -1469,7 +1469,6 @@
     "docTitle": "音频、视频及类似电子设备安全要求",
     "docType": "国家标准",
     "group": "工业和信息化部",
-    "href": "javascript:;",
     "implementationDate": "2012-11-01",
     "publicationDate": "2011-12-30",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
@@ -1722,7 +1721,6 @@
     "docTitle": "声学 建筑和建筑构件隔声测量 第4部分：房间之间空气声隔声的现场测量",
     "docType": "国家标准",
     "group": "全国声学标准化技术委员会（TC 17）",
-    "href": "javascript:;",
     "implementationDate": "2006-04-01",
     "leadingunit": "东南大学",
     "publicationDate": "2005-09-09",
@@ -1736,7 +1734,6 @@
     "docLabel": "GB/T 50121—2005",
     "docTitle": "建筑隔声评价标准",
     "docType": "国家标准",
-    "href": "javascript:;",
     "implementationDate": "2005-10-01",
     "publicationDate": "2005-07-15",
     "publisher": "中华人民共和国建设部/中华人民共和国国家质量监督检验检疫总局",
@@ -1750,7 +1747,6 @@
     "docTitle": "电声学 声级计 第1部分：规范",
     "docType": "国家标准",
     "group": "全国电声学标准化技术委员会（TC 23）",
-    "href": "javascript:;",
     "implementationDate": "2011-04-01",
     "publicationDate": "2010-09-02",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
@@ -1764,7 +1760,6 @@
     "docTitle": "电声学 倍频程和分数倍频程滤波器",
     "docType": "国家标准",
     "group": "全国电声学标准化技术委员会（TC 23）",
-    "href": "javascript:;",
     "implementationDate": "2011-05-01",
     "publicationDate": "2010-12-01",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
@@ -1778,7 +1773,6 @@
     "docTitle": "电声学 声校准器",
     "docType": "国家标准",
     "group": "全国电声学标准化技术委员会（TC 23）",
-    "href": "javascript:;",
     "implementationDate": "2011-04-01",
     "publicationDate": "2010-09-02",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
@@ -1791,7 +1785,6 @@
     "docLabel": "GB/T 50076—2013",
     "docTitle": "室内混响时间测量规范",
     "docType": "国家标准",
-    "href": "javascript:;",
     "implementationDate": "2014-03-01",
     "publicationDate": "2013-08-08",
     "publisher": "中华人民共和国住房和城乡建设部/中华人民共和国国家质量监督检验检疫总局",
@@ -1902,7 +1895,6 @@
     "docTitle": "电声学 测量电容传声器通用规范",
     "docType": "行业标准",
     "group": "全国电声学标准化技术委员会（TC 23）",
-    "href": "javascript:;",
     "implementationDate": "2013-12-01",
     "publicationDate": "2013-10-17",
     "publisher": "中华人民共和国工业和信息化部",
@@ -2561,7 +2553,6 @@
     "docTitle": "塑料 拉伸性能的测定 第一部分：总则",
     "docType": "国家标准",
     "group": "全国塑料标准化技术委员会（TC15）",
-    "href": "javascript:;",
     "implementationDate": "2007-01-01",
     "publicationDate": "2006-08-24",
     "publisher": "国家市场监督管理总局/中国国家标准化管理委员会",
@@ -2577,7 +2568,6 @@
     "docTitle": "塑料 拉伸性能的测定 第三部分：薄膜和薄片的试验条件",
     "docType": "国家标准",
     "group": "全国电声学标准化技术委员会（TC 23）",
-    "href": "javascript:;",
     "implementationDate": "2007-02-01",
     "publicationDate": "2006-09-01",
     "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
@@ -3573,10 +3563,10 @@
   {
     "docId": "gyt-276-2013-2015",
     "docLabel": "GY/T 276-2013-2015",
-    "docTitle": "GY/T 276-2013《电影院票务管理系统技术要求和测量方法》第1号修改单",
+    "docTitle": "《电影院票务管理系统技术要求和测量方法》第1号修改单",
     "docType": "行业标准",
+    "href": "./pdf/GYT_276-2013-2015_《电影院票务管理系统技术要求和测量方法》第1号修改单.pdf",
     "group": "全国广播电影电视标准化技术委员会（SAC/TC239/SC4）",
-    "href": "javascript:;",
     "implementationDate": "2015-08-03",
     "keywords": [
       "影院信息化",
@@ -3619,7 +3609,6 @@
     "docTitle": "声音素材交换Hi8格式的技术规范",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
-    "href": "javascript:;",
     "implementationDate": "2006-05-01",
     "leadingunit": "中国电影集团公司",
     "participationUnits": [
@@ -5156,11 +5145,11 @@
     "group": "秦皇岛视听机械研究所",
     "publisher": "国家发展和改革委员会",
     "status": {
-      "withdrawn":true,
-      "superseded":true,
-      "supersededBy":[
+      "superseded": true,
+      "supersededBy": [
         "gbt-32200-2015"
-      ]
+      ],
+      "withdrawn": true
     }
   },
   {
