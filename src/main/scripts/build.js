@@ -40,6 +40,18 @@ const registries = [
     ]
   },
   {
+    "listType": "documents",
+    "templateType": "documents",
+    "templateName": "dependancies",
+    "idType": "document",
+    "listTitle": "Document Dependancies",
+    "subRegistry": [
+      "documents",
+      "groups",
+      "projects"
+    ]
+  },
+  {
     "listType": "projects",
     "templateType": "projects",
     "templateName": "projects",
@@ -66,7 +78,7 @@ const registries = [
 /* load and build the templates */
 
 async function buildRegistry ({ listType, templateType, templateName, idType, listTitle, subRegistry }) {
-  console.log(`Building ${templateType} started`)
+  console.log(`Building ${templateName} started`)
 
   var DATA_PATH = path.join(REGISTRIES_REPO_PATH, "data/" + listType + ".json");
   var DATA_SCHEMA_PATH = path.join(REGISTRIES_REPO_PATH, "schemas/" + listType + ".schema.json");
@@ -242,6 +254,169 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
     }
   }
 
+  /* load all references per doc */
+
+  const docReferences = []
+
+  for (let i in registryDocument) {
+
+    let references = registryDocument[i]["references"];
+    if (references) {
+
+      let docId = registryDocument[i].docId
+      let refs = []
+      let normRefs = references.normative
+      let bibRefs = references.bibliographic
+
+      if (normRefs) {
+        normRefs.sort();
+        let norm = normRefs.values();
+        for (let n of norm) {
+          refs.push(n);
+        }
+      }
+
+      if (bibRefs) {
+        bibRefs.sort();
+        let bib = bibRefs.values();
+        for (let b of bib) {
+          refs.push(b);
+        }
+      }
+      docReferences[docId] = refs
+    }   
+  }
+
+  /* load referenced by docs */
+
+  for (let i in registryDocument) {
+
+    let docId = registryDocument[i].docId
+
+    function findReferenceBy(obj = docReferences, doc = docId) {
+      
+      var referencedBy = []
+
+      Object.keys(obj).forEach((key) => {
+        if (
+          typeof obj[key] === 'object' &&
+          obj[key] !== null &&
+          obj[key].map((k) => k).includes(doc)
+        ) {
+          findReferenceBy(obj[key])
+          referencedBy.push(key)
+        }
+      })
+
+      if (!referencedBy.length) {
+        return
+      }
+      registryDocument[i].referencedBy = referencedBy;
+      referencedBy.sort();
+      return referencedBy; 
+
+    };
+
+    findReferenceBy();
+  }
+
+  /* load reference tree */
+
+  const referenceTree = []
+
+  for (let i in docReferences) {
+
+    let refs = docReferences[i]
+    let allRefs = []
+
+    function getAllDocs() {
+
+      for (let docRefs in refs) {
+
+        let docId = refs[docRefs]
+
+        if (allRefs.includes(docId) !== true) {
+          allRefs.push(docId)
+        } 
+
+        let nestedDocs = []
+        let nestLevel = 1
+
+        function docLookup() {
+        
+          if (Object.keys(docReferences).includes(docId) === true)  {
+
+            let docs = docReferences[docId]
+            let arrayLength = docs.length
+
+            for (var d = 0; d < arrayLength; d++) {
+
+              nestedDocs.push(docs[d])
+
+              if (allRefs.includes(docs[d]) !== true) {
+                allRefs.push(docs[d])              
+              } 
+
+            }
+
+          } 
+
+          if (nestedDocs.length) {
+            nestLevel++
+            while (nestLevel < 4) {
+              for (let nD in nestedDocs) {
+                docId = nestedDocs[nD]
+                docLookup();
+              }
+            }
+          }
+
+        }
+        docLookup();
+      }
+
+    }
+
+    getAllDocs();   
+    allRefs.sort();
+    referenceTree[i] = allRefs
+
+  }
+
+  for (let i in registryDocument) {
+
+    let docId = registryDocument[i].docId
+    if (Object.keys(referenceTree).includes(docId) === true) {
+      registryDocument[i].referenceTree = referenceTree[docId]
+    }
+
+  }
+
+  /* check if referenced by or reference tree exist (for rendering on page) */ 
+
+  let docDependancy
+
+  for (let i in registryDocument) {
+    
+    let depCheck = true
+    let depPresent
+  
+    if (registryDocument[i].referencedBy && registryDocument[i].referenceTree) {
+      docDependancy = true
+    }
+    else if (registryDocument[i].referencedBy) {
+      docDependancy = true
+    }
+    else if (registryDocument[i].referenceTree) {
+      docDependancy = true
+    }
+    else {
+      docDependancy = false
+    } 
+
+    registryDocument[i].docDependancy = docDependancy
+  }
+
   /* load the doc Current Statuses and Labels */
 
   for (let i in registryDocument) {
@@ -344,6 +519,13 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
 
   hb.registerHelper("getTitle", function(docId) {
     //docId = realId(docId);
+    return docTitles[docId];
+  });
+
+  const docTitles = {}
+  registryDocument.forEach(item => { docTitles[item.docId] = (item.docTitle)} );
+
+  hb.registerHelper("getTitle", function(docId) {
     return docTitles[docId];
   });
 
@@ -582,7 +764,7 @@ async function buildRegistry ({ listType, templateType, templateName, idType, li
     await writeCSV(outputFileName, csv);
   })();
 
-  console.log(`Build of ${templateType} completed`)
+  console.log(`Build of ${templateName} completed`)
 };
 
 module.exports = {

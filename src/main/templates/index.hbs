@@ -219,6 +219,11 @@
                     <br>
                     {{/if}}
                   </div>
+                  {{#if docDependancy}}
+                  <div class="p-2">
+                    <span class="small"><a href="dependancies/index.html#{{docId}}">View Document Dependancies</a></span>
+                  </div>
+                  {{/if}}
                   {{#if workInfo}}
                     <div class="mt-2 detaillink d-flex row border-top border-bottom justify-content-end">
                       <div class="col">
