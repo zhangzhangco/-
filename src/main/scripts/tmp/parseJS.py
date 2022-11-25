@@ -20,7 +20,7 @@ with open(os.path.abspath('.')+docs, encoding='utf8') as f:
 for key in range(len(data)):
     if jsonpath.jsonpath(data, "$["+str(key)+"].href"):
         file = data[key]['docTitle']
-        fn = find('*'+file+'*.pdf', '/Users/John/Library/Containers/com.kingsoft.wpsoffice.mac/Data/Library/Application Support/Kingsoft/WPS Cloud Files/userdata/qing/filecache/259626762/标准研究室/标准处文件共享/文献资料/标准电子版归档')
+        fn = find('*'+file+'*.pdf', '/Users/John/Library/Containers/com.kingsoft.wpsoffice.mac/Data/Library/Application Support/Kingsoft/WPS Cloud Files/userdata/qing/filecache/John的云文档/标准研究室/标准处文件共享/文献资料/标准电子版归档')
         #fn = find('*'+file+'*.pdf', 'I:\\WPSDrive\\259626762\\WPS网盘\\标准研究室\\标准处文件共享\\文献资料\\标准电子版归档')
         if len(fn) > 0:
             srcfile = fn[0]
