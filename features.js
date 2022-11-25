@@ -185,6 +185,11 @@ $(document).ready(function() {
           var url= document.location.href;
           window.history.pushState({}, "", url.split("?")[0]);
         }
+      },      
+      {
+        extend: 'excelHtml5',
+        autoFilter: true,
+        sheetName: 'Exported data'
       }
     ],
     dom: 
@@ -308,6 +313,11 @@ $(document).ready(function() {
           var url= document.location.href;
           window.history.pushState({}, "", url.split("?")[0]);
         }
+      },      
+      {
+        extend: 'excelHtml5',
+        autoFilter: true,
+        sheetName: 'Exported data'
       }
     ],
     dom: 
