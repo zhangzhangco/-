@@ -5156,7 +5156,11 @@
     "group": "秦皇岛视听机械研究所",
     "publisher": "国家发展和改革委员会",
     "status": {
-      "withdrawn": true
+      "withdrawn":true,
+      "superseded":true,
+      "supersededBy":[
+        "gbt-32200-2015"
+      ]
     }
   },
   {
