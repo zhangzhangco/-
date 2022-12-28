@@ -428,7 +428,7 @@
           "王惠",
           "解沛"
         ],
-        "milestoneAct": "工作组讨论稿 (30%)",
+        "milestoneAct": "征求意见稿 (50%)",
         "participationUnits": [
           "中央宣传部电影技术质量检测所"
         ]
@@ -440,7 +440,7 @@
   {
     "assignedGroup": "中国电影电视技术学会",
     "assignedTC": "中国电影电视技术学会",
-    "docTitle": "数字电影专业服务认证通用要求",
+    "docTitle": "数字电影系统研发服务认证要求",
     "docType": "团体标准",
     "leadingunit": "中央宣传部电影技术质量检测所",
     "projApproved": true,
@@ -450,26 +450,20 @@
       {
         "authors": [
           "张春涛",
+          "王晋芳",
           "张伟",
           "徐涛",
-          "郭良鹏",
-          "李娜",
-          "曾真",
-          "李维",
-          "常慧琴",
-          "田由甲",
-          "申立珊",
-          "李虹珊",
-          "何晓",
-          "方捷新"
+          "方捷新",
+          "李娜"
         ],
-        "milestoneAct": "工作组讨论稿 (30%)",
+        "milestoneAct": "征求意见稿 (50%)",
         "participationUnits": [
           "中央宣传部电影技术质量检测所"
         ]
       }
     ],
     "projectStatus": "进行",
+    "workNotes": "立项名称《数字电影专业服务认证通用要求》",
     "workType": "编制"
   },
   {
