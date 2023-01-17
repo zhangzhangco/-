@@ -528,39 +528,6 @@
     "workType": "编制"
   },
   {
-    "assignedGroup": "中国科学技术协会",
-    "assignedTC": "中国科协科普部",
-    "docTitle": "科普场馆4D影院设备设施配置和放映技术要求",
-    "docType": "团体标准",
-    "leadingunit": "中国自然科学博物馆学会",
-    "projApproved": true,
-    "projApprovedDate": "2022-06-01",
-    "projectId": "tcas-XXX-XXXX-dev-01",
-    "projectMilestone": [
-      {
-        "authors": [
-          "隗京花",
-          "李明涛",
-          "高峰",
-          "王丽",
-          "曹建华",
-          "刘硕",
-          "张辉",
-          "贾硕",
-          "刘思佳",
-          "高闯"
-        ],
-        "milestoneAct": "工作组标准草稿 (15%)",
-        "participationUnits": [
-          "中国自然科学博物馆学会",
-          "中国电影科学技术研究所"
-        ]
-      }
-    ],
-    "projectStatus": "进行",
-    "workType": "编制"
-  },
-  {
     "assignedGroup": "国家电影局",
     "assignedTC": "国家电影局",
     "docAffected": [
