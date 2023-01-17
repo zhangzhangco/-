@@ -162,7 +162,7 @@
         ]
       }
     ],
-    "projectStatus": "进行",
+    "projectStatus": "未决",
     "workNotes": "立项时，标准名称为《数字电影网络运营系统接口规范及测量方法》。",
     "workType": "编制"
   },
@@ -224,7 +224,7 @@
         ]
       }
     ],
-    "projectStatus": "进行",
+    "projectStatus": "未决",
     "workNotes": "",
     "workType": "编制"
   },
@@ -590,6 +590,9 @@
     "projectId": "dyt-XXX-XXXX-dev-08",
     "projectMilestone": [
       {
+        "authors": [
+          "王永滨"
+        ],
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
           "中国传媒大学",
@@ -611,6 +614,9 @@
     "projectId": "dyt-XXX-XXXX-dev-09",
     "projectMilestone": [
       {
+        "authors": [
+          "王永滨"
+        ],
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
           "中国传媒大学",
@@ -632,6 +638,9 @@
     "projectId": "dyt-XXX-XXXX-dev-10",
     "projectMilestone": [
       {
+        "authors": [
+          "曹轶臻"
+        ],
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
           "中国传媒大学",
