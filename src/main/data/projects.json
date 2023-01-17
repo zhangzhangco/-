@@ -250,11 +250,12 @@
         "participationUnits": [
           "中国电影科学技术研究所",
           "中央宣传部电影技术质量检测所",
+          "国家电影事业发展专项资金管理委员会办公室",
           "中央宣传部电影数字节目管理中心"
         ]
       }
     ],
-    "projectStatus": "取消",
+    "projectStatus": "进行",
     "workNotes": "2022年8月12日，国家电影专资办会同中国电影科学技术研究所（电影技术质量检测所）等有关单位对《电影院计算机票务管理系统技术要求和测量方法》（GY/T 276-2013）进行了修订，形成了《电影院票务管理系统技术要求》。",
     "workType": "修订"
   },
@@ -591,7 +592,8 @@
       {
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
-          "中国传媒大学"
+          "中国传媒大学",
+          "中国电影科学技术研究所 (中央宣传部电影技术质量检测所)"
         ]
       }
     ],
@@ -611,7 +613,8 @@
       {
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
-          "中国传媒大学"
+          "中国传媒大学",
+          "中国电影科学技术研究所 (中央宣传部电影技术质量检测所)"
         ]
       }
     ],
@@ -631,7 +634,8 @@
       {
         "milestoneAct": "项目启动 (5%)",
         "participationUnits": [
-          "中国传媒大学"
+          "中国传媒大学",
+          "中国电影科学技术研究所 (中央宣传部电影技术质量检测所)"
         ]
       }
     ],
@@ -645,20 +649,20 @@
     "docType": "行业标准",
     "leadingunit": "中国电影科学技术研究所",
     "projApproved": true,
-    "projApprovedDate": "2021-05-01",
+    "projApprovedDate": "2022-04-05",
     "projectId": "dyt-XXX-XXXX-dev-11",
     "projectMilestone": [
       {
         "authors": [
-          "王萃",
-          "李虹珊",
-          "刘达",
-          "徐涛",
-          "张雪"
+          "王萃"
         ],
         "milestoneAct": "工作组讨论稿 (30%)",
         "participationUnits": [
-          "中国电影科学技术研究所"
+          "中国电影科学技术研究所",
+          "北京电影学院",
+          "北京诺亦腾科技有限公司",
+          "凌云光技术股份有限公司",
+          "北京度量科技有限公司"
         ]
       }
     ],
@@ -673,20 +677,16 @@
     "docType": "行业标准",
     "leadingunit": "中央宣传部电影技术质量检测所",
     "projApproved": true,
-    "projApprovedDate": "2021-05-01",
+    "projApprovedDate": "2022-04-05",
     "projectId": "dyt-XXX-XXXX-dev-12",
     "projectMilestone": [
       {
         "authors": [
-          "李娜",
-          "董强国",
-          "刘知一",
-          "高五峰",
-          "高峰 (传输部)"
+          "刘知一"
         ],
         "milestoneAct": "工作组讨论稿 (30%)",
         "participationUnits": [
-          "中央宣传部电影技术质量检测所"
+          "中国电影科学技术研究所（中央宣传部电影技术质量检测所）"
         ]
       }
     ],
