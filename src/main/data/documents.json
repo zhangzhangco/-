@@ -3419,6 +3419,10 @@
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
     "href": "./pdf/GYT_191-2003_已加工电影安全胶片的贮存技术.pdf",
+    "keywords": [
+      "胶片工艺",
+      "存档"
+    ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
       "中国电影科学技术研究所"
@@ -3518,7 +3522,7 @@
     "publicationDate": "2013-12-31",
     "publisher": "国家广播电影电视总局",
     "status": {
-      "active": false,
+      "active": true,
       "amended": true,
       "amendedBy": [
         "gyt-276-2013-2015"
@@ -3580,6 +3584,9 @@
     "group": "中国电影科学技术研究所",
     "href": "./pdf/GYT_213-2006_声音素材交换-Hi8格式的技术规范.pdf",
     "implementationDate": "2006-05-01",
+    "keywords": [
+      "电视"
+    ],
     "leadingunit": "中国电影集团公司",
     "participationUnits": [
       "中国电影集团公司",
@@ -6397,7 +6404,8 @@
     "href": "./pdf/GBT_9049-1988_已加工电影安全胶片的贮存技术.pdf",
     "implementationDate": "1988-08-01",
     "keywords": [
-      "胶片工艺"
+      "胶片工艺",
+      "存档"
     ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
