@@ -39,21 +39,6 @@
     }
   },
   {
-    "docId": "iso4241-1987",
-    "docLabel": "ISO 4241:1987",
-    "docTitle": "Cinematography — Leaders and run-out trailers for 35 mm and 16 mm release prints — Specifications",
-    "docType": "国际标准",
-    "group": "iso-tc36-tc",
-    "publisher": "ISO",
-    "status": {
-      "active": false,
-      "superseded": true,
-      "supersededBy": [
-        "iso4241-2019"
-      ]
-    }
-  },
-  {
     "adoption": [
       "iso4238-1976"
     ],
@@ -818,7 +803,7 @@
     "docType": "国家标准",
     "group": "国家电影局",
     "href": "./pdf/GBT_5874-1986_16mm_W型电影摄影机片窗所形成的画面位置和尺寸.pdf",
-    "implementationDate": "1986-012-01",
+    "implementationDate": "1986-12-01",
     "keywords": [
       "胶片工艺"
     ],
@@ -1224,7 +1209,7 @@
     "docType": "国家标准",
     "group": "国家电影局",
     "href": "./pdf/GBT_19770-2005_电影_评价电视用电影和幻灯的观看条件_彩色、亮度和尺寸.pdf",
-    "implementationDate": "2005-012-01",
+    "implementationDate": "2005-12-01",
     "keywords": [
       "胶片工艺",
       "电视"
@@ -3033,26 +3018,6 @@
     }
   },
   {
-    "docId": "gbt-5299-2002",
-    "docLabel": "GB/T 5299-2002",
-    "docTitle": "16mm电影发行影片上画面和光学声迹的位置和尺寸",
-    "docType": "国家标准",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局",
-    "status": {
-      "withdrawn": true
-    }
-  },
-  {
-    "docId": "gbt-5300-1994",
-    "docLabel": "GB/T 5300-1994",
-    "docTitle": "70mm，65mm，35mm和16mm电影影片接头的尺寸和位置",
-    "docType": "国家标准",
-    "publisher": "国家质量技术监督局",
-    "status": {
-      "withdrawn": true
-    }
-  },
-  {
     "docId": "gy-39-1987",
     "docLabel": "GY 39-1987",
     "docTitle": "35mm和16mm电影发行拷贝的出厂技术质量要求",
@@ -3435,6 +3400,9 @@
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
     "href": "./pdf/GYT_190-2003_供交换用影片及其磁性声迹素材容器标签的最低限内容.pdf",
+    "keywords": [
+      "胶片工艺"
+    ],
     "leadingunit": "中国电影科学技术研究所",
     "participationUnits": [
       "中国电影科学技术研究所"
@@ -6201,36 +6169,6 @@
     }
   },
   {
-    "adoption": [
-      "iso12222-2000"
-    ],
-    "adoptionDegree": "等同采用（IDT）",
-    "authors": [
-      "汪荣华",
-      "牟秀芳"
-    ],
-    "docId": "gbt-18995-2003",
-    "docLabel": "GB/T 18995-2003",
-    "docTitle": "电影摄影术 在16mm、35mm和65mm电影胶片上由制造厂印制的潜影标识 规范和尺寸",
-    "docType": "国家标准",
-    "group": "全国感光材料标准化技术委员会（TC102）",
-    "href": "./pdf/GBT_18995-2003_电影摄影术_在16mm、35mm和65mm电影胶片上由制造厂印制的潜影标识_规范和尺寸.pdf",
-    "implementationDate": "2003-08-01",
-    "keywords": [
-      "胶片工艺"
-    ],
-    "leadingunit": "中国乐凯胶片集团公司",
-    "participationUnits": [
-      "中国乐凯胶片集团公司",
-      "中国电影科学技术研究所"
-    ],
-    "publicationDate": "2003-03-05",
-    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
-    "status": {
-      "active": true
-    }
-  },
-  {
     "docId": "gbt-7426-1987",
     "docLabel": "GB/T 7426-1987",
     "docTitle": "16mm磁片的录音特性",
@@ -6741,6 +6679,21 @@
     "publisher": "ISO",
     "status": {
       "active": true
+    }
+  },
+  {
+    "docId": "iso4241-1987",
+    "docLabel": "ISO 4241:1987",
+    "docTitle": "Cinematography — Leaders and run-out trailers for 35 mm and 16 mm release prints — Specifications",
+    "docType": "国际标准",
+    "group": "iso-tc36-tc",
+    "publisher": "ISO",
+    "status": {
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "iso4241-2019"
+      ]
     }
   },
   {
@@ -7615,6 +7568,163 @@
     "group": "iso-tc36-tc",
     "href": "https://www.iso.org/standard/52793.html",
     "publisher": "ISO",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "iso6-1993",
+    "docLabel": "ISO 6:1993",
+    "docTitle": "Photography — Black-and-white pictorial still camera negative film/process systems — Determination of ISO speed",
+    "docType": "国际标准",
+    "group": "iso-tc42-tc",
+    "href": "https://www.iso.org/standard/3580.html",
+    "publisher": "ISO",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "authors": [
+      "牟秀芳",
+      "唐志健",
+      "荀希增"
+    ],
+    "docId": "gbt-15958-1995",
+    "docLabel": "GB/T 15958-1995",
+    "docTitle": "黑白电影负片感光度的测定",
+    "docType": "国家标准",
+    "group": "全国感光材料标准化技术委员会（TC102）",
+    "href": "./pdf/GBT_15958-1995_黑白电影负片感光度的测定.pdf",
+    "implementationDate": "1996-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "中国乐凯胶片公司第一胶片厂",
+      "化工部感光材料检测中心"
+    ],
+    "publicationDate": "1995-12-20",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "adoption": [
+      "iso6-1993"
+    ],
+    "adoptionDegree": "等同采用（IDT）",
+    "authors": [
+      "牟秀芳",
+      "唐志健",
+      "荀希增"
+    ],
+    "docId": "gbt-2923-1995",
+    "docLabel": "GB/T 2923-1995",
+    "docTitle": "黑白照相负片／加工组合ISO感光度的测定",
+    "docType": "国家标准",
+    "group": "全国感光材料标准化技术委员会（TC102）",
+    "href": "./pdf/GBT_2923-1995_黑白照相负片／加工组合ISO感光度的测定.pdf",
+    "implementationDate": "1996-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国电影科学技术研究所",
+    "participationUnits": [
+      "中国电影科学技术研究所",
+      "中国乐凯胶片公司第一胶片厂",
+      "化工部感光材料检测中心"
+    ],
+    "publicationDate": "1995-12-20",
+    "publisher": "国家技术监督局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "adoption": [
+      "iso12222-2000"
+    ],
+    "adoptionDegree": "等同采用（IDT）",
+    "authors": [
+      "汪荣华",
+      "牟秀芳"
+    ],
+    "docId": "gbt-18995-2003",
+    "docLabel": "GB/T 18995-2003",
+    "docTitle": "电影摄影术 在16mm、35mm和65mm电影胶片上由制造厂印制的潜影标识 规范和尺寸",
+    "docType": "国家标准",
+    "group": "全国感光材料标准化技术委员会（TC102）",
+    "href": "./pdf/GBT_18995-2003_电影摄影术_在16mm、35mm和65mm电影胶片上由制造厂印制的潜影标识_规范和尺寸.pdf",
+    "implementationDate": "2003-08-01",
+    "keywords": [
+      "胶片工艺"
+    ],
+    "leadingunit": "中国乐凯胶片集团公司",
+    "participationUnits": [
+      "中国乐凯胶片集团公司",
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2003-03-05",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局",
+    "status": {
+      "active": true
+    }
+  },
+  {
+    "docId": "SMPTE.EG5.2003",
+    "docLabel": "SMPTE EG 5:2003",
+    "docNumber": "5",
+    "docTitle": "Projected Image Quality of 70-, 35- and 16-mm Motion-Picture Projection Systems",
+    "docType": "工程指南",
+    "doi": "10.5594/SMPTE.EG5.2003",
+    "group": "smpte-27c-tc",
+    "href": "https://doi.org/10.5594/SMPTE.EG5.2003",
+    "keywords": [
+      "放映",
+      "放映机",
+      "胶片工艺",
+      "测量"
+    ],
+    "publicationDate": "2003-01-01",
+    "publisher": "SMPTE",
+    "status": {
+      "active": true,
+      "stabilized": true
+    }
+  },
+  {
+    "adoption": [
+      "SMPTE.EG5.2003"
+    ],
+    "adoptionDegree": "等同采用（IDT）",
+    "authors": [
+      "俞季村",
+      "邓荣武"
+    ],
+    "docId": "gbt-19896-2005",
+    "docLabel": "GB/T 19896-2005",
+    "docTitle": "70、35和16mm电影放映系统 画面清晰度等级",
+    "docType": "国家标准",
+    "group": "中国机械工业联合会",
+    "href": "./pdf/GBT_19896-2005_70、35和16mm电影放映系统_画面清晰度等级.pdf",
+    "implementationDate": "2006-04-01",
+    "keywords": [
+      "放映",
+      "放映机",
+      "胶片工艺",
+      "测量"
+    ],
+    "leadingunit": "秦皇岛视听机械研究所",
+    "participationUnits": [
+      "秦皇岛视听机械研究所",
+      "中国电影科学技术研究所"
+    ],
+    "publicationDate": "2005-09-09",
+    "publisher": "中华人民共和国国家质量监督检验检疫总局/中国国家标准化管理委员会",
     "status": {
       "active": true
     }
