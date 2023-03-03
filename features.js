@@ -1,6 +1,5 @@
 /* Filter accross all collumns in table */
-
-$(document).ready(function(){
+$(document).ready(function(){  
   $("#search").on("input", function() {
     var value = $(this).val().toLowerCase();
     $("#searchTable tr").filter(function() {
@@ -135,6 +134,10 @@ $(document).ready(function() {
       searchPanes: {
         collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
       }
+    },
+    search: {
+      regex: true,
+      smart: false
     }
   };
 
@@ -219,6 +222,10 @@ $(document).ready(function() {
           collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
         }
       },
+      search: {
+        regex: true,
+        smart: false
+      },
     columnDefs:[
       {
         visible: false,
@@ -274,7 +281,6 @@ $(document).ready(function() {
 /* DataTable options for sort headers and filtering - Documents*/
 
 $(document).ready(function() {
-
   var searchOptions = $.fn.dataTable.ext.deepLink( ['search.search' ] );
 
   var defaultOptions = {
@@ -346,6 +352,10 @@ $(document).ready(function() {
         searchPanes: {
           collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
         }
+      },
+      search: {
+        regex: true,
+        smart: false
       },
     columnDefs:[
       {
@@ -515,8 +525,7 @@ $(document).ready(function() {
     processing: true,
     responsive: true,
     order: [[0, 'asc']],   
-    buttons: [
-     
+    buttons: [     
       {
         text: '清除所有过滤项',
         action: function ( e, dt, node, config ) {
@@ -561,6 +570,10 @@ $(document).ready(function() {
           collapse: {0: '过滤选项', _: '过滤选项 (%d)'}
         }
       },
+      search: {
+        regex: true,
+        smart: false
+      }
   }
 
   var dt = $('#sorttableDep').DataTable( 
