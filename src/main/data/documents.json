@@ -3371,13 +3371,13 @@
     ],
     "publisher": "国家广播电影电视总局",
     "status": {
-      "active": true
+      "unknown": true
     }
   },
   {
     "docId": "gyt-189-2003",
     "docLabel": "GY/T 189-2003",
-    "docTitle": "电影院和鉴定放映室幕干扰光的测量方法和技术要求",
+    "docTitle": "电影院和鉴定放映室放映幕干扰光的测量方法和技术要求",
     "docType": "行业标准",
     "group": "中国电影科学技术研究所",
     "href": "./pdf/GYT_189-2003_电影院和鉴定放映室幕干扰光的测量方法和技术要求.pdf",
@@ -4813,7 +4813,7 @@
     "publicationDate": "2007-05-28",
     "publisher": "国家广播电影电视总局",
     "status": {
-      "active": true
+      "active": false
     }
   },
   {
@@ -4841,7 +4841,7 @@
     "publicationDate": "2007-08-02",
     "publisher": "国家广播电影电视总局",
     "status": {
-      "active": true
+      "active": false
     }
   },
   {
@@ -4868,7 +4868,7 @@
     "publicationDate": "2007-08-03",
     "publisher": "国家广播电影电视总局",
     "status": {
-      "active": true
+      "active": false
     }
   },
   {
@@ -5388,7 +5388,11 @@
       ]
     },
     "status": {
-      "active": true
+      "active": false,
+      "superseded": true,
+      "supersededBy": [
+        "dyt-1-2020"
+      ]
     }
   },
   {
@@ -5652,7 +5656,7 @@
       "球幕",
       "测量"
     ],
-    "leadingunit": "中国电影科学技术研究所",
+    "leadingunit": "中国自然科学博物馆学会",
     "participationUnits": [
       "中国自然科学博物馆学会",
       "中国科学技术馆",
