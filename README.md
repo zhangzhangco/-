@@ -6,7 +6,7 @@
 ## 核心功能
 
 ### 标准文件管理
-- 管理和存储标准文件。
+- 管理和存储标准文件，提供预览前4页内容。
 - 提供一个清晰的文件引用关系视图。
 - 支持标准文件的搜索和检索功能。
 - ![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/5ffc4175-28ee-40dc-87ba-ab6e217b0d74)
