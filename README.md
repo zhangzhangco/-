@@ -9,14 +9,14 @@
 - 管理和存储标准文件。
 - 提供一个清晰的文件引用关系视图。
 - 支持标准文件的搜索和检索功能。
-![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/518acd4e-7ee9-4cd1-be32-31966ba3cdd1)
+- ![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/5ffc4175-28ee-40dc-87ba-ab6e217b0d74)
 ![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/aeb7fc12-2c0e-43f8-b0aa-648ca1279333)
 
 ### 标准化项目跟踪
 - 记录和跟踪标准化项目的进展。
 - 提供项目的历史记录和当前状态。
 - 支持项目相关的搜索和筛选功能。
-![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/d1cff6ae-0336-4a2e-a142-1b7c5ff058d7)
+![image](https://github.com/zhangzhangco/filmstandards-registry-china/assets/5515762/9d099ebc-6d44-44d3-b737-777494403d84)
 
 ### 组织管理
 - 管理参与标准化工作的组织和个人。
